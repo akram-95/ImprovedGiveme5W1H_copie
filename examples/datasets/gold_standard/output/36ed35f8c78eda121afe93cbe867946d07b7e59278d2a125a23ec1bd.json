@@ -1,0 +1,442 @@
+{
+  "filename": "36ed35f8c78eda121afe93cbe867946d07b7e59278d2a125a23ec1bd",
+  "title": "Barack Obama describes first meeting with Donald Trump at White House as 'excellent'",
+  "mimeType": "text/xml",
+  "url": "http://www.standard.co.uk/news/world/barack-obama-describes-first-meeting-with-donald-trump-at-white-house-as-excellent-a3392866.html",
+  "category": "trump and obama",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Barack Obama",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 2,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": "",
+                  "index": 1,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 3,
+                  "word": "President",
+                  "lemma": "President",
+                  "characterOffsetEnd": 12,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "President",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 13,
+                  "word": "Barack",
+                  "lemma": "Barack",
+                  "characterOffsetEnd": 19,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Barack",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 20,
+                  "word": "Obama",
+                  "lemma": "Obama",
+                  "characterOffsetEnd": 25,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Obama",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "US President Barack Obama"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Thursday",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-10"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 268,
+                  "word": "Thursday",
+                  "lemma": "Thursday",
+                  "timex": {
+                    "value": "2016-11-10",
+                    "tid": "t2",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 276,
+                  "originalText": "Thursday",
+                  "normalizedNER": "2016-11-10",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 35,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7961314920079822,
+          "text": "Thursday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-10T00:00:00",
+              "end_date": "2016-11-10T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 177,
+                  "word": "it",
+                  "lemma": "it",
+                  "characterOffsetEnd": 179,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "it",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ]
+          ],
+          "score": 0.5533910533910533,
+          "text": "it",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "excellent",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 95,
+                  "word": "``",
+                  "lemma": "``",
+                  "characterOffsetEnd": 96,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "\"",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "``"
+                }
+              },
+              "``"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 96,
+                  "word": "excellent",
+                  "lemma": "excellent",
+                  "characterOffsetEnd": 105,
+                  "speaker": "2",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "excellent",
+                  "before": "",
+                  "index": 16,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 105,
+                  "word": "''",
+                  "lemma": "''",
+                  "characterOffsetEnd": 106,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "\"",
+                  "before": "",
+                  "index": 17,
+                  "pos": "''"
+                }
+              },
+              "''"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 106,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 107,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 18,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 1.0,
+          "text": "\" excellent \" ."
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "White House",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 2,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": "",
+                  "index": 1,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7,
+          "text": "US",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "148838",
+              "boundingbox": [
+                -14.7608358,
+                71.6048217,
+                -180.0,
+                180.0
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.2361730870995,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+              "osm_type": "relation",
+              "display_name": "United States of America",
+              "lat": "39.7837304",
+              "type": "administrative",
+              "place_id": "177579678",
+              "lon": "-100.4458825",
+              "class": "boundary"
+            }
+          }
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "describes first meeting with Donald Trump at White House as 'excellent'",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 26,
+                  "word": "has",
+                  "lemma": "have",
+                  "characterOffsetEnd": 29,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "has",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "VBZ"
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 30,
+                  "word": "described",
+                  "lemma": "describe",
+                  "characterOffsetEnd": 39,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "described",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 40,
+                  "word": "his",
+                  "lemma": "he",
+                  "characterOffsetEnd": 43,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "his",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "PRP$"
+                }
+              },
+              "PRP$"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 44,
+                  "word": "first",
+                  "lemma": "first",
+                  "before": " ",
+                  "characterOffsetEnd": 49,
+                  "originalText": "first",
+                  "normalizedNER": "1.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "ORDINAL",
+                  "index": 8,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 50,
+                  "word": "meeting",
+                  "lemma": "meeting",
+                  "characterOffsetEnd": 57,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "meeting",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "has described his first meeting"
+        }
+      ]
+    }
+  },
+  "description": "US President Barack Obama has described his first meeting with President-elect Donald Trump as \"excellent\". Mr Trump, who stormed to a shock election victory on Wednesday, said it was a \"great honour\" to meet Mr Obama at the White House during the transition talks on Thursday. The President said he was \"encouraged\" by their \"excellent\" discussion, which lasted for more than an hour.",
+  "text": "US President Barack Obama has described his first meeting with President-elect Donald Trump as \"excellent\". Mr Trump, who stormed to a shock election victory on Wednesday, said it was a \"great honour\" to meet Mr Obama at the White House during the transition talks on Thursday. The President said he was \"encouraged\" by their \"excellent\" discussion, which lasted for more than an hour. He added that they had talked about a \"wide-range\" of issues. First meeting: President Barack Obama and President-elect Donald Trump met at the White House (REUTERS) Mr Trump has previously questioned Mr Obama's US citizenship. During the campaign, Mr Obama called Mr Trump \"uniquely unqualified\". How did America vote? A breakdown by race and gender However, following Hillary Clinton's concession speech, Mr Obama told supporters he was \"rooting for Donald Trump's success\". Speaking after the 90-minute meeting, Mr Obama said: \"My number one priority in the coming two months is to try to facilitate a transition that ensures our President-elect is successful.\" He said they had discussed domestic and foreign policy and he had been \"very encouraged\" by Mr Trump's interest in working with President Obama's team. Mr Trump said he would \"very much look forward\" to dealing with President Obama in future. Thousands of protestors marched on Trump Tower on Wednesday night in protest against the billionaire businessman's victory. Violent clashes broke out between anti-Trump campaigners and police across the US as demos took place outside the capital's US embassy against the Republican politician.",
+  "parsingError": "true",
+  "publisher": "standard",
+  "originalFilename": "standard-3",
+  "date_publish": "2016-11-10 00:00:00",
+  "dId": "36ed35f8c78eda121afe93cbe867946d07b7e59278d2a125a23ec1bd"
+}

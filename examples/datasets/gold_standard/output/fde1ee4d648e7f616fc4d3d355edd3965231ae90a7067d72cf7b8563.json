@@ -1,0 +1,267 @@
+{
+  "filename": "fde1ee4d648e7f616fc4d3d355edd3965231ae90a7067d72cf7b8563",
+  "title": "Taliban bomber rams truck into German consulate in Afghanistan killing two",
+  "mimeType": "text/xml",
+  "url": "https://www.thesun.co.uk/news/2162467/taliban-suicide-bomber-truck-german-consulate-afghanistan-killing-two/amp/",
+  "category": "consulate attack",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Taliban bomber",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who"
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "11pm local time on Thursday",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-10"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "response to coalition air strikes",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why"
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "suicide bomber",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "rams truck",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 28,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 31,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 32,
+                  "word": "horrific",
+                  "lemma": "horrific",
+                  "characterOffsetEnd": 40,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "horrific",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 41,
+                  "word": "assault",
+                  "lemma": "assault",
+                  "characterOffsetEnd": 48,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "assault",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 49,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 51,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 52,
+                  "word": "northern",
+                  "lemma": "northern",
+                  "characterOffsetEnd": 60,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "northern",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 61,
+                  "word": "city",
+                  "lemma": "city",
+                  "characterOffsetEnd": 65,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "city",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 66,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 68,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 69,
+                  "word": "Mazar-e-Sharif",
+                  "lemma": "Mazar-e-Sharif",
+                  "characterOffsetEnd": 83,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "  ",
+                  "originalText": "Mazar-e-Sharif",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 85,
+                  "word": "AT",
+                  "lemma": "at",
+                  "characterOffsetEnd": 87,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "AT",
+                  "before": "  ",
+                  "index": 14,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 88,
+                  "word": "least",
+                  "lemma": "least",
+                  "characterOffsetEnd": 93,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "least",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "JJS"
+                }
+              },
+              "JJS"
+            ]
+          ],
+          "score": 0.768633540372671,
+          "text": "the horrific assault in northern city of Mazar-e-Sharif AT least"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Mazar-e-Sharif",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where"
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "rams truck into German consulate",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "killing two",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "what"
+    }
+  },
+  "description": "",
+  "text": "Dozens more were injured in the horrific assault in northern city of Mazar-e-Sharif  AT least two people have been killed after a suicide bomber crashed a truck loaded with explosives into a German consulate building in Afghanistan. The deadly vehicle exploded in the northern city of Mazar-e-Sharif resulting in more than 80 people being rushed to hospital. Getty Images The German consulate building suffered massive damage as a result of the deadly assault google The suicide attack happened in the northern city of Mazar-e-Sharif A huge blast followed by gunfire was reportedly heard at around 11pm local time on Thursday evening. The Taliban has claimed responsibility for the assault which they say is a response to coalition air strikes earlier this month which killed 30 civilians in Kunduz. The Kunduz incident, which has sparked a Nato investigation, happened when Afghan troops called in air support when surrounded by Taliban soldiers, reports BBC News. MORE GREAT STORIES FROM Germany has nearly 1,000 troops in the war torn country and its consulate in Mazar-e-Sharif is in a walled compound. Nato have confirmed that the building suffered \"massive damage\" after the car loaded with explosives rammed into the concrete wall which surrounds the building. Authorities are investigating whether a second car bomb was involved in the terrifying incident. The Taliban have strengthened recently and threatened to overrun Kunduz last month. In October, the militant group recorded drone footage of the carnage caused by a massive suicide bomb explosion at a police station. The jihadists released the horrifying footage after one of the murderous militants drove a Humvee car bomb into the Helmand Province base earlier this month. The use of video taken by a drone is unusual for the Taliban but more common among the more media-savvy ISIS.",
+  "parsingError": "true",
+  "publisher": "thesun",
+  "originalFilename": "thesun-1",
+  "date_publish": "2016-11-11 01:11:34",
+  "dId": "fde1ee4d648e7f616fc4d3d355edd3965231ae90a7067d72cf7b8563"
+}

@@ -1,0 +1,204 @@
+{
+  "originalFilename": "express-4",
+  "category": "seattle shooting",
+  "publisher": "express",
+  "url": "http://www.express.co.uk/news/world/730721/Five-gunned-Seattle-shot-anti-Donald-Trump-US-President-Washington-victory-Republican",
+  "mimeType": "text/xml",
+  "filename": "dccb7b8de2a86a406c6a42ad1aab22701680c111206a66c6a64ee036",
+  "title": "Trump rally shooting: Five shot in Seattle close to anti-Donald Trump protest",
+  "dId": "dccb7b8de2a86a406c6a42ad1aab22701680c111206a66c6a64ee036",
+  "fiveWoneH": {
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "have been shot"
+        }
+      ],
+      "label": "what"
+    },
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "have been shot"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Seattle",
+                  "index": 8,
+                  "lemma": "Seattle",
+                  "characterOffsetBegin": 35,
+                  "pos": "NNP",
+                  "originalText": "Seattle",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "characterOffsetEnd": 42,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "close",
+                  "index": 9,
+                  "lemma": "close",
+                  "characterOffsetBegin": 43,
+                  "pos": "RB",
+                  "originalText": "close",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 48,
+                  "speaker": "PER0"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "to",
+                  "index": 10,
+                  "lemma": "to",
+                  "characterOffsetBegin": 49,
+                  "pos": "TO",
+                  "originalText": "to",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 51,
+                  "speaker": "PER0"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "anti-Donald",
+                  "index": 11,
+                  "lemma": "anti-donald",
+                  "characterOffsetBegin": 52,
+                  "pos": "JJ",
+                  "originalText": "anti-Donald",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "characterOffsetEnd": 63,
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Trump",
+                  "index": 12,
+                  "lemma": "Trump",
+                  "characterOffsetBegin": 64,
+                  "pos": "NNP",
+                  "originalText": "Trump",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "characterOffsetEnd": 69,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "protest",
+                  "index": 13,
+                  "lemma": "protest",
+                  "characterOffsetBegin": 70,
+                  "pos": "NN",
+                  "originalText": "protest",
+                  "ner": "O",
+                  "after": "",
+                  "characterOffsetEnd": 77,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": "",
+                  "word": ".",
+                  "index": 14,
+                  "lemma": ".",
+                  "characterOffsetBegin": 77,
+                  "pos": ".",
+                  "originalText": ".",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 78,
+                  "speaker": "PER0"
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.7405797101449276,
+          "text": "Seattle close to anti-Donald Trump protest ."
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "just hours after he was elected the next US President"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "personal argument"
+        }
+      ],
+      "label": "why"
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "five people"
+        }
+      ],
+      "label": "who"
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Seattle"
+        }
+      ],
+      "label": "where"
+    }
+  },
+  "description": "AT LEAST five people have been shot close to an anti-Donald Trump rally just hours after he was elected the next US President.",
+  "parsingError": "true",
+  "text": "Seattle police revealed they are investigating a shooting with \"multiple victims\" close to the protest against the Republican. The Seattle Fire Department said that crews were treating five patients with gunshot wounds includding four men and one woman, with one of the males suffering life-threatening injuries. TWITTER At least five people have been shot in Seattle A swathe of police - including the gang unit - ambulance and fire crews have descended on the scene to investigate the shooting, with the alleged shooter still at large. The anti-Trump rally turned into a march and was just a few streets away from the shooting, in Third Avenue. Witnesses said they heard multiple rounds of gunshots before police responded to the incident. SEATTLE TIMES The incident is being investigated by detectives SEATTLEPI Police have cordoned off the scene and the gang unit is investigating The shots were fired in an area that protesters had passed through during the night but Seattle police police Assistant Chief Robert Merner said the incident did not relate to the rally. He said \"It's not related to the protest at all. It appears to be some type of personal argument.\" SEATTLE TIMES The gunman is still on the run A statement from the police department added: \"Detectives are on scene and have closed several streets in the area as police collect evidence and search for witnesses. \"Police are still gathering information about the suspect, who is believed to be an adult male.\" 3/Pine shooting NOT believed to be connected to earlier demonstration at Westlake. Investigation ongoing. -- Seattle Police Dept. (@SeattlePD) November 10, 2016 ",
+  "date_publish": "2016-11-10 03:42:00"
+}

@@ -1,0 +1,269 @@
+{
+  "filename": "e70be9ce7c3c1d545d55520a98ba13ef9cc3f60bc19e9700892e99d5",
+  "title": "'I BLAME COMEY' Clinton blames FBI chief James Comey for election defeat to Trump",
+  "mimeType": "text/xml",
+  "url": "http://www.express.co.uk/news/world/731721/I-BLAME-COMEY-Bitter-Clinton-blames-FBI-chief-James-Comey-election-defeat-Donald-Trump",
+  "category": "clinton blames comey",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "HILLARY Clinton",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who"
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Saturday",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-12"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "reopening the investigation close to the election",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why"
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "blames",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "announced he was reopening",
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 101,
+                  "word": "with",
+                  "lemma": "with",
+                  "characterOffsetEnd": 105,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "with",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 106,
+                  "word": "top",
+                  "lemma": "top",
+                  "characterOffsetEnd": 109,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "top",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 110,
+                  "word": "donors",
+                  "lemma": "donor",
+                  "characterOffsetEnd": 116,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "donors",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 117,
+                  "word": "on",
+                  "lemma": "on",
+                  "characterOffsetEnd": 119,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "on",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 120,
+                  "word": "Saturday",
+                  "lemma": "Saturday",
+                  "timex": {
+                    "value": "2016-11-12",
+                    "tid": "t1",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 128,
+                  "originalText": "Saturday",
+                  "normalizedNER": "2016-11-12",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 128,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 129,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 10,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 130,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 137,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 138,
+                  "word": "said",
+                  "lemma": "say",
+                  "characterOffsetEnd": 142,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "said",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 143,
+                  "word": "Mr",
+                  "lemma": "Mr",
+                  "characterOffsetEnd": 145,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "Mr",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 146,
+                  "word": "Comey",
+                  "lemma": "Comey",
+                  "characterOffsetEnd": 151,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": "",
+                  "originalText": "Comey",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6859903381642514,
+          "text": "with top donors on Saturday , Clinton said Mr Comey",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where"
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "blames FBI chief James Comey for election defeat",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what"
+    }
+  },
+  "description": "HILLARY Clinton has blamed her humiliating election defeat to Donald Trump on FBI director James Comey, who announced he was reopening the investigation into her handling of classified information days before the US went to the polls.",
+  "text": "Clinton criticised Comey for reopening the investigation close to the election. On a conference call with top donors on Saturday, Clinton said Mr Comey's announcement had reversed her \"momentum\" and bolstered support for now president-elect. Mr Comey's intervention on October 28 caused the Democratic nominee to tank in the polls, which had her at a considerable lead following controversies surrounding Trump's comments about women. After Mr Comey sent a letter to Congress on November 4 clearing her of any wrongdoing, Clinton's campaigned managed to take the lead in the polls again. But on November 8, Trump swept to an emphatic victory, and is now set to become the 45th president of the United States. According to individuals on the conference call Clinton, who has admitted to being \"heartbroken\" by her loss, has now concluded that Comey is to blame. In comments made during the call with donors, who all gave a staggering $100 million or more to her campaign, Clinton criticised the FBI director for \"raising doubts\" about her as the election loomed. According to the New York Times, she said: \"There are a lot of reasons why an election like this is not successful. Our analysis is that Comey's letter raising doubts that were groundless baseless, proven to be, stopped our momentum.\" Navin Nayak, head of the Clinton campaign's opinion research division, also blamed Comey for the shock defeat. President-elect Donald Trump defied controversies and capitalised on the investigation to win. Hillary Clinton in pictures Wed, November 30, 2016 Express Pictures looks at the extraordinary life of Hillary Clinton. Play slideshow Getty Images for UNICEF 1 of 40 (L-R) Pamela Fiori, Hillary Clinton, Katy Perry, and Caryl Stern speak on stage during the 12th annual UNICEF Snowflake Ball at Cipriani Wall Street on November 29, 2016 in New York City.",
+  "parsingError": "true",
+  "publisher": "express",
+  "originalFilename": "express-3",
+  "date_publish": "2016-11-13 03:26:00",
+  "dId": "e70be9ce7c3c1d545d55520a98ba13ef9cc3f60bc19e9700892e99d5"
+}

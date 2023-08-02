@@ -1,0 +1,509 @@
+{
+  "filename": "3819549c5ea2cdd5d32008086adb0722d690d898fb000ac4d8573904",
+  "title": "Red Bull boss Christian Horner hails Max Verstappen's \"amazing\" podium-winning performance in Brazil",
+  "mimeType": "text/xml",
+  "url": "http://www.mirror.co.uk/sport/formula-1/red-bull-boss-christian-horner-9254708",
+  "category": "f1",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Red Bull boss Christian Horner",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1624,
+                  "word": "Verstappen",
+                  "lemma": "Verstappen",
+                  "characterOffsetEnd": 1634,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Verstappen",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "Verstappen",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Sunday's Brazilian Grand Prix",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-13"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 235,
+                  "word": "Sunday",
+                  "lemma": "Sunday",
+                  "timex": {
+                    "value": "2016-11-13",
+                    "tid": "t2",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 241,
+                  "originalText": "Sunday",
+                  "normalizedNER": "2016-11-13",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 27,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7714804257902491,
+          "text": "Sunday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-13T00:00:00",
+              "end_date": "2016-11-13T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "Verstappen overtook half the field in the closing stages of the rain-soaked race",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "one of the best drives I've seen in Formula One",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 284,
+                  "word": "he",
+                  "lemma": "he",
+                  "characterOffsetEnd": 286,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "he",
+                  "before": " ",
+                  "index": 37,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ]
+          ],
+          "score": 0.5590318772136953,
+          "text": "he",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "incredible performance",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 241,
+                  "word": "'s",
+                  "lemma": "'s",
+                  "characterOffsetEnd": 243,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "'s",
+                  "before": "",
+                  "index": 28,
+                  "pos": "POS"
+                }
+              },
+              "POS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 244,
+                  "word": "Brazilian",
+                  "lemma": "brazilian",
+                  "characterOffsetEnd": 253,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "Brazilian",
+                  "before": " ",
+                  "index": 29,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 254,
+                  "word": "Grand",
+                  "lemma": "Grand",
+                  "characterOffsetEnd": 259,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "Grand",
+                  "before": " ",
+                  "index": 30,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 260,
+                  "word": "Prix",
+                  "lemma": "Prix",
+                  "characterOffsetEnd": 264,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "Prix",
+                  "before": " ",
+                  "index": 31,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 265,
+                  "word": "as",
+                  "lemma": "as",
+                  "characterOffsetEnd": 267,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "as",
+                  "before": " ",
+                  "index": 32,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 268,
+                  "word": "one",
+                  "lemma": "one",
+                  "before": " ",
+                  "characterOffsetEnd": 271,
+                  "originalText": "one",
+                  "normalizedNER": "1.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "NUMBER",
+                  "index": 33,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 272,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 274,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 34,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 275,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 278,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 35,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 279,
+                  "word": "best",
+                  "lemma": "best",
+                  "characterOffsetEnd": 283,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "best",
+                  "before": " ",
+                  "index": 36,
+                  "pos": "JJS"
+                }
+              },
+              "JJS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 284,
+                  "word": "he",
+                  "lemma": "he",
+                  "characterOffsetEnd": 286,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "he",
+                  "before": " ",
+                  "index": 37,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "'s Brazilian Grand Prix as one of the best he",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Brazil",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Brazilian Grand Prix",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 555,
+                  "word": "Hamilton",
+                  "lemma": "Hamilton",
+                  "characterOffsetEnd": 563,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "Hamilton",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6770523338265432,
+          "text": "Hamilton",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "18996031",
+              "boundingbox": [
+                43.095205,
+                43.415205,
+                -80.028202,
+                -79.708202
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.25076532892375,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+              "osm_type": "node",
+              "display_name": "Hamilton, Ontario, L8N 1A3, Canada",
+              "lat": "43.255205",
+              "type": "city",
+              "place_id": "112762",
+              "lon": "-79.868202",
+              "class": "place"
+            }
+          },
+          "nlpIndexSentence": 3
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "hails Max Verstappen's \\\"amazing\\\" podium-winning performance",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 178,
+                  "word": "has",
+                  "lemma": "have",
+                  "characterOffsetEnd": 181,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "has",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "VBZ"
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 182,
+                  "word": "described",
+                  "lemma": "describe",
+                  "characterOffsetEnd": 191,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "described",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 192,
+                  "word": "Max",
+                  "lemma": "Max",
+                  "characterOffsetEnd": 195,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Max",
+                  "before": " ",
+                  "index": 21,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 196,
+                  "word": "Verstappen",
+                  "lemma": "Verstappen",
+                  "characterOffsetEnd": 206,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": "",
+                  "originalText": "Verstappen",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 206,
+                  "word": "'s",
+                  "lemma": "'s",
+                  "characterOffsetEnd": 208,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "'s",
+                  "before": "",
+                  "index": 23,
+                  "pos": "POS"
+                }
+              },
+              "POS"
+            ]
+          ],
+          "score": 1.0,
+          "text": "has described Max Verstappen 's",
+          "nlpIndexSentence": 1
+        }
+      ]
+    }
+  },
+  "description": "Horner called the drive in which he overtook 13 cars in heavy rain \"one of the best drives I've seen in Formula One\"",
+  "text": "Get daily updates directly to your inbox + Subscribe Thank you for subscribing! Could not subscribe, try again later Invalid Email Christian Horner, the Red Bull team principal, has described Max Verstappen's incredible performance in Sunday's Brazilian Grand Prix as one of the best he has ever witnessed in Formula One. Verstappen overtook half the field in the closing stages of the rain-soaked race to claim the final spot on the podium behind race winner Lewis Hamilton and Nico Rosberg. The 19-year-old Dutchman, who had been running second only to Hamilton following a brilliant move around the outside of championship leader Rosberg, dropped way down the order after his team opted to pit him for the intermediate tyre, only to call him in again for the extreme wet option. (Photo: Getty Images) But the teenager overtook 13 cars - including that of his team-mate Daniel Ricciardo and Sebastian Vettel, the four-time world champion whom he left trailing on the grass - to claw his way on to the podium in one of the most impressive displays in recent grand prix memory. \"His recovery was amazing, and that was one of the best drives I've seen in Formula One,\" a jubilant Horner said on Sunday night. \"We gave him a huge amount to do and the way he drove those last 15 laps was unbelievable. (Photo: Getty Images) \"Max was in a league of his own today, and what we witnessed was something very, very special.\" While Hamilton sauntered to victory in the treacherous conditions to keep his championship hopes alive, Verstappen stole the show with his virtuoso display in a race filled with drama. At the first re-start Verstappen immediately passed Kimi Raikkonen, the 2007 world champion, with a banzai move at turn one, before he delivered the same treatment around the outside of Rosberg at turn three later in the race. (Photo: Getty Images) He also survived a hairy moment as he lost control of his Red Bull at close to 180mph when he entered the pit straight. Incredibly, the teenager managed to avoid any contact with the barrier, and remained ahead of Rosberg, too. \"The heartbeat went a bit higher there,\" he said coolly over the team radio. Verstappen was on course to finish second, and possibly challenge Hamilton for the win, but Red Bull's gamble to put him on the intermediate tyre backfired. \"Win? Maybe not, but I think second was definitely possible,\" Verstappen said. \"I think we were in quite a safe position in second but sometimes you have to gamble to try and win the race. \"That is what we tried today but it didn't work out. We are still on the podium with some great overtakes so I am quite a happy person.\"",
+  "parsingError": "true",
+  "publisher": "mirror",
+  "originalFilename": "mirror-7",
+  "date_publish": "2016-11-13 23:15:51",
+  "dId": "3819549c5ea2cdd5d32008086adb0722d690d898fb000ac4d8573904"
+}

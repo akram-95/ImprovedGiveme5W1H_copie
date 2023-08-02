@@ -1,0 +1,676 @@
+{
+  "filename": "4032070b93a333c347d1e7e94be4aacc098b1f7f18494d6a6fd3f57c",
+  "title": "Croydon tram driver 'blacked out' in crash that killed seven, claim passengers",
+  "mimeType": "text/xml",
+  "url": "https://www.theguardian.com/uk-news/2016/nov/09/croydon-tram-crash-kills-at-least-seven-and-injures-more-than-50",
+  "category": "tram",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "tram driver",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "At least seven people",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "more than 50",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 225,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 228,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 229,
+                  "word": "tram",
+                  "lemma": "tram",
+                  "characterOffsetEnd": 233,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "tram",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "the tram",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Wednesday morning",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-09"
+        },
+        {
+          "text": "at about 6.10am",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-09"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 338,
+                  "word": "about",
+                  "lemma": "about",
+                  "timex": {
+                    "value": "2016-11-09T10:00",
+                    "tid": "t2",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 343,
+                  "originalText": "about",
+                  "normalizedNER": "2016-11-09T10:00",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "TIME",
+                  "index": 30,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 344,
+                  "word": "6.10",
+                  "lemma": "6.10",
+                  "timex": {
+                    "value": "2016-11-09T10:00",
+                    "tid": "t2",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 348,
+                  "originalText": "6.10",
+                  "normalizedNER": "2016-11-09T10:00",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "TIME",
+                  "index": 31,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 348,
+                  "word": "am",
+                  "lemma": "am",
+                  "timex": {
+                    "value": "2016-11-09T10:00",
+                    "tid": "t2",
+                    "type": "TIME"
+                  },
+                  "before": "",
+                  "characterOffsetEnd": 350,
+                  "originalText": "am",
+                  "normalizedNER": "2016-11-09T10:00",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "TIME",
+                  "index": 32,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 350,
+                  "word": ".",
+                  "lemma": ".",
+                  "timex": {
+                    "value": "2016-11-09T10:00",
+                    "tid": "t2",
+                    "type": "TIME"
+                  },
+                  "before": "",
+                  "characterOffsetEnd": 351,
+                  "originalText": ".",
+                  "normalizedNER": "2016-11-09T10:00",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "TIME",
+                  "index": 33,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.8643178656233013,
+          "text": "about 6.10 am .",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-09T10:00:00",
+              "end_date": "2016-11-09T10:00:59"
+            }
+          },
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "believed to have been going too fast",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 3991,
+                  "word": "because",
+                  "lemma": "because",
+                  "characterOffsetEnd": 3998,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "because",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 3999,
+                  "word": "an",
+                  "lemma": "a",
+                  "characterOffsetEnd": 4001,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "an",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 4002,
+                  "word": "investigation",
+                  "lemma": "investigation",
+                  "characterOffsetEnd": 4015,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "investigation",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 4016,
+                  "word": "was",
+                  "lemma": "be",
+                  "characterOffsetEnd": 4019,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "was",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 4020,
+                  "word": "ongoing",
+                  "lemma": "ongoing",
+                  "characterOffsetEnd": 4027,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "ongoing",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 4027,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 4028,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 19,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.6715049656226127,
+          "text": "because an investigation was ongoing .",
+          "nlpIndexSentence": 40
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "been going too fast",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "derailed",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 116,
+                  "word": "too",
+                  "lemma": "too",
+                  "characterOffsetEnd": 119,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "too",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 120,
+                  "word": "fast",
+                  "lemma": "fast",
+                  "characterOffsetEnd": 124,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "fast",
+                  "before": " ",
+                  "index": 25,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 124,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 125,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 26,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 126,
+                  "word": "crashed",
+                  "lemma": "crash",
+                  "characterOffsetEnd": 133,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "crashed",
+                  "before": " ",
+                  "index": 27,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 134,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 136,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 28,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 137,
+                  "word": "south",
+                  "lemma": "south",
+                  "characterOffsetEnd": 142,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "south",
+                  "before": " ",
+                  "index": 29,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 143,
+                  "word": "London",
+                  "lemma": "London",
+                  "characterOffsetEnd": 149,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "London",
+                  "before": " ",
+                  "index": 30,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 150,
+                  "word": "on",
+                  "lemma": "on",
+                  "characterOffsetEnd": 152,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "on",
+                  "before": " ",
+                  "index": 31,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 153,
+                  "word": "Wednesday",
+                  "lemma": "Wednesday",
+                  "timex": {
+                    "value": "2016-11-09TMO",
+                    "tid": "t1",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 162,
+                  "originalText": "Wednesday",
+                  "normalizedNER": "2016-11-09TMO",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 32,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 163,
+                  "word": "morning",
+                  "lemma": "morning",
+                  "timex": {
+                    "value": "2016-11-09TMO",
+                    "tid": "t1",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 170,
+                  "originalText": "morning",
+                  "normalizedNER": "2016-11-09TMO",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "TIME",
+                  "index": 33,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "too fast , crashed in south London on Wednesday morning"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Croydon",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "south London",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 471,
+                  "word": "Croydon",
+                  "lemma": "Croydon",
+                  "characterOffsetEnd": 478,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "Croydon",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.681465176880462,
+          "text": "Croydon",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "21262496",
+              "boundingbox": [
+                51.3313049,
+                51.4113049,
+                -0.141957,
+                -0.061957
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.23943987893565,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+              "osm_type": "node",
+              "display_name": "Croydon, London, Greater London, England, CR0 1SZ, UK",
+              "lat": "51.3713049",
+              "type": "town",
+              "place_id": "117537",
+              "lon": "-0.101957",
+              "class": "place"
+            }
+          },
+          "nlpIndexSentence": 3
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "arrested",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 234,
+                  "word": "left",
+                  "lemma": "leave",
+                  "characterOffsetEnd": 238,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "left",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 239,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 242,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 243,
+                  "word": "tracks",
+                  "lemma": "track",
+                  "characterOffsetEnd": 249,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "tracks",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ]
+          ],
+          "score": 1.0,
+          "text": "left the tracks",
+          "nlpIndexSentence": 1
+        }
+      ]
+    }
+  },
+  "description": "Driver is arrested as investigators say they believe tram was going too fast when it derailed in south London\n",
+  "text": "At least seven people have been killed and more than 50 taken to hospital after a tram, believed to have been going too fast, crashed in south London on Wednesday morning. Survivors of the accident said people went flying as the tram left the tracks, with bodies and blood inside the carriages following the derailment, which occurred at about 6.10am. Some passengers said the driver of the vehicle, who was arrested afterwards, had blacked out. Martin Bamford, 30, from Croydon, one of those on the tram, recalled it speeding up. \"Everyone just literally went flying,\" he said. Speaking outside Croydon University hospital, where he was being treated for broken ribs, he added: \"It was just terrifying. There was a woman that was on top of me ... I don't think she made it at all. She wasn't responsive. There was blood everywhere.\" Bamford said he asked the driver if he was OK: \"He said: 'Yeah.'I said to him, 'What happened?' He said he thinks he blacked out.\" Royal Navy veteran Kevin Snow, 57, was one of those injured. He said the tram failed to slow down at its usual point coming out of a tunnel between the Lloyd Park and Sandilands stops. \"Usually, as you come out the tunnel, you feel the brakes, but I didn't seem to at all. I thought, 'He should be braking in a minute.' The next thing I knew we were on our side. Everyone was screaming and shouting, a lot of people were injured - lots couldn't move.\" He said the tram slid for between eight and 10 seconds before coming to a halt. \"It seemed like for ever that everyone was trying to get out, but we couldn't find a way out. \"All I could think about was if no one called the emergency services, could another tram hit us?\" The Rail Accident Investigation Branch (RAIB) said: \"Initial indications suggest that the tram was travelling at a significantly higher speed than is permitted.\" British Transport police Asst Ch Con Robin Smith said the force was investigating whether the driver fell asleep, alongside \"a number of factors\". He said officers would be \"working through the night\" at the scene, and staff would be present for a \"number of days\". He said: \"We have a very difficult and very challenging scene. \"We have carriages that are lying on their side ... which will eventually have to be moved carefully. And at the same time, us being able to understand exactly what happened.\" The 42-year-old male driver, from Beckenham, is being held on suspicion of manslaughter and is currently in custody, British Transport police said. The crash occurred near to Sandilands junction on a sharp, left-hand curve as the tram was approaching a stop as it travelled from New Addington to Wimbledon. There is a 12mph (20km/h) speed limit on the section in question, which is on old rail tracks. The Croydon trams have a top speed of around 50mph. After news the crash broke, claims emerged on Facebook that an incident had occurred on the same stretch of line on 31 October, though there were no reports that anyone was hurt. In a post written that day, Andy Nias, from Croydon, wrote: \"30 of us on the tram this morning and we all thought our time was up ... tram driver took the hard corner to Sandilands at 40mph!! I swear the tram lifted on to one side. Everyone still shaking ... it's mad.\" In a further post on Wednesday, Nias said he had reported the incident to British Transport police, who advised him not to speak to journalists. Another man, James Tofield, who is also from Croydon, said he too was on the tram on 31 October. On Wednesday evening, he posted an image online of a text message to his partner dated that morning. It read: \"The driver went round the bend so fast, u no the tunnel ... when u r coming up to Sandilands, he's obviously forgot there's a bend approaching, smacked on the brakes and somehow the tram managed to stay on the track.\" He said he intended to report the incident to both Transport for London (TfL) and the police. TfL said it was aware of the claims but refused to comment further because an investigation was ongoing. British Transport police did not respond to a request for comment. Wednesday's crash is the worst accident on the rail and tram networks since 2004, when seven people were killed in a rail crash near Ufton Nervet in Berkshire, when a car driver trying to kill himself caused a serious accident. There have been no fatalities on board a tram in the UK since 1959, when two female passengers and the driver died when a tram caught fire in Shettlestone Road, Glasgow, after a collision with a lorry. Martin Harris, who was on his way to work, called his mother, Jane, after the crash to tell her a body was lying on top of him. She told the Telegraph that he had told her \"it looked like the driver had fallen asleep\". Jane Harris added: \"He was on the tram, the tram was going really fast, the tram went over, my son had a dead body on him.\" Nearby resident Hannah Collier, 23, said: \"I heard a massive crash at about 6.15am, then heard shouting, then the emergency services arrived. They started bringing up the casualties, some very seriously injured.\" Eight fire engines, five fire rescue units containing specialist rescue equipment and 22 ambulance crews were involved in the rescue operation. A spokeswoman for the London ambulance service said eight people had serious or life-threatening injuries, 20 of those injured were taken to St George's university hospital in Tooting and 31 to Croydon university hospital. Croydon Health Services NHS trust urged members of the public with minor ailments to go to their GP or a walk-in centre instead of the hospital to ease pressure on staff. A casualty helpline was set up for relatives and friends to call. Mike Brown, London's transport commissioner, said: \"Our thoughts are with those who sadly lost their lives in this incident, those who were injured and the families of those affected. We are working closely with the emergency services on-site and will continue to work with them during the investigation into what happened.\" Finn Brennan, of the train drivers' union Aslef, said the incident was \"truly dreadful\". He said: \"Lives have been lost and there are many serious injuries. This is a tragedy for all those involved. For the women and men who set out this morning on their journey to work and suffered this awful accident and their families, the grief and pain must be terrible. \"There should be no rush to judgment or to place blame until the facts are known.\" Transport expert Christian Wolmar, who is also Labour's candidate in the Richmond Park byelection, said trams generally had an excellent safety record and most accidents that did occur involved road vehicles or pedestrians. \"This sort of accident is incredibly rare, particularly because it's on a section that used to be a railway and there are no cars around,\" he said. The Croydon tram is London's only tram network. It uses a mix of on-street and segregated running for its 17 miles (27km) of track. More than 27 million passengers used the service in 2015-16.",
+  "parsingError": "true",
+  "publisher": "theguardian",
+  "originalFilename": "theguardian-8",
+  "date_publish": "2016-11-10 08:21:04",
+  "dId": "4032070b93a333c347d1e7e94be4aacc098b1f7f18494d6a6fd3f57c"
+}

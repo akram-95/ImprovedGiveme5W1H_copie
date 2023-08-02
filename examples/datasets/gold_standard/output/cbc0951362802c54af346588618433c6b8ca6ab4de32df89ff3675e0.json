@@ -1,0 +1,259 @@
+{
+  "originalFilename": "independent-3",
+  "category": "cubs win championship",
+  "publisher": "independent",
+  "url": "http://www.independent.co.uk/sport/us-sport/major-league-baseball/world-series-chicago-cubs-cleveland-indians-108-year-title-drought-a7394706.html",
+  "mimeType": "text/xml",
+  "filename": "cbc0951362802c54af346588618433c6b8ca6ab4de32df89ff3675e0",
+  "title": "World Series 2016: Chicago Cubs end 108-year title drought after victory over Cleveland Indians",
+  "dId": "cbc0951362802c54af346588618433c6b8ca6ab4de32df89ff3675e0",
+  "fiveWoneH": {
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "Cubs win the World Series"
+        }
+      ],
+      "label": "what"
+    },
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "extra-inning victory"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "a",
+                  "index": 17,
+                  "lemma": "a",
+                  "characterOffsetBegin": 358,
+                  "pos": "DT",
+                  "originalText": "a",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 359,
+                  "speaker": "PER0"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "6-3",
+                  "index": 18,
+                  "lemma": "6-3",
+                  "characterOffsetBegin": 360,
+                  "pos": "JJ",
+                  "originalText": "6-3",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 363,
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "lead",
+                  "index": 19,
+                  "lemma": "lead",
+                  "characterOffsetBegin": 364,
+                  "pos": "NN",
+                  "originalText": "lead",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 368,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "evaporate",
+                  "index": 20,
+                  "lemma": "evaporate",
+                  "characterOffsetBegin": 369,
+                  "pos": "VB",
+                  "originalText": "evaporate",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 378,
+                  "speaker": "PER0"
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "in",
+                  "index": 21,
+                  "lemma": "in",
+                  "characterOffsetBegin": 379,
+                  "pos": "IN",
+                  "originalText": "in",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 381,
+                  "speaker": "PER0"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "the",
+                  "index": 22,
+                  "lemma": "the",
+                  "characterOffsetBegin": 382,
+                  "pos": "DT",
+                  "originalText": "the",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 385,
+                  "speaker": "PER0"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 23,
+                  "pos": "JJ",
+                  "originalText": "eighth",
+                  "ner": "ORDINAL",
+                  "after": " ",
+                  "characterOffsetEnd": 392,
+                  "before": " ",
+                  "word": "eighth",
+                  "characterOffsetBegin": 386,
+                  "normalizedNER": "8.0",
+                  "lemma": "eighth",
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "inning",
+                  "index": 24,
+                  "lemma": "inning",
+                  "characterOffsetBegin": 393,
+                  "pos": "NN",
+                  "originalText": "inning",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 399,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "but",
+                  "index": 25,
+                  "lemma": "but",
+                  "characterOffsetBegin": 400,
+                  "pos": "CC",
+                  "originalText": "but",
+                  "ner": "O",
+                  "after": "",
+                  "characterOffsetEnd": 403,
+                  "speaker": "PER0"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": "",
+                  "word": ",",
+                  "index": 26,
+                  "lemma": ",",
+                  "characterOffsetBegin": 403,
+                  "pos": ",",
+                  "originalText": ",",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 404,
+                  "speaker": "PER0"
+                }
+              },
+              ","
+            ]
+          ],
+          "score": 0.7003623188405799,
+          "text": "a 6-3 lead evaporate in the eighth inning but ,",
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "2016"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "victory against the Cleveland Indians"
+        }
+      ],
+      "label": "why"
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Chicago Cubs"
+        }
+      ],
+      "label": "who"
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where"
+    }
+  },
+  "description": "The Chicago Cubs are Major League Baseball champions for the first time in 108 years after a thrilling extra-inning victory against the Cleveland Indians in game seven of the World Series. The Cubs, who had not won baseball's biggest prize since 1908, had seen a 6-3 lead evaporate in the eighth inning but, after RBIs from Ben Zobrist and Miguel Montero, Mike Montgomery gained the final out in the 10th to secure an 8-7 victory.",
+  "parsingError": "true",
+  "text": "The Chicago Cubs are Major League Baseball champions for the first time in 108 years after a thrilling extra-inning victory against the Cleveland Indians in game seven of the World Series. The Cubs, who had not won baseball's biggest prize since 1908, had seen a 6-3 lead evaporate in the eighth inning but, after RBIs from Ben Zobrist and Miguel Montero, Mike Montgomery gained the final out in the 10th to secure an 8-7 victory. Cleveland had led the series 3-1 but suffered three straight defeats - the last two on home soil - as their own drought goes on for a 69th year. The scoring started at the top of the first, with Chicago's Dexter Fowler becoming the first person to open a World Series with a home run. The Cubs had not won the World Series since 1908 (Getty) Carlos Santana's RBI single drew Cleveland level in the third but the Cubs soon took charge. Kris Bryant scored off Addison Russell's sacrifice fly before Willson Contreras' RBI double made it 3-1 after four innings. Then in the fifth, Javier Baez's homer was followed by Anthony Rizzo's RBI single to build a four-run lead. Cleveland reduced the deficit when Jon Lester's wild pitch at the bottom of the fifth allowed Carlos Santana and Jason Kipnis to score. But David Ross, in his last game before retirement, hit a home run in the sixth for the visitors. The Cubs were within four outs of the World Series at the bottom of the eighth, but closer Aroldis Chapman gave up three runs as the Indians hit back in style. Ben Zobrist celebrates after the Chicago Cubs win the World Series (Getty) Brandon Guyer's double allowed Jose Ramirez to score before Rajao Davis' two-run homer sent the crowd at Progressive Field - including Cleveland Cavaliers star LeBron James - into a frenzy. The game remained tied after the ninth, where the tension was heightened by a 17-minute rain delay. When play resumed, Zobrist and Montero put Cubs two runs ahead, but Carl Edwards JR could not close out the game as Davis kept the Indians' hopes alive with an RBI single. The Chicago Cubs celebrate their famous World Series victory (Getty) But Montgomery came in for the save as Michael Martinez ground out to start Chicago's celebrations. It was the fourth World Series decider to go to an extra innings and the first since 1997, when the Indians were beaten by the Florida Marlins. Cubs manager Joe Maddon holds the Commissioners' Trophy while Ben Zobrist celebrates (Getty) The Cubs, who had not even reached a World Series since 1945, are the first team to overturn a 3-1 deficit since 1985. MVP Zobrist, who helped the Kansas City Royals to the MLB championship last year, said at the post-match presentation shown on BT Sport 1: \"It's unbelievable. I can't even put it into words. It's an unbelievable team to be a part of. Carl Edwards Jr celebrates the Cubs' World Series victory (Getty) \"Every guy on this team roots for each other, takes care of each other and picks each other up and that's what we did during that rain delay.\" Rizzo added: \"It's the best game I've ever been a part of. What a team. We started this year as heavy favourites and we went wire to wire all year as the best team in baseball. Chicago fans celebrate after the Cubs win the World Series (Getty) \"The Indians did one heck of a job but this is the best feeling in the world. \"We're world champions. For the rest of our lives.\" PA",
+  "date_publish": "2016-11-03 00:00:00"
+}

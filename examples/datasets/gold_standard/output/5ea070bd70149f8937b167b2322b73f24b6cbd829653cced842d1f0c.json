@@ -1,0 +1,545 @@
+{
+  "filename": "5ea070bd70149f8937b167b2322b73f24b6cbd829653cced842d1f0c",
+  "title": "Toblerone gets more gappy, but its fans are not happy",
+  "mimeType": "text/xml",
+  "url": "https://www.theguardian.com/business/2016/nov/08/toblerone-gets-more-gappy-but-its-fans-are-not-happy",
+  "category": "toberone-gate",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Toblerone",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "fans",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "Mondel\\u0113z International",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "The",
+                  "lemma": "the",
+                  "characterOffsetEnd": 3,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "The",
+                  "before": "",
+                  "index": 1,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 4,
+                  "word": "makers",
+                  "lemma": "maker",
+                  "characterOffsetEnd": 10,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "makers",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 11,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 13,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 14,
+                  "word": "Toblerone",
+                  "lemma": "Toblerone",
+                  "characterOffsetEnd": 23,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "Toblerone",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "The makers of Toblerone"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "2016",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-08"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2538,
+                  "word": "Sunday",
+                  "lemma": "Sunday",
+                  "timex": {
+                    "value": "2016-11-06",
+                    "tid": "t4",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 2544,
+                  "originalText": "Sunday",
+                  "normalizedNER": "2016-11-06",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 2,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7028101957116858,
+          "text": "Sunday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-06T00:00:00",
+              "end_date": "2016-11-06T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 21
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "cost-saving move to widen spaces",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 318,
+                  "word": "it",
+                  "lemma": "it",
+                  "characterOffsetEnd": 320,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "it",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ]
+          ],
+          "score": 0.5658008658008659,
+          "text": "it",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "widened",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 71,
+                  "word": "'s",
+                  "lemma": "'s",
+                  "characterOffsetEnd": 73,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "'s",
+                  "before": "",
+                  "index": 13,
+                  "pos": "POS"
+                }
+              },
+              "POS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 74,
+                  "word": "distinctive",
+                  "lemma": "distinctive",
+                  "characterOffsetEnd": 85,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "distinctive",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 86,
+                  "word": "triangular",
+                  "lemma": "triangular",
+                  "characterOffsetEnd": 96,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "triangular",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 97,
+                  "word": "chunks",
+                  "lemma": "chunk",
+                  "characterOffsetEnd": 103,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "chunks",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 104,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 106,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 107,
+                  "word": "an",
+                  "lemma": "a",
+                  "characterOffsetEnd": 109,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "an",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 110,
+                  "word": "effort",
+                  "lemma": "effort",
+                  "characterOffsetEnd": 116,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "effort",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 117,
+                  "word": "to",
+                  "lemma": "to",
+                  "characterOffsetEnd": 119,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "to",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "TO"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 120,
+                  "word": "avoid",
+                  "lemma": "avoid",
+                  "characterOffsetEnd": 125,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "avoid",
+                  "before": " ",
+                  "index": 21,
+                  "pos": "VB"
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 126,
+                  "word": "putting",
+                  "lemma": "put",
+                  "characterOffsetEnd": 133,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "putting",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "VBG"
+                }
+              },
+              "VBG"
+            ]
+          ],
+          "score": 1.0,
+          "text": "'s distinctive triangular chunks in an effort to avoid putting"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "UK",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 380,
+                  "word": "UK",
+                  "lemma": "UK",
+                  "characterOffsetEnd": 382,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "UK",
+                  "before": " ",
+                  "index": 30,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6699999999999999,
+          "text": "UK",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "62149",
+              "boundingbox": [
+                49.674,
+                61.061,
+                -14.015517,
+                2.0919117
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.3267301409654,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+              "osm_type": "relation",
+              "display_name": "UK",
+              "lat": "54.7023545",
+              "type": "administrative",
+              "place_id": "179731133",
+              "lon": "-3.2765753",
+              "class": "boundary"
+            }
+          },
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "fans are not happy",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "gets more gappy",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 24,
+                  "word": "have",
+                  "lemma": "have",
+                  "characterOffsetEnd": 28,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "have",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "VBP"
+                }
+              },
+              "VBP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 29,
+                  "word": "widened",
+                  "lemma": "widen",
+                  "characterOffsetEnd": 36,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "widened",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 37,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 40,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 41,
+                  "word": "gaps",
+                  "lemma": "gap",
+                  "characterOffsetEnd": 45,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "gaps",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ]
+          ],
+          "score": 1.0,
+          "text": "have widened the gaps"
+        }
+      ]
+    }
+  },
+  "description": "Chocolate lovers blast 'plain dumb' cost-saving move to widen spaces between bar's triangular chunks",
+  "text": "The makers of Toblerone have widened the gaps between the chocolate bar's distinctive triangular chunks in an effort to avoid putting its prices up, in a move fans have described as \"stupid\", \"ridiculous\" and \"just plain dumb\". A statement on the brand's Facebook page said that higher costs for ingredients had meant it had decided to cut the weight of two bars from Toblerone's UK range. It has reduced 400g bars to 360g and 170g bars to 150g in order to maintain retail prices. The change means that the gaps between chunks are now wider than the chunks themselves. One customer described the new bar as looking \"like a weird knock-off of itself\". The Brexit Toblerone sums up 2016: more troughs than peaks | Rebecca Nicholson Read more Explaining the change, the statement on Toblerone's Facebook page said: \"Like many other companies, we are experiencing higher costs for numerous ingredients. \"We carry these costs for as long as possible, but to ensure Toblerone remains ... affordable and retains the triangular shape, we have had to reduce the weight of just two of our bars in the UK, from the wider range of available Toblerone products.\" Customers replying to the post have been scathing. Richard Cristiano Tamerighi wrote: \"[It's] just plain dumb changing the trademark shape of your flagship product. If you were really that concerned about Toblerone customers you would have consulted them.\" Michal Tat wrote: \"This must be up there with the dumbest corporate decisions of all time. You have a somewhat premium chocolate bar which is very well known for its distinctive shape, and to save money you change the shape? Now you have a premium-priced product that looks like a weird knock-off of itself.\" Alistair Calder wrote: \"Utterly ridiculous decision!! ... I'll never buy one of these.\" And Lee Yarker said: \"Fair enough reducing the weight of the bar, but why the big gap in between segments? Looks stupid imo [in my opinion], could have just made the bar shorter and kept the original design.\" Former Labour deputy prime minister John Prescott suggested the change was related to the Brexit vote. He tweeted: John Prescott (@johnprescott) Brexit just got real. Via @markcjgreenwood #toblerone pic.twitter.com/VyFT7KGDvv A spokeswoman for Mondelez International, the US food and drink corporation that owns the Toblerone brand, said the price rise was not related to Brexit. However, it comes after a number of companies sought to raise prices to offset the effect of a plunging pound since the vote to leave the EU. On Sunday, it emerged that Birds Eye fish fingers and Walkers crisps had joined Typhoo and Unilever, the owner of Marmite, and a number of smaller suppliers in an industry-wide battle over price increases caused by the 14.5% drop in the value of the pound against the euro and 18% against the dollar since the referendum. Toblerone was created in 1908 by Theodor Tobler, a second-generation chocolatier from Bern, Switzerland, in collaboration with his cousin Emil Baumann. Its name is a portmanteau of the creator's surname and \"torrone\", the Italian word for honey and almond nougat. Toblerone's own website proudly tells how the following year it became the first milk chocolate bar with almonds and honey to be protected by intellectual property laws after Tobler successfully applied for a patent to cover its manufacturing process. While many believe that the bar's shape is meant to evoke the Swiss Alps, a belief no doubt perpetuated by the image of the Matterhorn on its packaging, this is said to be a myth. Years later, Tobler's sons claimed that their father got his inspiration from the dancers of Paris's Folies Bergeres, who formed a pyramid at the climax of their show.",
+  "parsingError": "true",
+  "publisher": "theguardian",
+  "originalFilename": "theguardian-7",
+  "date_publish": "2016-11-08 09:34:41",
+  "dId": "5ea070bd70149f8937b167b2322b73f24b6cbd829653cced842d1f0c"
+}

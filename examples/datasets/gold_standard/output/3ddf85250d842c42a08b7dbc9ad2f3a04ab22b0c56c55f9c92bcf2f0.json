@@ -1,0 +1,850 @@
+{
+  "filename": "3ddf85250d842c42a08b7dbc9ad2f3a04ab22b0c56c55f9c92bcf2f0",
+  "title": "Hillary Clinton aide blames US presidential loss to Donald Trump on FBI chief ... because he CLEARED her of wrongdoing over Weiner emails",
+  "mimeType": "text/xml",
+  "url": "https://www.thesun.co.uk/news/2168742/hillary-clinton-aide-blames-us-presidential-loss-to-donald-trump-on-fbi-chief-because-he-cleared-her-of-wrongdoing-over-weiner-emails/",
+  "category": "clinton blames comey",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Hillary Clinton",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "A",
+                  "lemma": "a",
+                  "characterOffsetEnd": 1,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "A",
+                  "before": "",
+                  "index": 1,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2,
+                  "word": "TOP",
+                  "lemma": "top",
+                  "characterOffsetEnd": 5,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "TOP",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 6,
+                  "word": "aide",
+                  "lemma": "aide",
+                  "characterOffsetEnd": 10,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "aide",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 11,
+                  "word": "to",
+                  "lemma": "to",
+                  "characterOffsetEnd": 13,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "to",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "TO"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 14,
+                  "word": "failed",
+                  "lemma": "fail",
+                  "characterOffsetEnd": 20,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "failed",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 21,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 23,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 24,
+                  "word": "presidential",
+                  "lemma": "presidential",
+                  "characterOffsetEnd": 36,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "presidential",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 37,
+                  "word": "contender",
+                  "lemma": "contender",
+                  "characterOffsetEnd": 46,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "contender",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 47,
+                  "word": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetEnd": 54,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Hillary",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 55,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 62,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "A TOP aide to failed US presidential contender Hillary Clinton"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-12"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2994,
+                  "word": "Several",
+                  "lemma": "several",
+                  "timex": {
+                    "value": "2016-11-12T01:17",
+                    "tid": "t16",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 3001,
+                  "originalText": "Several",
+                  "normalizedNER": "2016-11-12T01:17",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "TIME",
+                  "index": 1,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 3002,
+                  "word": "days",
+                  "lemma": "day",
+                  "timex": {
+                    "value": "2016-11-12T01:17",
+                    "tid": "t16",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 3006,
+                  "originalText": "days",
+                  "normalizedNER": "2016-11-12T01:17",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "TIME",
+                  "index": 2,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 3007,
+                  "word": "later",
+                  "lemma": "later",
+                  "timex": {
+                    "value": "2016-11-12T01:17",
+                    "tid": "t16",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 3012,
+                  "originalText": "later",
+                  "normalizedNER": "2016-11-12T01:17",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "TIME",
+                  "index": 3,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ]
+          ],
+          "score": 0.825735857634921,
+          "text": "Several days later",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-12T01:17:00",
+              "end_date": "2016-11-12T01:17:59"
+            }
+          },
+          "nlpIndexSentence": 18
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "because he CLEARED her of wrongdoing over Weiner email",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "A",
+                  "lemma": "a",
+                  "characterOffsetEnd": 1,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "A",
+                  "before": "",
+                  "index": 1,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2,
+                  "word": "TOP",
+                  "lemma": "top",
+                  "characterOffsetEnd": 5,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "TOP",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 6,
+                  "word": "aide",
+                  "lemma": "aide",
+                  "characterOffsetEnd": 10,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "aide",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 11,
+                  "word": "to",
+                  "lemma": "to",
+                  "characterOffsetEnd": 13,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "to",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "TO"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 14,
+                  "word": "failed",
+                  "lemma": "fail",
+                  "characterOffsetEnd": 20,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "failed",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 21,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 23,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 24,
+                  "word": "presidential",
+                  "lemma": "presidential",
+                  "characterOffsetEnd": 36,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "presidential",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 37,
+                  "word": "contender",
+                  "lemma": "contender",
+                  "characterOffsetEnd": 46,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "contender",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 47,
+                  "word": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetEnd": 54,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Hillary",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 55,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 62,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.5844155844155844,
+          "text": "A TOP aide to failed US presidential contender Hillary Clinton"
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "pinned",
+          "coderPhraseCount": 2
+        },
+        {
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 21,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 23,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 24,
+                  "word": "presidential",
+                  "lemma": "presidential",
+                  "characterOffsetEnd": 36,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "presidential",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 37,
+                  "word": "contender",
+                  "lemma": "contender",
+                  "characterOffsetEnd": 46,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "contender",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 47,
+                  "word": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetEnd": 54,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Hillary",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 55,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 62,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 63,
+                  "word": "has",
+                  "lemma": "have",
+                  "characterOffsetEnd": 66,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "has",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "VBZ"
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 67,
+                  "word": "blamed",
+                  "lemma": "blame",
+                  "characterOffsetEnd": 73,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "blamed",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 74,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 77,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 78,
+                  "word": "election",
+                  "lemma": "election",
+                  "characterOffsetEnd": 86,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "election",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 87,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 89,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "US presidential contender Hillary Clinton has blamed the election of"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 21,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 23,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7,
+          "text": "US",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "148838",
+              "boundingbox": [
+                -14.7608358,
+                71.6048217,
+                -180.0,
+                180.0
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.2361730870995,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+              "osm_type": "relation",
+              "display_name": "United States of America",
+              "lat": "39.7837304",
+              "type": "administrative",
+              "place_id": "177579678",
+              "lon": "-100.4458825",
+              "class": "boundary"
+            }
+          }
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "blames US presidential loss to Donald Trump on FBI chief",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 63,
+                  "word": "has",
+                  "lemma": "have",
+                  "characterOffsetEnd": 66,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "has",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "VBZ"
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 67,
+                  "word": "blamed",
+                  "lemma": "blame",
+                  "characterOffsetEnd": 73,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "blamed",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 74,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 77,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 78,
+                  "word": "election",
+                  "lemma": "election",
+                  "characterOffsetEnd": 86,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "election",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "has blamed the election"
+        }
+      ]
+    }
+  },
+  "description": "A TOP aide to failed US presidential contender Hillary Clinton has blamed the election of rival Donald Trump on the head of the FBI.",
+  "text": "A TOP aide to failed US presidential contender Hillary Clinton has blamed the election of rival Donald Trump on the head of the FBI. A scathing letter by Navin Nayak, head of Clinton's research division, pinned the cause of her candidate's loss on FBI director James Comey. EPA 6 Clinton was investigated by the FBI in the days before the election over her use of private emails Splash News 6 FBI director James Comey cleared Clinton of wrongdoing days before Americans went to the polls AP:Associated Press 6 Clinton fans wept as she conceded defeat in the US election Comey announced a probe into the Democrat's private emails found on shamed sext-text former congressman Anthony Weiner's laptop just weeks before the election. But Nayak said that Comey's second announcement clearing Clinton of wrongdoing days before Americans went to the polls actually HELPED billionaire Trump reach the White House. \"We believe that we lost this election in the last week\", she wrote in the letter seen by Politico. Related Stories email cleared Why has the Hillary Clinton email probe been dropped by the FBI and how will it affect the US Election result? CLINTON CLEARED FBI reveals probe into Hillary Clinton's emails finds no evidence of crime committed THE DYNASTY CONTINUES Chelsea Clinton 'groomed to run for Congress' - just days after Hillary's crushing defeat MADAME PRESIDENT Did Hillary Clinton just fire the starting gun on Michelle Obama's 2020 presidential bid? every loser wins What will Hillary Clinton do now after conceding the US presidential election to Donald Trump? HILLARY'S LAST HOPE Hillary Clinton could still end up in the White House in one possible scenario that could shake America HE'S GONE SOFT! Donald Trump fans slam soon-to-be president for praising Hillary Clinton during his acceptance speech \"Comey's letter in the last 11 days of the election both helped depress our turnout and also drove away some of our critical support among college-educated white voters -- particularly in the suburbs\". \"We also think Comey's 2nd letter, which was intended to absolve Sec. Clinton, actually helped to bolster Trump's turnout.\" Clinton was set to win up until the last week of the election, according to Nayak. \"Voters who decided in the last week broke for Trump by a larger margin...\" she explained. \"These numbers were even more exaggerated in the key battleground states.\" 6 A probe was launched into Clinton when police searching the laptop of sext-pest Anthony Weiner - husband of a top Clinton aide - found 600,000 emails from Clinton Getty Images 6 Victorious Trump met President Obama for the first time on Thursday The FBI chief issued two bombshell letters to Congress right before the election. The first disclosed that agents had seized a laptop shared by Clinton aide Huma Abedin and her husband Anthony Weiner. The laptop contained more than 600,000 emails related to a previous investigation into Clinton's private email server, which was wrapped up in July. Several days later, Comey issued a second letter saying the FBI had analyzed the new materials and hadn't changed its conclusion that there was no reason to prosecute Clinton. Nayak said the second letter \"energized Trump supporters.\" She also noted that after record early voting numbers, there was a significant drop in turnout in cities like Philadelphia, Raleigh-Durham, Milwaukee and Detroit when the first letter became public. \"In the end, late breaking developments in the race proved one hurdle too many for us to overcome,\" Nayak said. Hillary Clinton delivers her post-defeat speech to America after surprise loss to Trump",
+  "parsingError": "true",
+  "publisher": "thesun",
+  "originalFilename": "thesun-3",
+  "date_publish": "2016-11-11 22:11:17",
+  "dId": "3ddf85250d842c42a08b7dbc9ad2f3a04ab22b0c56c55f9c92bcf2f0"
+}

@@ -1,0 +1,878 @@
+{
+  "filename": "481182a1b8f15b50eaae2109123ccc42f6eeef2cbf3b480b71e4375a",
+  "title": "Toblerone increase the gaps between the bar's iconic peaks to make them lighter",
+  "mimeType": "text/xml",
+  "url": "http://www.dailymail.co.uk/news/article-3915960/Toblerone-increase-gaps-bar-s-iconic-peaks-make-lighter.html",
+  "category": "toberone-gate",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Toblerone",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Mondelez International",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 44,
+                  "word": "Toblerone",
+                  "lemma": "Toblerone",
+                  "characterOffsetEnd": 53,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "Toblerone",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "Toblerone"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "November 8, 2016",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-08"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1810,
+                  "word": "November",
+                  "lemma": "November",
+                  "timex": {
+                    "value": "2016-11-08",
+                    "tid": "t4",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 1818,
+                  "originalText": "November",
+                  "normalizedNER": "2016-11-08",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 7,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1819,
+                  "word": "8",
+                  "lemma": "8",
+                  "timex": {
+                    "value": "2016-11-08",
+                    "tid": "t4",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 1820,
+                  "originalText": "8",
+                  "normalizedNER": "2016-11-08",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 8,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1820,
+                  "word": ",",
+                  "lemma": ",",
+                  "timex": {
+                    "value": "2016-11-08",
+                    "tid": "t4",
+                    "type": "DATE"
+                  },
+                  "before": "",
+                  "characterOffsetEnd": 1821,
+                  "originalText": ",",
+                  "normalizedNER": "2016-11-08",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 9,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1822,
+                  "word": "2016",
+                  "lemma": "2016",
+                  "timex": {
+                    "value": "2016-11-08",
+                    "tid": "t4",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 1826,
+                  "originalText": "2016",
+                  "normalizedNER": "2016-11-08",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 10,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ]
+          ],
+          "score": 0.8171773253413154,
+          "text": "November 8 , 2016",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-08T00:00:00",
+              "end_date": "2016-11-08T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 14
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "to make them lighter",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 232,
+                  "word": "because",
+                  "lemma": "because",
+                  "characterOffsetEnd": 239,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "because",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 240,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 242,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 243,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 246,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 247,
+                  "word": "`",
+                  "lemma": "`",
+                  "characterOffsetEnd": 248,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "'",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "``"
+                }
+              },
+              "``"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 248,
+                  "word": "higher",
+                  "lemma": "higher",
+                  "characterOffsetEnd": 254,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "higher",
+                  "before": "",
+                  "index": 16,
+                  "pos": "JJR"
+                }
+              },
+              "JJR"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 255,
+                  "word": "costs",
+                  "lemma": "cost",
+                  "characterOffsetEnd": 260,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "costs",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 261,
+                  "word": "for",
+                  "lemma": "for",
+                  "characterOffsetEnd": 264,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "for",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 265,
+                  "word": "ingredients",
+                  "lemma": "ingredient",
+                  "characterOffsetEnd": 276,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "ingredients",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 276,
+                  "word": "'",
+                  "lemma": "'",
+                  "characterOffsetEnd": 277,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "'",
+                  "before": "",
+                  "index": 20,
+                  "pos": "POS"
+                }
+              },
+              "POS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 278,
+                  "word": "-",
+                  "lemma": "-",
+                  "characterOffsetEnd": 279,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "-",
+                  "before": " ",
+                  "index": 21,
+                  "pos": ":"
+                }
+              },
+              ":"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 280,
+                  "word": "such",
+                  "lemma": "such",
+                  "characterOffsetEnd": 284,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "such",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 285,
+                  "word": "as",
+                  "lemma": "as",
+                  "characterOffsetEnd": 287,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "as",
+                  "before": " ",
+                  "index": 23,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 288,
+                  "word": "cocoa",
+                  "lemma": "cocoa",
+                  "characterOffsetEnd": 293,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "cocoa",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 294,
+                  "word": "-",
+                  "lemma": "-",
+                  "characterOffsetEnd": 295,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "-",
+                  "before": " ",
+                  "index": 25,
+                  "pos": ":"
+                }
+              },
+              ":"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 296,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 298,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 26,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 299,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 302,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 27,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 303,
+                  "word": "wake",
+                  "lemma": "wake",
+                  "characterOffsetEnd": 307,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "wake",
+                  "before": " ",
+                  "index": 28,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 308,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 310,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 29,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 311,
+                  "word": "Brexit",
+                  "lemma": "Brexit",
+                  "characterOffsetEnd": 317,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "Brexit",
+                  "before": " ",
+                  "index": 30,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 317,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 318,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 31,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.988831168831169,
+          "text": "because of the ' higher costs for ingredients ' - such as cocoa - in the wake of Brexit .",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "increased the gaps between the bar's iconic triangular peaks",
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 88,
+                  "word": "'s",
+                  "lemma": "'s",
+                  "characterOffsetEnd": 90,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "'s",
+                  "before": "",
+                  "index": 15,
+                  "pos": "POS"
+                }
+              },
+              "POS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 91,
+                  "word": "iconic",
+                  "lemma": "iconic",
+                  "characterOffsetEnd": 97,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "iconic",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 98,
+                  "word": "triangular",
+                  "lemma": "triangular",
+                  "characterOffsetEnd": 108,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "triangular",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 109,
+                  "word": "peaks",
+                  "lemma": "peak",
+                  "characterOffsetEnd": 114,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "peaks",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 115,
+                  "word": "as",
+                  "lemma": "as",
+                  "characterOffsetEnd": 117,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "as",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 118,
+                  "word": "a",
+                  "lemma": "a",
+                  "characterOffsetEnd": 119,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "a",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 120,
+                  "word": "cost-cutting",
+                  "lemma": "cost-cutting",
+                  "characterOffsetEnd": 132,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "cost-cutting",
+                  "before": " ",
+                  "index": 21,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 133,
+                  "word": "measure",
+                  "lemma": "measure",
+                  "characterOffsetEnd": 140,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "measure",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 141,
+                  "word": "to",
+                  "lemma": "to",
+                  "characterOffsetEnd": 143,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "to",
+                  "before": " ",
+                  "index": 23,
+                  "pos": "TO"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 144,
+                  "word": "reduce",
+                  "lemma": "reduce",
+                  "characterOffsetEnd": 150,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "reduce",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "VB"
+                }
+              },
+              "VB"
+            ]
+          ],
+          "score": 1.0,
+          "text": "'s iconic triangular peaks as a cost-cutting measure to reduce"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "UK",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 311,
+                  "word": "Brexit",
+                  "lemma": "Brexit",
+                  "characterOffsetEnd": 317,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "Brexit",
+                  "before": " ",
+                  "index": 30,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6921293302720689,
+          "text": "Brexit",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "427813952",
+              "osm_type": "way",
+              "display_name": "Brexit, Bizzarri, Scandicci, FI, TOS, 50018, Italia",
+              "lon": "11.1656929",
+              "lat": "43.7370182",
+              "boundingbox": [
+                43.7365141,
+                43.7387679,
+                11.1651824,
+                11.1672712
+              ],
+              "place_id": "165365952",
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "type": "track",
+              "importance": 0.135,
+              "class": "highway"
+            }
+          },
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "increase the gaps between the bar's iconic peaks",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 54,
+                  "word": "increased",
+                  "lemma": "increase",
+                  "characterOffsetEnd": 63,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "increased",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 64,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 67,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 68,
+                  "word": "gaps",
+                  "lemma": "gap",
+                  "characterOffsetEnd": 72,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "gaps",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ]
+          ],
+          "score": 1.0,
+          "text": "increased the gaps"
+        }
+      ]
+    }
+  },
+  "description": "The controversial change to the Swiss chocolate bar was made because of the 'higher costs for numerous ingredients' in the wake of Brexit.",
+  "text": "Chocolate fans have vented their fury after Toblerone increased the gaps between the bar's iconic triangular peaks as a cost-cutting measure to reduce the weight. The controversial UK-only change to the Swiss chocolate bar was made because of the 'higher costs for ingredients' - such as cocoa - in the wake of Brexit. US-based Mondelez International, which owns Toblerone and Cadbury, denied the change was made 'as a direct result of Brexit', but it pointed out the exchange rate was 'not favourable'. The move by the company, formerly known as Kraft, has resulted in the weight of the 400g bars being reduced to 360g and the 170g bars to 150g, while the price remains the same. Chocolate fans have vented their fury after Toblerone increased the gaps between the bar's iconic triangular chunks to reduce the weight of the popular treat The move has resulted in the weight of the 400g bars being reduced to 360g and the 170g bars to 150g, while the price remains the same It comes after a number of companies sought to raise prices to offset the effect of a plunging pound following the vote to leave the EU. Hundreds have taken to social media to voice their 'disgust' at the bigger spaces between the Toblerone peaks, although the packaging will remain the same size. Comedian Ricky Gervais led the outrage, saying: 'First Brexit and now this.' One shared a picture of the new chocolate bar and said: 'I've been to funerals less upsetting than this'. Josephine tweeted: 'First marmite, now toblerone. Brexit is taking away everything I love.' Alistair Calder wrote on Facebook, saying: 'Utterly ridiculous decision!! Make it shorter or make it more expensive - much more honest.' First marmite, now toblerone. Brexit is taking away everything I love. pic.twitter.com/bEutJ9i0ys -- Seosaimhin (@josephiine) November 8, 2016 Dozens of people have posted memes and said they feel 'cheated' by the change Nicholas Barker said: 'You should have just increased the price. It's not as if people eat Toblerone everyday. You could literally double the price and people would still buy it. Fools.' Tony Mathews said: 'You really should of kept the traditional 'brand' spacing, what you've done is make the product look cheap.' HOW DID THE DELICIOUS CHOCOLATE GET ITS NAME? The name Toblerone originates from the Swiss chocolatier's family name 'Tobler' combined with 'torrone', the Italian word for nougat. Many chocolate lovers believe that Theodor Tobler took his inspiration from his mountainous homeland, and in particular the Matterhorn with its characteristic triangular shape. But his sons have claimed the Toblerone bar was modelled on a line of dancers at the Folies Bergeres in Paris, forming a shapely pyramid at the end of a show. Dan Rickwood wrote: 'Hi Toblerone, I am one of your biggest fans and love your chocolate, but I bought a 150g toblerone earlier only to be left upset disappointed and a little distressed! 'In fact I felt cheated on a tad in the way that they are now spaced out so much loosing out on toblerone goodness, I'm upset toblerone I'm sorry but I really am.' Others said the design change, which has seen an almost 10 per cent decrease in weight, made the chocolate look like a 'toothless comb'. It is believed to affect two bars in the UK. The signature 100-gram Toblerone bar and other vendors are not affected. Mondelez has not yet confirmed whether the changes to the Toblerone bar will be rolled out to other countries. In a statement, the owner said: 'Like many other companies, we are experiencing higher costs for numerous ingredients. 'We carry these costs for as long as possible, but to ensure Toblerone remains on-shelf, is affordable and retains the triangular shape, we have had to reduce the weight of just two of our bars in the UK, from the wider range of available Toblerone products.' Toblerone was invented in Switzerland and is still made in the capital, Bern. Mondelez confirmed to MailOnline that the change came as a result of the increasing price of cocoa. Comedian Ricky Gervais lead the outrage, saying: 'First Brexit and now this' Toblerone lovers took to social media to voice their 'disgust' after learning there will be much bigger spaces between the chocolate peaks Mondelez confirmed to MailOnline that the change came as a result of the increasing price of cocoa, pictured is the original bar The price of cocoa hit a 39-year high just days after the results of the Brexit vote was announced. Cocoa traded in London denominated in sterling rose to PS2,495 a tonne by early July, the highest level since 1977 as the pound hit a 31-year low. Mondelez has previously come under fire for 'ruining' much-loved Cadbury's products. Last year, it became embroiled in controversy over the decision to replace Dairy Milk in its recipe for Cadbury's Creme Eggs with cheaper chocolate. Consumers have also complained about Daily Milk bars being given rounded edges, bars shrinking and the axing of Cadbury chocolate coins. Robert Haigh, director at consultancy Brand Finance, said the change to the Toblerone bars was 'quite risky' and could be seen as 'deceptive'. Hundreds of chocolate lovers took to social media to say they felt 'cheated' by the decision He said: 'They have tinkered around with some products with mixed success. Creme Egg sales plunged when they changed the recipe, for example. 'Not changing the packaging could be seen as deceptive and we will wait to see whether it has a negative effect. 'Like Marmite, Toblerone has an impact on the cultural consciousness that far outweighs its actual popularity.' The announcement from Toblerone comes after Unilever increased the price of several popular products due to the falling value of sterling. Last month, Unilever announced it would be pulling 200 products from the shelves of Tesco - including Marmite. The pro-EU company blamed Britain's Brexit vote and the falling pound on price hikes across its product range. Supermarket shoppers face forking out more for household staples like PG Tips, Persil and Hellmann's mayonnaise, as the Marmite debacle deepens.",
+  "parsingError": "true",
+  "publisher": "dailymail",
+  "originalFilename": "dailymail-14",
+  "date_publish": "2016-11-08 09:09:27",
+  "dId": "481182a1b8f15b50eaae2109123ccc42f6eeef2cbf3b480b71e4375a"
+}

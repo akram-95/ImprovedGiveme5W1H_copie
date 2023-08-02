@@ -1,0 +1,268 @@
+{
+  "filename": "8439c5b07d758319b42bc274b0519829ba43fa7a98c7c5d5073fff2d",
+  "title": "Max Verstappen even stuns his dad by storming home into third place at Brazilian Grand Prix",
+  "mimeType": "text/xml",
+  "url": "http://www.telegraph.co.uk/formula-1/2016/11/13/max-verstappen-even-stuns-his-dad-by-storming-home-into-third-pl/",
+  "category": "f1",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Max Verstappen",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "father, Jos",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who"
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Sunday's Brazilian Grand Prix",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-13"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "charging from 16th place to finish third",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "why"
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "brilliance",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "charging from 16th place to finish third",
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 106,
+                  "word": "seen",
+                  "lemma": "see",
+                  "characterOffsetEnd": 110,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "seen",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 111,
+                  "word": "many",
+                  "lemma": "many",
+                  "characterOffsetEnd": 115,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "many",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 116,
+                  "word": "races",
+                  "lemma": "race",
+                  "characterOffsetEnd": 121,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "races",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 122,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 124,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 125,
+                  "word": "this",
+                  "lemma": "this",
+                  "characterOffsetEnd": 129,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "this",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 129,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 130,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 9,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 131,
+                  "word": "and",
+                  "lemma": "and",
+                  "characterOffsetEnd": 134,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "and",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 135,
+                  "word": "this",
+                  "lemma": "this",
+                  "characterOffsetEnd": 139,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "this",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 140,
+                  "word": "was",
+                  "lemma": "be",
+                  "characterOffsetEnd": 143,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "was",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 144,
+                  "word": "incredible",
+                  "lemma": "incredible",
+                  "characterOffsetEnd": 154,
+                  "speaker": "6",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "incredible",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ]
+          ],
+          "score": 0.7010869565217392,
+          "text": "seen many races of this , and this was incredible",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Brazilian Grand Prix",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where"
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "even stuns his dad by storming home into third place",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what"
+    }
+  },
+  "description": "The jaw-dropping brilliance of Max Verstappen, who leapfrogged both Kimi Raikkonen and Nico Rosberg before charging from 16th place to finish third in Brazil, took even his own father aback.",
+  "text": "\"I must say that he surprised me,\" said father, Jos, who competed in Formula One from 1994 to 2003. \"I've seen many races of this, and this was incredible. Although Red Bull didn't have the right strategy and were unlucky with the weather, it was almost worth them having a bad stop to see what he did afterwards. It's good for F1, everyone is enthusiastic. What more do you want?\" Equally enraptured was Niki Lauda, the former world champion and Mercedes' non-executive chairman. Congratulating the Verstappen family, he said: \"Max was outstanding with the passes he performed. He did a job that was impressive. I knew the guy was good, but he has proved again to everybody what he can do.\"",
+  "parsingError": "true",
+  "publisher": "telegraph",
+  "originalFilename": "telegraph-7",
+  "date_publish": "2016-11-13 21:29:29",
+  "dId": "8439c5b07d758319b42bc274b0519829ba43fa7a98c7c5d5073fff2d"
+}

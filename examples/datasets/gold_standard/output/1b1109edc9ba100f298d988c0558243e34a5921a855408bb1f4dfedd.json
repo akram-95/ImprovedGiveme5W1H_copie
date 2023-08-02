@@ -1,0 +1,567 @@
+{
+  "category": "clinton blames comey",
+  "dId": "1b1109edc9ba100f298d988c0558243e34a5921a855408bb1f4dfedd",
+  "date_publish": "2016-11-12 00:00:00",
+  "description": "In a conference call with financial supporters, the Democratic nominee focused on the outside events she said affected her campaign in the last three weeks of the election, but she said nothing about other, larger forces at work.",
+  "filename": "1b1109edc9ba100f298d988c0558243e34a5921a855408bb1f4dfedd",
+  "fiveWoneH": {
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "affected"
+        },
+        {
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 362,
+                  "characterOffsetEnd": 365,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "presidential",
+                  "originalText": "presidential",
+                  "lemma": "presidential",
+                  "characterOffsetBegin": 366,
+                  "characterOffsetEnd": 378,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 7,
+                  "word": "election",
+                  "originalText": "election",
+                  "lemma": "election",
+                  "characterOffsetBegin": 379,
+                  "characterOffsetEnd": 387,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": "to",
+                  "originalText": "to",
+                  "lemma": "to",
+                  "characterOffsetBegin": 388,
+                  "characterOffsetEnd": 390,
+                  "pos": "TO",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "Donald",
+                  "originalText": "Donald",
+                  "lemma": "Donald",
+                  "characterOffsetBegin": 391,
+                  "characterOffsetEnd": 397,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "Trump",
+                  "originalText": "Trump",
+                  "lemma": "Trump",
+                  "characterOffsetBegin": 398,
+                  "characterOffsetEnd": 403,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": ",",
+                  "originalText": ",",
+                  "lemma": ",",
+                  "characterOffsetBegin": 403,
+                  "characterOffsetEnd": 404,
+                  "pos": ",",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "former",
+                  "originalText": "former",
+                  "lemma": "former",
+                  "characterOffsetBegin": 405,
+                  "characterOffsetEnd": 411,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "secretary",
+                  "originalText": "secretary",
+                  "lemma": "secretary",
+                  "characterOffsetBegin": 412,
+                  "characterOffsetEnd": 421,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 422,
+                  "characterOffsetEnd": 424,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "the presidential election to Donald Trump , former secretary of",
+          "nlpIndexSentence": 3
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "blamed the renewed FBI inquiry"
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 3,
+                  "word": "blames",
+                  "originalText": "blames",
+                  "lemma": "blame",
+                  "characterOffsetBegin": 16,
+                  "characterOffsetEnd": 22,
+                  "pos": "VBZ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 4,
+                  "word": "one",
+                  "originalText": "one",
+                  "lemma": "one",
+                  "characterOffsetBegin": 23,
+                  "characterOffsetEnd": 26,
+                  "pos": "CD",
+                  "ner": "NUMBER",
+                  "normalizedNER": "1.0",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "Comey",
+                  "originalText": "Comey",
+                  "lemma": "Comey",
+                  "characterOffsetBegin": 27,
+                  "characterOffsetEnd": 32,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "letter",
+                  "originalText": "letter",
+                  "lemma": "letter",
+                  "characterOffsetBegin": 33,
+                  "characterOffsetEnd": 39,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "blames one Comey letter"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-12",
+          "text": "Saturday"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 1,
+                  "word": "A",
+                  "originalText": "A",
+                  "lemma": "a",
+                  "characterOffsetBegin": 3425,
+                  "characterOffsetEnd": 3426,
+                  "pos": "DT",
+                  "ner": "TIME",
+                  "normalizedNER": "2016-11-11T00:00",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t15",
+                    "type": "TIME",
+                    "value": "2016-11-11T00:00"
+                  }
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 2,
+                  "word": "day",
+                  "originalText": "day",
+                  "lemma": "day",
+                  "characterOffsetBegin": 3427,
+                  "characterOffsetEnd": 3430,
+                  "pos": "NN",
+                  "ner": "TIME",
+                  "normalizedNER": "2016-11-11T00:00",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t15",
+                    "type": "TIME",
+                    "value": "2016-11-11T00:00"
+                  }
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 3,
+                  "word": "earlier",
+                  "originalText": "earlier",
+                  "lemma": "earlier",
+                  "characterOffsetBegin": 3431,
+                  "characterOffsetEnd": 3438,
+                  "pos": "RB",
+                  "ner": "TIME",
+                  "normalizedNER": "2016-11-11T00:00",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": "",
+                  "timex": {
+                    "tid": "t15",
+                    "type": "TIME",
+                    "value": "2016-11-11T00:00"
+                  }
+                }
+              },
+              "RB"
+            ]
+          ],
+          "score": 0.7482299293039925,
+          "text": "A day earlier",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-11T00:00:00",
+              "end_date": "2016-11-11T00:00:59"
+            }
+          },
+          "nlpIndexSentence": 27
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "New",
+                  "originalText": "New",
+                  "lemma": "New",
+                  "characterOffsetBegin": 4633,
+                  "characterOffsetEnd": 4636,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "York",
+                  "originalText": "York",
+                  "lemma": "York",
+                  "characterOffsetBegin": 4637,
+                  "characterOffsetEnd": 4641,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6756748428946837,
+          "text": "New York",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "175905",
+              "boundingbox": [
+                40.477399,
+                40.9161785,
+                -74.25909,
+                -73.7001809
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.39573204749775,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+              "osm_type": "relation",
+              "display_name": "NYC, New York, United States of America",
+              "lat": "40.7306458",
+              "type": "city",
+              "place_id": "178508484",
+              "lon": "-73.9866136",
+              "class": "place"
+            }
+          },
+          "nlpIndexSentence": 33
+        }
+      ]
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Hillary Clinton"
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 1,
+                  "word": "Hillary",
+                  "originalText": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetBegin": 0,
+                  "characterOffsetEnd": 7,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 2,
+                  "word": "Clinton",
+                  "originalText": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetBegin": 8,
+                  "characterOffsetEnd": 15,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "Hillary Clinton"
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "for blunting her momentum"
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 17,
+                  "word": "she",
+                  "originalText": "she",
+                  "lemma": "she",
+                  "characterOffsetBegin": 207,
+                  "characterOffsetEnd": 210,
+                  "pos": "PRP",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "PRP"
+            ]
+          ],
+          "score": 0.5717237308146399,
+          "text": "she",
+          "nlpIndexSentence": 1
+        }
+      ]
+    }
+  },
+  "mimeType": "text/xml",
+  "originalFilename": "washingtonpost-3",
+  "parsingError": "true",
+  "publisher": "washingtonpost",
+  "text": "The morning after losing the presidential election to Donald Trump, former secretary of state Hillary Clinton steps onto the stage to deliver her concession speech. (Melina Mara/The Washington Post) Hillary Clinton blamed the renewed FBI inquiry into her State Department email system for blunting her momentum in the presidential election and the closure of that inquiry two days before Election Day for energizing voters for Donald Trump. \"There are lots of reasons why an election like this is not successful,\" Clinton told top donors on a farewell conference call Saturday. \"But our analysis is that [FBI Director James B.] Comey's letter raising doubts that were groundless, baseless, proven to be, stopped our momentum,\" she said. [A series of strategic mistakes likely sealed Clinton's fate] \"We dropped, and we had to keep really pushing ahead to regain our advantage -- which going into the last weekend, we had. We were once again up in all but two of the battleground states, and we were up considerably in some that we ended up losing. And we were feeling like we had put it back together,\" she continued. Democratic presidential nominee Hillary Clinton said the letter from FBI Director James Comey announcing an inquiry into additional emails was \"pretty strange\" and \"unprecedented\" with days to go before Election Day. Clinton told supporters at a rally in Daytona Beach, Fla., that voters \"deserve to get full and complete facts.\" (The Washington Post) The surprise announcement of a revival of the shuttered FBI inquiry came at a time when the campaign was riding high, Clinton said. \"After the third debate, we felt so good about where we were,\" she said. Trump's performance in the Oct. 19 debate was widely panned, especially his refusal to say that he would respect the outcome of the election if he lost. Democrats called him a sore loser. \"We were up considerably in all but two of the battleground states where we were tied or one behind, according to our data,\" Clinton said. \"We were tied in Arizona. We just had a real wind at our back,\" before the first, stunning letter from Comey. Clinton's campaign insisted the reopened inquiry would turn up nothing, and many Democrats accused Comey of partisan motives. He was once a registered Republican. Comey has not commented publicly on either letter. His defenders have said there was no partisan intent and that he should not be blamed for Clinton's loss to an opponent who ultimately had a deeper well of support among voters. Clinton did not accuse Comey of partisanship Saturday. But she did say that what should have been good news essentially backfired. Comey issued another letter to Congress on the Sunday before Election Day, concluding that the nine-day examination of newly discovered emails had turned up nothing to change his earlier conclusion that there had been no criminal conduct. \"Just as we were back up on the upward trajectory, the second letter from Comey essentially doing what we knew it would -- saying there was no there there -- was a real motivator for Trump's voters,\" Clinton said. A day earlier, Clinton communications director Jennifer Palmieri had told the same group of donors something similar -- that the news angered Trump voters and caused a spike in turnout, while Clinton's projected turnout fell. \"Trump spent the last four days of this campaign engaged in a nonstop attack on me personally, and the result is the result,\" Clinton said. [Signs of trouble on Clinton's last day on the trail] The Democrat focused on the outside events she said affected her campaign in the last three weeks of the election. She said nothing about other, larger forces at work -- Trump's message of change in a restive time, his pledge to represent the aggrieved working class, the difficulty of any political party winning a third consecutive presidential term, her own limited attention to economic anxiety, or the sexism and discomfort that surrounded her attempt to become the first female president. 1 of 57 Full Screen Autoplay Close Skip Ad x Hillary Clinton's campaign comes to an end View Photos Hillary Clinton loses to Donald Trump in the 2016 presidential election. Caption Hillary Clinton loses to Donald Trump in the 2016 presidential election. Nov. 9, 2016 Hillary Clinton speaks in New York while her husband, former president Bill Clinton, applauds. Melina Mara/The Washington Post Buy Photo Wait 1 second to continue. Palmieri had pointed blame at much of that Friday. Neither she nor Clinton herself addressed how Clinton's decision seven years ago to use a private system for her government communication had opened the door to the FBI inquiry in the midst of her second run for the White House. Clinton has said the decision was a mistake. \"I am heartbroken,\" she said Saturday, with a sad laugh. \"I'm not going to pretend otherwise. This is a very, very tough loss and especially because everyone worked so hard.\" Before Clinton spoke Saturday, her finance director had congratulated the group of top fundraisers for bringing in more than half of the nearly $1 billion raised for Clinton's campaign. The National Finance Committee, as it was known, was made up of donors who amassed, or \"bundled\" at least $100,000 in donations from others. Finance director Dennis Cheng ran through numbers that illustrate how heavily Clinton relied upon big donors:",
+  "title": "Hillary Clinton blames one Comey letter for stopping momentum and the other for turning out Trump voters",
+  "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/12/hillary-clinton-blames-one-comey-letter-for-stopping-momentum-and-the-other-for-turning-out-trump-voters/"
+}

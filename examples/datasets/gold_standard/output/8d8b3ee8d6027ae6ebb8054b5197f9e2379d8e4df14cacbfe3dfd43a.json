@@ -1,0 +1,258 @@
+{
+  "filename": "8d8b3ee8d6027ae6ebb8054b5197f9e2379d8e4df14cacbfe3dfd43a",
+  "title": "Lady Gaga protests outside Trump Tower",
+  "mimeType": "text/xml",
+  "url": "http://www.telegraph.co.uk/news/2016/11/09/lady-gaga-protests-outside-trump-tower/",
+  "category": "gaga protests",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Lady Gaga",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who"
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Wednesday morning",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-09"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "why"
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "was photographed",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 20,
+                  "word": "a",
+                  "lemma": "a",
+                  "characterOffsetEnd": 21,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "a",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 22,
+                  "word": "prominent",
+                  "lemma": "prominent",
+                  "characterOffsetEnd": 31,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "prominent",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 32,
+                  "word": "supporter",
+                  "lemma": "supporter",
+                  "characterOffsetEnd": 41,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "supporter",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 42,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 44,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 45,
+                  "word": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetEnd": 52,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Hillary",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 53,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 60,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": "",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 60,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 61,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 11,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 62,
+                  "word": "was",
+                  "lemma": "be",
+                  "characterOffsetEnd": 65,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "was",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 66,
+                  "word": "photographed",
+                  "lemma": "photograph",
+                  "characterOffsetEnd": 78,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "photographed",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 79,
+                  "word": "protesting",
+                  "lemma": "protest",
+                  "characterOffsetEnd": 89,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "protesting",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "VBG"
+                }
+              },
+              "VBG"
+            ]
+          ],
+          "score": 0.7316053511705687,
+          "text": "a prominent supporter of Hillary Clinton , was photographed protesting"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "New York City",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where"
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "protests outside Trump Tower",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what"
+    }
+  },
+  "description": "Musician Lady Gaga, a prominent supporter of Hillary Clinton, was photographed protesting outside Trump Tower in New York City in the early hours of Wednesday morning.",
+  "text": "Musician Lady Gaga, a prominent supporter of Hillary Clinton, was photographed protesting outside Trump Tower in New York City in the early hours of Wednesday morning. The star stood on a sanitation truck, holding a sign reading 'Love trumps hate.' A Trump Tower clock can be seen in the background. Lady Gaga had been seen in tears earlier in the evening while sat backstage at Clinton's election night party, according to MSNBC Political Correspondent Kasie Hunt. As it became clear that Donald Trump would become the next president of the United States, Gaga tweeted: \"In a room full of hope, we will be heard. Stand up for kindness, equality, and love. Nothing will stop us. Say a prayer America\". Speaking at a Clinton campaign rally earlier this week, the singer spoke passionately in support of the Democratic candidate, saying: \"She has a career in politics that spans decades of experience, education, leadership, and wisdom. She's ready to be president.",
+  "parsingError": "true",
+  "publisher": "telegraph",
+  "originalFilename": "telegraph-5",
+  "date_publish": "2016-11-09 11:01:01",
+  "dId": "8d8b3ee8d6027ae6ebb8054b5197f9e2379d8e4df14cacbfe3dfd43a"
+}

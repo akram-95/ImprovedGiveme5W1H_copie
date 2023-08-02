@@ -1,0 +1,833 @@
+{
+  "category": "toberone-gate",
+  "dId": "2f79eb6f3371ab81f51d7028fdc75f27d89c07183e0d1b5f4bb8139f",
+  "date_publish": "2016-11-08 14:54:51",
+  "description": "It's a triangle offense.\n\n\n\nToblerone is facing a mountain of criticism from British consumers who are outraged over the bigger spaces between the distinctive peaks in the chocolate bar.\n\n\n\nThe product's maker, US-based Mondelez International, attributes the revolt to an effort to reduce the weight of what were 400-gram and 170-gram bars.\n\n\n\n\"Like many other companies, we are experiencing higher costs for numerous ingredients,\" Toblerone said on its Facebook page.\n\n\n\n\"We carry these costs for as long as possible, but to ensure Toblerone remains on-shelf, is affordable and retains the triangular shape, we have had to reduce the weight of just two of our bars in the UK, from the wider range of available Toblerone products,\" it said.\n\n\n\nAs a result, the two bars have been reduced in weight to 360 grams and 150 grams - but the packaging size has remained the same.\n\n\n\nBut consumers were bent out of shape and roundly panned the move.\n\n\n\n\"Fair enough reducing the weight of the bar, but why the big gap in between segments? Looks stupid imo [in my opinion], could have just made the bar shorter and kept the original design,\" Lee Yarker wrote.\n\n\n\nStephen Mason noted that \"Toblerone is all about the triangle.\"\n\n\n\n\"Why couldn't you just lose a triangle at the end or make the triangles smaller? I'm afraid that this is going the way of Cadbury Creme Egg and off my seasonal treat list as I will forever be disappointed,\" he wrote.\n\n\n\nAnd Nicholas Barker asked why not just raise the price?\n\n\n\n\"It's not as if people eat Toblerone everyday. You could literally double the price and people would still buy it. Fools,\" he ranted.\n\n\n\nOther food companies have announced price hikes because of the falling value of the British pound after Brexit - the UK's decision to leave the European Union.\n\n\n\nA spokeswoman for Toblerone - which was originally created in Switzerland -- acknowledged that the foreign exchange rate was unfavorable, but insisted that \"this change wasn't done as a result of Brexit,\" the BBC reported.",
+  "filename": "2f79eb6f3371ab81f51d7028fdc75f27d89c07183e0d1b5f4bb8139f",
+  "fiveWoneH": {
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "criticism"
+        },
+        {
+          "coderPhraseCount": 1,
+          "text": "facing"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": "from",
+                  "originalText": "from",
+                  "lemma": "from",
+                  "characterOffsetBegin": 123,
+                  "characterOffsetEnd": 127,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "British",
+                  "originalText": "British",
+                  "lemma": "british",
+                  "characterOffsetBegin": 128,
+                  "characterOffsetEnd": 135,
+                  "pos": "JJ",
+                  "ner": "MISC",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "consumers",
+                  "originalText": "consumers",
+                  "lemma": "consumer",
+                  "characterOffsetBegin": 136,
+                  "characterOffsetEnd": 145,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "who",
+                  "originalText": "who",
+                  "lemma": "who",
+                  "characterOffsetBegin": 146,
+                  "characterOffsetEnd": 149,
+                  "pos": "WP",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "WP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "are",
+                  "originalText": "are",
+                  "lemma": "be",
+                  "characterOffsetBegin": 150,
+                  "characterOffsetEnd": 153,
+                  "pos": "VBP",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "outraged",
+                  "originalText": "outraged",
+                  "lemma": "outrage",
+                  "characterOffsetBegin": 154,
+                  "characterOffsetEnd": 162,
+                  "pos": "VBN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": "over",
+                  "originalText": "over",
+                  "lemma": "over",
+                  "characterOffsetBegin": 163,
+                  "characterOffsetEnd": 167,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 15,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 168,
+                  "characterOffsetEnd": 171,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 16,
+                  "word": "bigger",
+                  "originalText": "bigger",
+                  "lemma": "bigger",
+                  "characterOffsetBegin": 172,
+                  "characterOffsetEnd": 178,
+                  "pos": "JJR",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJR"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 17,
+                  "word": "spaces",
+                  "originalText": "spaces",
+                  "lemma": "space",
+                  "characterOffsetBegin": 179,
+                  "characterOffsetEnd": 185,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNS"
+            ]
+          ],
+          "score": 1.0,
+          "text": "from British consumers who are outraged over the bigger spaces",
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "are pissed"
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 2,
+                  "word": "is",
+                  "originalText": "is",
+                  "lemma": "be",
+                  "characterOffsetBegin": 89,
+                  "characterOffsetEnd": 91,
+                  "pos": "VBZ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 3,
+                  "word": "facing",
+                  "originalText": "facing",
+                  "lemma": "face",
+                  "characterOffsetBegin": 92,
+                  "characterOffsetEnd": 98,
+                  "pos": "VBG",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBG"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 4,
+                  "word": "a",
+                  "originalText": "a",
+                  "lemma": "a",
+                  "characterOffsetBegin": 99,
+                  "characterOffsetEnd": 100,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "mountain",
+                  "originalText": "mountain",
+                  "lemma": "mountain",
+                  "characterOffsetBegin": 101,
+                  "characterOffsetEnd": 109,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "is facing a mountain",
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-08"
+        }
+      ],
+      "label": "when",
+      "extracted": []
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "UK"
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 42,
+                  "word": "UK",
+                  "originalText": "UK",
+                  "lemma": "UK",
+                  "characterOffsetBegin": 724,
+                  "characterOffsetEnd": 726,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "38",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6699999999999999,
+          "text": "UK",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "62149",
+              "boundingbox": [
+                49.674,
+                61.061,
+                -14.015517,
+                2.0919117
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.3267301409654,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+              "osm_type": "relation",
+              "display_name": "UK",
+              "lat": "54.7023545",
+              "type": "administrative",
+              "place_id": "179731133",
+              "lon": "-3.2765753",
+              "class": "boundary"
+            }
+          },
+          "nlpIndexSentence": 5
+        }
+      ]
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Toblerone"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "People"
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 1,
+                  "word": "Toblerone",
+                  "originalText": "Toblerone",
+                  "lemma": "Toblerone",
+                  "characterOffsetBegin": 79,
+                  "characterOffsetEnd": 88,
+                  "pos": "NNP",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "\n\n\n\n",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "Toblerone",
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "higher costs for numerous ingredients"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "new candy size"
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": "because",
+                  "originalText": "because",
+                  "lemma": "because",
+                  "characterOffsetBegin": 1736,
+                  "characterOffsetEnd": 1743,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 1744,
+                  "characterOffsetEnd": 1746,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 1747,
+                  "characterOffsetEnd": 1750,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "falling",
+                  "originalText": "falling",
+                  "lemma": "fall",
+                  "characterOffsetBegin": 1751,
+                  "characterOffsetEnd": 1758,
+                  "pos": "VBG",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBG"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "value",
+                  "originalText": "value",
+                  "lemma": "value",
+                  "characterOffsetBegin": 1759,
+                  "characterOffsetEnd": 1764,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 1765,
+                  "characterOffsetEnd": 1767,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 1768,
+                  "characterOffsetEnd": 1771,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 15,
+                  "word": "British",
+                  "originalText": "British",
+                  "lemma": "british",
+                  "characterOffsetBegin": 1772,
+                  "characterOffsetEnd": 1779,
+                  "pos": "JJ",
+                  "ner": "MISC",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 16,
+                  "word": "pound",
+                  "originalText": "pound",
+                  "lemma": "pound",
+                  "characterOffsetBegin": 1780,
+                  "characterOffsetEnd": 1785,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 17,
+                  "word": "after",
+                  "originalText": "after",
+                  "lemma": "after",
+                  "characterOffsetBegin": 1786,
+                  "characterOffsetEnd": 1791,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 18,
+                  "word": "Brexit",
+                  "originalText": "Brexit",
+                  "lemma": "Brexit",
+                  "characterOffsetBegin": 1792,
+                  "characterOffsetEnd": 1798,
+                  "pos": "NNP",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 19,
+                  "word": "-",
+                  "originalText": "-",
+                  "lemma": "-",
+                  "characterOffsetBegin": 1799,
+                  "characterOffsetEnd": 1800,
+                  "pos": ":",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              ":"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 20,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 1801,
+                  "characterOffsetEnd": 1804,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 21,
+                  "word": "UK",
+                  "originalText": "UK",
+                  "lemma": "UK",
+                  "characterOffsetBegin": 1805,
+                  "characterOffsetEnd": 1807,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 22,
+                  "word": "'s",
+                  "originalText": "'s",
+                  "lemma": "'s",
+                  "characterOffsetBegin": 1807,
+                  "characterOffsetEnd": 1809,
+                  "pos": "POS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              "POS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 23,
+                  "word": "decision",
+                  "originalText": "decision",
+                  "lemma": "decision",
+                  "characterOffsetBegin": 1810,
+                  "characterOffsetEnd": 1818,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 24,
+                  "word": "to",
+                  "originalText": "to",
+                  "lemma": "to",
+                  "characterOffsetBegin": 1819,
+                  "characterOffsetEnd": 1821,
+                  "pos": "TO",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 25,
+                  "word": "leave",
+                  "originalText": "leave",
+                  "lemma": "leave",
+                  "characterOffsetBegin": 1822,
+                  "characterOffsetEnd": 1827,
+                  "pos": "VB",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 26,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 1828,
+                  "characterOffsetEnd": 1831,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 27,
+                  "word": "European",
+                  "originalText": "European",
+                  "lemma": "European",
+                  "characterOffsetBegin": 1832,
+                  "characterOffsetEnd": 1840,
+                  "pos": "NNP",
+                  "ner": "ORGANIZATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 28,
+                  "word": "Union",
+                  "originalText": "Union",
+                  "lemma": "Union",
+                  "characterOffsetBegin": 1841,
+                  "characterOffsetEnd": 1846,
+                  "pos": "NNP",
+                  "ner": "ORGANIZATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 29,
+                  "word": ".",
+                  "originalText": ".",
+                  "lemma": ".",
+                  "characterOffsetBegin": 1846,
+                  "characterOffsetEnd": 1847,
+                  "pos": ".",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": "\n\n\n\n"
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.7501708817498292,
+          "text": "because of the falling value of the British pound after Brexit - the UK 's decision to leave the European Union .",
+          "nlpIndexSentence": 17
+        }
+      ]
+    }
+  },
+  "mimeType": "text/xml",
+  "originalFilename": "nypost-6",
+  "parsingError": "true",
+  "publisher": "nypost",
+  "text": "It's a triangle offense. Toblerone is facing a mountain of criticism from British consumers who are outraged over the bigger spaces between the distinctive peaks in the chocolate bar. The product's maker, US-based Mondelez International, attributes the revolt to an effort to reduce the weight of what were 400-gram and 170-gram bars. \"Like many other companies, we are experiencing higher costs for numerous ingredients,\" Toblerone said on its Facebook page. \"We carry these costs for as long as possible, but to ensure Toblerone remains on-shelf, is affordable and retains the triangular shape, we have had to reduce the weight of just two of our bars in the UK, from the wider range of available Toblerone products,\" it said. As a result, the two bars have been reduced in weight to 360 grams and 150 grams - but the packaging size has remained the same. But consumers were bent out of shape and roundly panned the move. \"Fair enough reducing the weight of the bar, but why the big gap in between segments? Looks stupid imo [in my opinion], could have just made the bar shorter and kept the original design,\" Lee Yarker wrote. Stephen Mason noted that \"Toblerone is all about the triangle.\" \"Why couldn't you just lose a triangle at the end or make the triangles smaller? I'm afraid that this is going the way of Cadbury Creme Egg and off my seasonal treat list as I will forever be disappointed,\" he wrote. And Nicholas Barker asked why not just raise the price? \"It's not as if people eat Toblerone everyday. You could literally double the price and people would still buy it. Fools,\" he ranted. Other food companies have announced price hikes because of the falling value of the British pound after Brexit - the UK's decision to leave the European Union. A spokeswoman for Toblerone - which was originally created in Switzerland -- acknowledged that the foreign exchange rate was unfavorable, but insisted that \"this change wasn't done as a result of Brexit,\" the BBC reported.",
+  "title": "People are pissed over Toblerone's new candy size",
+  "url": "http://nypost.com/2016/11/08/people-are-pissed-over-toblerones-new-candy-size/"
+}

@@ -1,0 +1,258 @@
+{
+  "originalFilename": "standard-2",
+  "category": "gaga protests",
+  "publisher": "standard",
+  "url": "http://www.standard.co.uk/showbiz/celebrity-news/lady-gaga-stages-protest-outside-trump-towers-after-donald-trump-beats-hillary-clinton-a3391526.html",
+  "mimeType": "text/xml",
+  "filename": "bb685f550950e648615fd000b068ca0f91fcf164a89aa1dfa03626ad",
+  "title": "Lady Gaga stages protest outside Trump Towers after Donald Trump beats Hillary Clinton",
+  "dId": "bb685f550950e648615fd000b068ca0f91fcf164a89aa1dfa03626ad",
+  "fiveWoneH": {
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "stages protest"
+        }
+      ],
+      "label": "what"
+    },
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "staged"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "before": "",
+                  "word": "Lady",
+                  "index": 1,
+                  "lemma": "lady",
+                  "characterOffsetBegin": 0,
+                  "pos": "NN",
+                  "originalText": "Lady",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 4,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Gaga",
+                  "index": 2,
+                  "lemma": "gaga",
+                  "characterOffsetBegin": 5,
+                  "pos": "JJ",
+                  "originalText": "Gaga",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 9,
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "stages",
+                  "index": 3,
+                  "lemma": "stage",
+                  "characterOffsetBegin": 10,
+                  "pos": "NNS",
+                  "originalText": "stages",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 16,
+                  "speaker": "PER0"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "protest",
+                  "index": 4,
+                  "lemma": "protest",
+                  "characterOffsetBegin": 17,
+                  "pos": "NN",
+                  "originalText": "protest",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 24,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "outside",
+                  "index": 5,
+                  "lemma": "outside",
+                  "characterOffsetBegin": 25,
+                  "pos": "IN",
+                  "originalText": "outside",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 32,
+                  "speaker": "PER0"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Trump",
+                  "index": 6,
+                  "lemma": "Trump",
+                  "characterOffsetBegin": 33,
+                  "pos": "NNP",
+                  "originalText": "Trump",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "characterOffsetEnd": 38,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Towers",
+                  "index": 7,
+                  "lemma": "Towers",
+                  "characterOffsetBegin": 39,
+                  "pos": "NNP",
+                  "originalText": "Towers",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "characterOffsetEnd": 45,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "after",
+                  "index": 8,
+                  "lemma": "after",
+                  "characterOffsetBegin": 46,
+                  "pos": "IN",
+                  "originalText": "after",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 51,
+                  "speaker": "PER0"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Donald",
+                  "index": 9,
+                  "lemma": "Donald",
+                  "characterOffsetBegin": 52,
+                  "pos": "NNP",
+                  "originalText": "Donald",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "characterOffsetEnd": 58,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Trump",
+                  "index": 10,
+                  "lemma": "Trump",
+                  "characterOffsetBegin": 59,
+                  "pos": "NNP",
+                  "originalText": "Trump",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "characterOffsetEnd": 64,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7000630119722748,
+          "text": "Lady Gaga stages protest outside Trump Towers after Donald Trump"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Nov 9, 2016 at 1:57am"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Donald Trump defeated Hillary Clinton"
+        }
+      ],
+      "label": "why"
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Lady Gaga"
+        }
+      ],
+      "label": "who"
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "outside Trump Towers "
+        }
+      ],
+      "label": "where"
+    }
+  },
+  "description": "Lady Gaga staged a protest outside Trump Towers after Donald Trump defeated Hillary Clinton to become President of the United States.",
+  "parsingError": "true",
+  "text": "Lady Gaga staged a protest outside Trump Towers after Donald Trump defeated Hillary Clinton to become President of the United States. The business tycoon, 70, stunned America, and the world, as he took the title on Tuesday morning following months of campaigning. Gaga - who is a staunch Clinton supporter - made her feelings clear as she hung onto a sanitation truck outside Trump's headquarters while holding a sign reading: \"Love Trumps hate.\" The Perfect Illusion singer shared a picture of herself on Instagram alongside the caption: \"I want to live in a #CountryOfKindness #LoveTrumpsHate He divided us so carelessly. Let's take care now of each other.\"     [?]I want to live in a #CountryOfKindness #LoveTrumpsHate He divided us so carelessly. Let's take care now of each other. A photo posted by #VoteHillary (@ladygaga) on Nov 9, 2016 at 1:57am PST Gaga's protest comes a day after she encouraged her fans to vote for Clinton at the Democrat candidate's North Carolina rally. Speaking after performing with Jon Bon Jovi she said: \"I could never have fathomed that I could experience in my lifetime that a woman could become President of the United States. \"We want you to stand up and be a part of history and fight for your future and the future of your children.\" Lady Gaga campaigns for Clinton Addressing Trump she said: \"If we are true America's then we must go from viewing his followers as his adversaries as viewing them as our allies. \"We are stronger together and what I see in this remarkable woman is that she is ready to restore peace in this beautiful country.\" Clinton was also backed by Madonna, Lena Dunham, Miley Cyrus, Katy Perry, Joss Whedon, Jay-Z, Beyonce and Amy Schumer among others during the course of her campaign. Perry - who stripped off in a bid to encourage the public to vote for Clinton - called for a revolution after Trump was declared the 45th President of the US. \"We will never be silenced,\" she tweeted. \"The revolution is coming. Rise up. Power to the people.\" Seth MacFarlane described the outcome as a \"nightmare\", Cher said the \"world will never be the same\", Lily Allen branded it an \"outrage and disappointment\" while a tearful Ariana Grande deemed it \"utterly terrifying\".",
+  "date_publish": "2016-11-09 00:00:00"
+}

@@ -1,0 +1,522 @@
+{
+  "filename": "402f560789b2242775a7bed9d125c7980cc2f143e258a17056497521",
+  "title": "Hillary Clinton blames loss on FBI's James Comey in call with top donors",
+  "mimeType": "text/xml",
+  "url": "http://www.telegraph.co.uk/news/2016/11/12/hillary-clinton-blames-election-loss-on-fbis-james-comey-in-call/",
+  "category": "clinton blames comey",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Hillary Clinton",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetEnd": 7,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Hillary",
+                  "before": "",
+                  "index": 1,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 8,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 15,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "Hillary Clinton"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "parsed": "2016-11-12"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 266,
+                  "word": "Saturday",
+                  "lemma": "Saturday",
+                  "timex": {
+                    "value": "2016-11-12",
+                    "tid": "t2",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 274,
+                  "originalText": "Saturday",
+                  "normalizedNER": "2016-11-12",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.8501109011790579,
+          "text": "Saturday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-12T00:00:00",
+              "end_date": "2016-11-12T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "he was reopening the investigation",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetEnd": 7,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Hillary",
+                  "before": "",
+                  "index": 1,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 8,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 15,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.5844155844155844,
+          "text": "Hillary Clinton"
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "blamed her defeat",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "who announced",
+          "coderPhraseCount": 0
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 247,
+                  "word": "with",
+                  "lemma": "with",
+                  "characterOffsetEnd": 251,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "with",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 252,
+                  "word": "top",
+                  "lemma": "top",
+                  "characterOffsetEnd": 255,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "top",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 256,
+                  "word": "donors",
+                  "lemma": "donor",
+                  "characterOffsetEnd": 262,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "donors",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 263,
+                  "word": "on",
+                  "lemma": "on",
+                  "characterOffsetEnd": 265,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "on",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 266,
+                  "word": "Saturday",
+                  "lemma": "Saturday",
+                  "timex": {
+                    "value": "2016-11-12",
+                    "tid": "t2",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 274,
+                  "originalText": "Saturday",
+                  "normalizedNER": "2016-11-12",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 274,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 275,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 10,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 276,
+                  "word": "Mrs",
+                  "lemma": "Mrs",
+                  "characterOffsetEnd": 279,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Mrs",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 280,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 287,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 288,
+                  "word": "said",
+                  "lemma": "say",
+                  "characterOffsetEnd": 292,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "said",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 293,
+                  "word": "that",
+                  "lemma": "that",
+                  "characterOffsetEnd": 297,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "that",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "with top donors on Saturday , Mrs Clinton said that",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 45,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 47,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7,
+          "text": "US",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "148838",
+              "boundingbox": [
+                -14.7608358,
+                71.6048217,
+                -180.0,
+                180.0
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.2361730870995,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+              "osm_type": "relation",
+              "display_name": "United States of America",
+              "lat": "39.7837304",
+              "type": "administrative",
+              "place_id": "177579678",
+              "lon": "-100.4458825",
+              "class": "boundary"
+            }
+          }
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "blames loss on FBI's James Comey",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 16,
+                  "word": "has",
+                  "lemma": "have",
+                  "characterOffsetEnd": 19,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "has",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "VBZ"
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 20,
+                  "word": "blamed",
+                  "lemma": "blame",
+                  "characterOffsetEnd": 26,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "blamed",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 27,
+                  "word": "her",
+                  "lemma": "she",
+                  "characterOffsetEnd": 30,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "her",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "PRP$"
+                }
+              },
+              "PRP$"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 31,
+                  "word": "defeat",
+                  "lemma": "defeat",
+                  "characterOffsetEnd": 37,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "defeat",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "has blamed her defeat"
+        }
+      ]
+    }
+  },
+  "description": "Hillary Clinton has blamed her defeat in the US election on James Comey, the FBI director, who announced days before the votes were cast that he was reopening the investigation into her handling of classified information.",
+  "text": "Hillary Clinton has blamed her defeat in the US election on James Comey, the FBI director, who announced days before the votes were cast that he was reopening the investigation into her handling of classified information. During a conference call with top donors on Saturday, Mrs Clinton said that Mr Comey's intervention in the election had reversed her \"momentum\" and energised Donald Trump's supporters. Mr Comey's announcement, made on Oct 28 in a brief letter to members of Congress, caused the Democratic presidential nominee to tumble in the polls and revived Mr Trump's hopes of victory. However, Mrs Clinton's campaign appeared to steady itself days after the new broke and she re-established her polling lead prior to election day.",
+  "parsingError": "true",
+  "publisher": "telegraph",
+  "originalFilename": "telegraph-4",
+  "date_publish": "2016-11-13 09:07:21",
+  "dId": "402f560789b2242775a7bed9d125c7980cc2f143e258a17056497521"
+}

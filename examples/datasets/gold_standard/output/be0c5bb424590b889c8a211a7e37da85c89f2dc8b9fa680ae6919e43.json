@@ -1,0 +1,278 @@
+{
+  "originalFilename": "standard-1",
+  "category": "cubs win championship",
+  "publisher": "standard",
+  "url": "http://www.standard.co.uk/sport/other-sports/chicago-cubs-win-world-series-to-end-108year-curse-and-earn-invite-from-barack-obama-a3386411.html",
+  "mimeType": "text/xml",
+  "filename": "be0c5bb424590b889c8a211a7e37da85c89f2dc8b9fa680ae6919e43",
+  "title": "Chicago Cubs win World Series to end 108-year curse and earn invite from Barack Obama",
+  "dId": "be0c5bb424590b889c8a211a7e37da85c89f2dc8b9fa680ae6919e43",
+  "fiveWoneH": {
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Cubs win World Series"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "earn invite from Barack Obama"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "end 108-year curse"
+        }
+      ],
+      "label": "what"
+    },
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "a thrilling finale"
+        },
+        {
+          "coderPhraseCount": 1,
+          "text": "blew a three-run lead"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "were",
+                  "index": 5,
+                  "lemma": "be",
+                  "characterOffsetBegin": 242,
+                  "pos": "VBD",
+                  "originalText": "were",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 246,
+                  "speaker": "PER0"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "last",
+                  "index": 6,
+                  "lemma": "last",
+                  "characterOffsetBegin": 247,
+                  "pos": "JJ",
+                  "originalText": "last",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 251,
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "crowned",
+                  "index": 7,
+                  "lemma": "crown",
+                  "characterOffsetBegin": 252,
+                  "pos": "VBD",
+                  "originalText": "crowned",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 259,
+                  "speaker": "PER0"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "champions",
+                  "index": 8,
+                  "lemma": "champion",
+                  "characterOffsetBegin": 260,
+                  "pos": "NNS",
+                  "originalText": "champions",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 269,
+                  "speaker": "PER0"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "in",
+                  "index": 9,
+                  "lemma": "in",
+                  "characterOffsetBegin": 270,
+                  "pos": "IN",
+                  "originalText": "in",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 272,
+                  "speaker": "PER0"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "pos": "CD",
+                  "originalText": "1908",
+                  "ner": "DATE",
+                  "after": "",
+                  "characterOffsetEnd": 277,
+                  "before": " ",
+                  "word": "1908",
+                  "characterOffsetBegin": 273,
+                  "normalizedNER": "1908",
+                  "lemma": "1908",
+                  "timex": {
+                    "tid": "t3",
+                    "type": "DATE",
+                    "value": "1908"
+                  },
+                  "speaker": "PER0"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": "",
+                  "word": ",",
+                  "index": 11,
+                  "lemma": ",",
+                  "characterOffsetBegin": 277,
+                  "pos": ",",
+                  "originalText": ",",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 278,
+                  "speaker": "PER0"
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "had",
+                  "index": 12,
+                  "lemma": "have",
+                  "characterOffsetBegin": 279,
+                  "pos": "VBD",
+                  "originalText": "had",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 282,
+                  "speaker": "PER0"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "a",
+                  "index": 13,
+                  "lemma": "a",
+                  "characterOffsetBegin": 283,
+                  "pos": "DT",
+                  "originalText": "a",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 284,
+                  "speaker": "PER0"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "curse",
+                  "index": 14,
+                  "lemma": "curse",
+                  "characterOffsetBegin": 285,
+                  "pos": "NN",
+                  "originalText": "curse",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 290,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 0.6907548972766365,
+          "text": "were last crowned champions in 1908 , had a curse",
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why"
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Chicago Cubs"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "Barack Obama"
+        }
+      ],
+      "label": "who"
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where"
+    }
+  },
+  "description": "The Chicago Cubs ended their 108-year curse to win Major League Baseball's World Series in a thrilling finale against the Cleveland Indians. The Cubs, who were last crowned champions in 1908, had a curse placed on them by William Sianis, owner of local bar the Billy Goat Tavern, in 1945 that they would never win the series again.",
+  "parsingError": "true",
+  "text": "The Chicago Cubs ended their 108-year curse to win Major League Baseball's World Series in a thrilling finale against the Cleveland Indians. The Cubs, who were last crowned champions in 1908, had a curse placed on them by William Sianis, owner of local bar the Billy Goat Tavern, in 1945 that they would never win the series again. But despite falling 3-1 down in the series, they levelled the best-of-seven series scores to force a decider. It was nervy viewing for their fans in the stands, which included the actor Bill Murray and Pearl Jam singer Eddie Vedder, as the Cubs blew a three-run lead before eventually eking out an 8-7 victory in 10 innings. It was apt that the winning run was hit by Cubs left fielder Ben Zobrist, who was later named World Series MVP. The victory got the backing of President Barack Obama despite being a fan of city rivals the White Sox. Obama tweeted: \"It happened: @Cubs win World Series. That's change even this south Sider can believe in. Want to come to the White House before I leave?\"",
+  "date_publish": "2016-11-03 00:00:00"
+}

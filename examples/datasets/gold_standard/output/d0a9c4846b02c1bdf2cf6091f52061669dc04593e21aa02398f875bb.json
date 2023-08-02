@@ -1,0 +1,278 @@
+{
+  "originalFilename": "independent-2",
+  "category": "cubs win championship",
+  "publisher": "independent",
+  "url": "http://www.independent.co.uk/sport/us-sport/major-league-baseball/chicago-cubs-fans-celebrate-world-series-title-a7394736.html",
+  "mimeType": "text/xml",
+  "filename": "d0a9c4846b02c1bdf2cf6091f52061669dc04593e21aa02398f875bb",
+  "title": "World Series 2016: Tears of joy as Chicago Cubs fans celebrate first triumph in 108 years",
+  "dId": "d0a9c4846b02c1bdf2cf6091f52061669dc04593e21aa02398f875bb",
+  "fiveWoneH": {
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 1,
+          "text": "first World Series triumph in 108 years"
+        },
+        {
+          "coderPhraseCount": 1,
+          "text": "Tears of joy"
+        },
+        {
+          "coderPhraseCount": 1,
+          "text": "celebrate"
+        }
+      ],
+      "label": "what"
+    },
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "fans spilled from "
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "their",
+                  "index": 19,
+                  "lemma": "they",
+                  "characterOffsetBegin": 205,
+                  "pos": "PRP$",
+                  "originalText": "their",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 210,
+                  "speaker": "PER0"
+                }
+              },
+              "PRP$"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "beloved",
+                  "index": 20,
+                  "lemma": "beloved",
+                  "characterOffsetBegin": 211,
+                  "pos": "JJ",
+                  "originalText": "beloved",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 218,
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "team",
+                  "index": 21,
+                  "lemma": "team",
+                  "characterOffsetBegin": 219,
+                  "pos": "NN",
+                  "originalText": "team",
+                  "ner": "O",
+                  "after": "",
+                  "characterOffsetEnd": 223,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": "",
+                  "word": "'s",
+                  "index": 22,
+                  "lemma": "'s",
+                  "characterOffsetBegin": 223,
+                  "pos": "POS",
+                  "originalText": "'s",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 225,
+                  "speaker": "PER0"
+                }
+              },
+              "POS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 23,
+                  "pos": "JJ",
+                  "originalText": "first",
+                  "ner": "ORDINAL",
+                  "after": " ",
+                  "characterOffsetEnd": 231,
+                  "before": " ",
+                  "word": "first",
+                  "characterOffsetBegin": 226,
+                  "normalizedNER": "1.0",
+                  "lemma": "first",
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "World",
+                  "index": 24,
+                  "lemma": "World",
+                  "characterOffsetBegin": 232,
+                  "pos": "NNP",
+                  "originalText": "World",
+                  "ner": "MISC",
+                  "after": " ",
+                  "characterOffsetEnd": 237,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Series",
+                  "index": 25,
+                  "lemma": "Series",
+                  "characterOffsetBegin": 238,
+                  "pos": "NNP",
+                  "originalText": "Series",
+                  "ner": "MISC",
+                  "after": " ",
+                  "characterOffsetEnd": 244,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "triumph",
+                  "index": 26,
+                  "lemma": "triumph",
+                  "characterOffsetBegin": 245,
+                  "pos": "NN",
+                  "originalText": "triumph",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 252,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "in",
+                  "index": 27,
+                  "lemma": "in",
+                  "characterOffsetBegin": 253,
+                  "pos": "IN",
+                  "originalText": "in",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 255,
+                  "speaker": "PER0"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 28,
+                  "pos": "CD",
+                  "originalText": "108",
+                  "ner": "DATE",
+                  "after": " ",
+                  "characterOffsetEnd": 259,
+                  "before": " ",
+                  "word": "108",
+                  "characterOffsetBegin": 256,
+                  "normalizedNER": "2016-11-02-WXX-3 INTERSECT P108Y",
+                  "lemma": "108",
+                  "timex": {
+                    "tid": "t3",
+                    "type": "DATE",
+                    "altValue": "2016-11-02-WXX-3 INTERSECT P108Y"
+                  },
+                  "speaker": "PER0"
+                }
+              },
+              "CD"
+            ]
+          ],
+          "score": 0.7282608695652175,
+          "text": "their beloved team 's first World Series triumph in 108",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Wednesday"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "first World Series triumph in 108 years"
+        }
+      ],
+      "label": "why"
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "Chicago Cubs fans"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "Chicago Cubs"
+        }
+      ],
+      "label": "who"
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "Chicago"
+        }
+      ],
+      "label": "where"
+    }
+  },
+  "description": "Jubilant Chicago Cubs fans spilled from sports bars, restaurants and viewing parties across the city to celebrate their beloved team's first World Series triumph in 108 years on Wednesday.",
+  "parsingError": "true",
+  "text": "Jubilant Chicago Cubs fans spilled from sports bars, restaurants and viewing parties across the city to celebrate their beloved team's first World Series triumph in 108 years on Wednesday. The Cubs, long-known as Major League Baseball's \"Loveable Losers,\" had endured one of professional sports' longest streaks without a title and their fans suffered along with the team, enduring decades of disappointment. But in the early hours of Thursday morning, not long after Chicago blew a late-game lead, Cubs third baseman Kris Bryant fielded a grounder that he fired to first for the final out. \"Unbelievable. We have been waiting a long time for this. Just to be around everyone to see this. This is perfect baseball,\" Greg Kojak, 36, said as he watched a TV through a glass door at a restaurant near Wrigley. Wrigleyville, the neighborhood around Wrigley Field, was party central as thousands of fans were screaming and jumping in wild celebration as the last out was recorded. Fireworks lit up the sky as fans sprayed beer and Champagne. It was the Cubs' first World Series win in 108 years (Getty Images) \"I can't even explain how I feel right now. This is so epic. I've waited my whole life for this. This is the most amazing feeling in the world,\" said Dina Mansaour, 33, sobbing on the street a few blocks from the stadium where fans stood on cars and waved \"W\" victory flags. The celebration was rowdy, but peaceful as throngs of police officers lined the streets. Some officers high-fived fans and sang along to \"Go Cubs Go,\" with fans. \"I'm so excited. I'm so excited. My mom took me to my first Cubs game but she has passed on and this is for her. This game is for her,\" said Fadiyla Mance, 25, as she waved a \"W\" flag. In Cleveland, dejected fans who have not seen their own team win a title since 1948, were left wondering what went wrong. \"It was a game of ups and downs,\" Indians fan Alayna Fodor-Gopal said. \"And I'm from Cleveland so there is always next year.\" Cubs players celebrate the moment of triumph (Getty Images) Like the Boston Red Sox, who battled the so-called \"Curse of the Bambino\" after trading away legendary slugger Babe Ruth in 1920 to their arch rival New York Yankees, the Cubs have their own bad luck legend: the \"Curse of the Billy Goat.\" In 1945, Billy Goat Tavern owner Billy Sianis was supposedly asked to leave Wrigley because the smell of his pet goat was disturbing other patrons. Sianis allegedly vowed the Cubs would not win any more, and the team had to wait until this year to finally return to the World Series. \"There's no more curse now, the goat is history,\" said Cubs fan Rodrigo Gonzales, 24, moments after the game ended. The team's diehard fans stuck with the team despite its failures. They watched, and waited, as Chicago's other sports franchises racked up championships. Even the crosstown rival White Sox ended their own decades-long title drought in 2005. Aroldis Chapman celebrates with his team-mates (Getty Images) \"I've been waiting my whole life for this, my grandfather has been waiting his whole life for this, everyone has been waiting for this,\" said Jason Nye, 22, adding that he skipped class in 6th grade to attend his first Cubs game. The Cubs have had a few close calls since 1945, including 1984, when Chicago was one win away from going to the World Series but lost three straight games to the San Diego Padres. Perhaps their most painful loss came 13 years ago when Cubs fan Steve Bartman, with his team ahead 3-0 and five outs from a World Series berth, reached for and deflected a foul ball that a Chicago outfielder appeared ready to catch. The Cubs went on to lose 8-3 and lost the series the next night while Bartman immediately became a symbol of the team's cursed fortunes. \"It's a dream come true,\" said Denise Watford, 36, near Wrigley Field.",
+  "date_publish": "2016-11-03 00:00:00"
+}

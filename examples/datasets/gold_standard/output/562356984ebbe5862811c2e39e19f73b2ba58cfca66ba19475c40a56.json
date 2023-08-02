@@ -1,0 +1,964 @@
+{
+  "filename": "562356984ebbe5862811c2e39e19f73b2ba58cfca66ba19475c40a56",
+  "title": "F1 legend Felipe Massa makes an emotional farewell after crashing out of the Brazilian Grand Prix at Interlagos: 'I will never forget this day'",
+  "mimeType": "text/xml",
+  "url": "http://www.dailymail.co.uk/sport/formulaone/article-3932386/F1-legend-Felipe-Massa-makes-emotional-farewell-crashing-Brazil-Grand-Prix-Interlagos.html",
+  "category": "f1",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Felipe Massa",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 360,
+                  "word": "The",
+                  "lemma": "the",
+                  "characterOffsetEnd": 363,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "The",
+                  "before": " ",
+                  "index": 1,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 364,
+                  "word": "Williams",
+                  "lemma": "Williams",
+                  "characterOffsetEnd": 372,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Williams",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 373,
+                  "word": "driver",
+                  "lemma": "driver",
+                  "characterOffsetEnd": 379,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "driver",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "The Williams driver",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "lap 48",
+          "coderPhraseCount": 1,
+          "parsed": "2016-11-13"
+        },
+        {
+          "text": "Brazilian Grand Prix at Interlagos",
+          "coderPhraseCount": 1,
+          "parsed": "2016-11-13"
+        },
+        {
+          "coderPhraseCount": 1,
+          "parsed": "2016-11-13"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 530,
+                  "word": "this",
+                  "lemma": "this",
+                  "timex": {
+                    "value": "2016-11-13",
+                    "tid": "t1",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 534,
+                  "originalText": "this",
+                  "normalizedNER": "2016-11-13",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 35,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 535,
+                  "word": "day",
+                  "lemma": "day",
+                  "timex": {
+                    "value": "2016-11-13",
+                    "tid": "t1",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 538,
+                  "originalText": "day",
+                  "normalizedNER": "2016-11-13",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 36,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 0.7688141860115093,
+          "text": "this day",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-13T00:00:00",
+              "end_date": "2016-11-13T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "retire",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2612,
+                  "word": "because",
+                  "lemma": "because",
+                  "characterOffsetEnd": 2619,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "because",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2620,
+                  "word": "I",
+                  "lemma": "I",
+                  "characterOffsetEnd": 2621,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "I",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2622,
+                  "word": "wanted",
+                  "lemma": "want",
+                  "characterOffsetEnd": 2628,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "wanted",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2629,
+                  "word": "to",
+                  "lemma": "to",
+                  "characterOffsetEnd": 2631,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "to",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "TO"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2632,
+                  "word": "finish",
+                  "lemma": "finish",
+                  "characterOffsetEnd": 2638,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "finish",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "VB"
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2639,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 2642,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2643,
+                  "word": "race",
+                  "lemma": "race",
+                  "characterOffsetEnd": 2647,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "race",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2648,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 2650,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2651,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 2654,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2655,
+                  "word": "best",
+                  "lemma": "best",
+                  "characterOffsetEnd": 2659,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "best",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "JJS"
+                }
+              },
+              "JJS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2660,
+                  "word": "way",
+                  "lemma": "way",
+                  "characterOffsetEnd": 2663,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "way",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2664,
+                  "word": "for",
+                  "lemma": "for",
+                  "characterOffsetEnd": 2667,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "for",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2668,
+                  "word": "them",
+                  "lemma": "they",
+                  "characterOffsetEnd": 2672,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "them",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2673,
+                  "word": "-LRB-",
+                  "lemma": "-lrb-",
+                  "characterOffsetEnd": 2674,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "(",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "-LRB-"
+                }
+              },
+              "-LRB-"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2674,
+                  "word": "fans",
+                  "lemma": "fan",
+                  "characterOffsetEnd": 2678,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "fans",
+                  "before": "",
+                  "index": 21,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2678,
+                  "word": "-RRB-",
+                  "lemma": "-rrb-",
+                  "characterOffsetEnd": 2679,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ")",
+                  "before": "",
+                  "index": 22,
+                  "pos": "-RRB-"
+                }
+              },
+              "-RRB-"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2680,
+                  "word": "but",
+                  "lemma": "but",
+                  "characterOffsetEnd": 2683,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "but",
+                  "before": " ",
+                  "index": 23,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2684,
+                  "word": "unfortunately",
+                  "lemma": "unfortunately",
+                  "characterOffsetEnd": 2697,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "unfortunately",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2698,
+                  "word": "I",
+                  "lemma": "I",
+                  "characterOffsetEnd": 2699,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "I",
+                  "before": " ",
+                  "index": 25,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2700,
+                  "word": "could",
+                  "lemma": "could",
+                  "characterOffsetEnd": 2705,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "could",
+                  "before": " ",
+                  "index": 26,
+                  "pos": "MD"
+                }
+              },
+              "MD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2705,
+                  "word": "n't",
+                  "lemma": "not",
+                  "characterOffsetEnd": 2708,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "n't",
+                  "before": "",
+                  "index": 27,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2708,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 2709,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 28,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.6277056277056277,
+          "text": "because I wanted to finish the race in the best way for them ( fans ) but unfortunately I could n't .",
+          "nlpIndexSentence": 14
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "bid farewell to Brazilian Grand Prix",
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 104,
+                  "word": "The",
+                  "lemma": "the",
+                  "characterOffsetEnd": 107,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "The",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 108,
+                  "word": "Brazilian",
+                  "lemma": "brazilian",
+                  "characterOffsetEnd": 117,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "Brazilian",
+                  "before": " ",
+                  "index": 21,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 118,
+                  "word": "star",
+                  "lemma": "star",
+                  "characterOffsetEnd": 122,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "star",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 123,
+                  "word": "left",
+                  "lemma": "leave",
+                  "characterOffsetEnd": 127,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "left",
+                  "before": " ",
+                  "index": 23,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 128,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 131,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 132,
+                  "word": "circuit",
+                  "lemma": "circuit",
+                  "characterOffsetEnd": 139,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "circuit",
+                  "before": " ",
+                  "index": 25,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 140,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 142,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 26,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 143,
+                  "word": "tears",
+                  "lemma": "tear",
+                  "characterOffsetEnd": 148,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "tears",
+                  "before": " ",
+                  "index": 27,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 149,
+                  "word": "draped",
+                  "lemma": "drape",
+                  "characterOffsetEnd": 155,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "draped",
+                  "before": " ",
+                  "index": 28,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 156,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 158,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 29,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "The Brazilian star left the circuit in tears draped in"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Interlagos",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 632,
+                  "word": "Interlagos",
+                  "lemma": "Interlagos",
+                  "characterOffsetEnd": 642,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "Interlagos",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6829782996927322,
+          "text": "Interlagos",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "205197916",
+              "boundingbox": [
+                -23.7211674,
+                -23.6811674,
+                -46.7282912,
+                -46.6882912
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.18245308668878,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png",
+              "osm_type": "node",
+              "display_name": "Interlagos, Socorro, SP, Microrregi\u00e3o de S\u00e3o Paulo, RMSP, Mesorregi\u00e3o Metropolitana de S\u00e3o Paulo, SP, Regi\u00e3o Sudeste, 04783 020, Brasil",
+              "lat": "-23.7011674",
+              "type": "suburb",
+              "place_id": "548530",
+              "lon": "-46.7082912",
+              "class": "place"
+            }
+          },
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "makes an emotional farewell",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 380,
+                  "word": "was",
+                  "lemma": "be",
+                  "characterOffsetEnd": 383,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "was",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 384,
+                  "word": "making",
+                  "lemma": "make",
+                  "characterOffsetEnd": 390,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "making",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "VBG"
+                }
+              },
+              "VBG"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 391,
+                  "word": "his",
+                  "lemma": "he",
+                  "characterOffsetEnd": 394,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "his",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "PRP$"
+                }
+              },
+              "PRP$"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 395,
+                  "word": "final",
+                  "lemma": "final",
+                  "characterOffsetEnd": 400,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "final",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 401,
+                  "word": "F1",
+                  "lemma": "f1",
+                  "characterOffsetEnd": 403,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "F1",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 404,
+                  "word": "appearance",
+                  "lemma": "appearance",
+                  "characterOffsetEnd": 414,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "appearance",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "was making his final F1 appearance",
+          "nlpIndexSentence": 1
+        }
+      ]
+    }
+  },
+  "description": "Felipe Massa bid farewell to Brazilian Grand Prix in the most dramatic fashion, leaving the circuit mid-race to the applause and admiration of the watching masses, his wife and son, and rival F1 teams.",
+  "text": "Rival teams flocked into the pit lane mid-race to show their appreciation for one of the sport's greats The Brazilian star left the circuit in tears draped in his nation's flag Felipe Massa bid farewell to Brazilian Grand Prix in the most dramatic fashion, leaving the circuit mid-race to the applause and admiration of the watching masses and rival F1 teams. The Williams driver was making his final F1 appearance in his native Brazil after announcing he is to retire at the end of the season, and admitted: 'I will never forget this day.' The fairytale ending Massa may have envisaged did not materialise as he crashed out of the Interlagos contest on lap 48, after struggling to deal with the treacherous weather conditions. Felipe Massa crashed on lap 48 at Interlagos, bringing an emotional end to his final Brazil race The F1 legend couldn't hold back the tears as the realisation began to set in With the race still ongoing, Massa left his Williams car on the circuit and made his way to the safety of the pits. Emotions running high, the watching crowd instantly realised they were witnessing the end of one of the sport's greats as Massa, draped in the yellow and green of Brazil, struggled to contain his emotions. In an extraordinary series of events the pit lane became a mass of opposing crews forming an impromptu guard of honour for the Brazilian star, greeting Massa as he made his way over to his waiting family - wife Anna Raffaella and son Felipinho, whereupon he burst into tears. 'It's difficult to explain the feeling,' Massa said after an emotional exit from the Interlagos circuit. 'So special to see these guys in the middle of the race going out, just to see me passing after such a big crash. The scenes were unprecedented in Formula One and highly emotional Massa was immediately greeted by his former team Ferrari, wife Anna Raffaella and son Felipinho despite the race still ongoing Massa left Ferrari in 2014 after eight highly successful years with the team 'I will never forget this day, all of these people, all of you guys are going to be inside my heart definitely for all my life.' Ferrari, the team Massa represented for many years of his career, were quick to embrace their former star as the tears began to flow. '(I want) to say thank you to everybody. I've really had a lot of support in these whole 15 years. And also the people who work here, in the middle of the race coming out to clap their hands for me is just a feeling that I will never forget,' Massa told Sky Sports F1 in the aftermath. 'I didn't deserve so much like that to be honest. I was a little bit sad because I wanted to finish the race in the best way for them (fans) but unfortunately I couldn't. Massa, like many other of the driver, struggled with the torrential rain and tough conditions 'Maybe it was better like that, but for me it was definitely special. On the track the adverse weather conditions caused havoc all afternoon, with persistent rain forcing drivers to aquaplane left, right and centre. Despite several red flag stoppages, British star Lewis Hamilton eventually emerged victorious after a hard-fought contest to bring the championship gap between himself and rival Nico Rosberg to just 12 points.",
+  "parsingError": "true",
+  "publisher": "dailymail",
+  "originalFilename": "dailymail-10",
+  "date_publish": "2016-11-13 19:24:00",
+  "dId": "562356984ebbe5862811c2e39e19f73b2ba58cfca66ba19475c40a56"
+}

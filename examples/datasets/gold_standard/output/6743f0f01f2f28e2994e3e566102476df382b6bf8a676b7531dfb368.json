@@ -1,0 +1,929 @@
+{
+  "filename": "6743f0f01f2f28e2994e3e566102476df382b6bf8a676b7531dfb368",
+  "title": "Trump election: Clinton blames defeat on FBI director",
+  "mimeType": "text/xml",
+  "url": "http://www.bbc.com/news/election-us-2016-37963965",
+  "category": "clinton blames comey",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Hillary Clinton",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "Hillary",
+                  "lemma": "Hillary",
+                  "characterOffsetEnd": 7,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Hillary",
+                  "before": "",
+                  "index": 1,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 8,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 15,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "Hillary Clinton"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Saturday",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-12"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 685,
+                  "word": "Wednesday",
+                  "lemma": "Wednesday",
+                  "timex": {
+                    "value": "2016-11-09",
+                    "tid": "t3",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 694,
+                  "originalText": "Wednesday",
+                  "normalizedNER": "2016-11-09",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 17,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7017608129956364,
+          "text": "Wednesday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-09T00:00:00",
+              "end_date": "2016-11-09T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 5
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "interventions by the FBI director",
+          "coderPhraseCount": 1
+        },
+        {
+          "text": "Comey informed Congress that the FBI was examining newly discovered emails",
+          "coderPhraseCount": 1
+        },
+        {
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1502,
+                  "word": "On",
+                  "lemma": "on",
+                  "characterOffsetEnd": 1504,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "On",
+                  "before": " ",
+                  "index": 1,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1505,
+                  "word": "28",
+                  "lemma": "28",
+                  "timex": {
+                    "value": "2016-10-28",
+                    "tid": "t8",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 1507,
+                  "originalText": "28",
+                  "normalizedNER": "2016-10-28",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 2,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1508,
+                  "word": "October",
+                  "lemma": "October",
+                  "timex": {
+                    "value": "2016-10-28",
+                    "tid": "t8",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 1515,
+                  "originalText": "October",
+                  "normalizedNER": "2016-10-28",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "DATE",
+                  "index": 3,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1515,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 1516,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 4,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1517,
+                  "word": "Mr",
+                  "lemma": "Mr",
+                  "characterOffsetEnd": 1519,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "Mr",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1520,
+                  "word": "Comey",
+                  "lemma": "Comey",
+                  "characterOffsetEnd": 1525,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Comey",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1526,
+                  "word": "informed",
+                  "lemma": "inform",
+                  "characterOffsetEnd": 1534,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "informed",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1535,
+                  "word": "Congress",
+                  "lemma": "Congress",
+                  "characterOffsetEnd": 1543,
+                  "speaker": "PER0",
+                  "ner": "ORGANIZATION",
+                  "after": " ",
+                  "originalText": "Congress",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1544,
+                  "word": "that",
+                  "lemma": "that",
+                  "characterOffsetEnd": 1548,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "that",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1549,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 1552,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1553,
+                  "word": "FBI",
+                  "lemma": "FBI",
+                  "characterOffsetEnd": 1556,
+                  "speaker": "PER0",
+                  "ner": "ORGANIZATION",
+                  "after": " ",
+                  "originalText": "FBI",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1557,
+                  "word": "was",
+                  "lemma": "be",
+                  "characterOffsetEnd": 1560,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "was",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1561,
+                  "word": "examining",
+                  "lemma": "examine",
+                  "characterOffsetEnd": 1570,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "examining",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "VBG"
+                }
+              },
+              "VBG"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1571,
+                  "word": "newly",
+                  "lemma": "newly",
+                  "characterOffsetEnd": 1576,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "newly",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1577,
+                  "word": "discovered",
+                  "lemma": "discover",
+                  "characterOffsetEnd": 1587,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "discovered",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1588,
+                  "word": "emails",
+                  "lemma": "email",
+                  "characterOffsetEnd": 1594,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "emails",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1595,
+                  "word": "sent",
+                  "lemma": "send",
+                  "characterOffsetEnd": 1599,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "sent",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1600,
+                  "word": "or",
+                  "lemma": "or",
+                  "characterOffsetEnd": 1602,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "or",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1603,
+                  "word": "received",
+                  "lemma": "receive",
+                  "characterOffsetEnd": 1611,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "received",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1612,
+                  "word": "by",
+                  "lemma": "by",
+                  "characterOffsetEnd": 1614,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "by",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1615,
+                  "word": "Mrs",
+                  "lemma": "Mrs",
+                  "characterOffsetEnd": 1618,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Mrs",
+                  "before": " ",
+                  "index": 21,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1619,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 1626,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": "",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1626,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 1627,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 23,
+                  "pos": ","
+                }
+              },
+              ","
+            ]
+          ],
+          "score": 0.6264069264069263,
+          "text": "On 28 October , Mr Comey informed Congress that the FBI was examining newly discovered emails sent or received by Mrs Clinton ,",
+          "nlpIndexSentence": 11
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "blames",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 45,
+                  "word": "US",
+                  "lemma": "US",
+                  "characterOffsetEnd": 47,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "US",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 48,
+                  "word": "presidential",
+                  "lemma": "presidential",
+                  "characterOffsetEnd": 60,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "presidential",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 61,
+                  "word": "election",
+                  "lemma": "election",
+                  "characterOffsetEnd": 69,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "election",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 70,
+                  "word": "on",
+                  "lemma": "on",
+                  "characterOffsetEnd": 72,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "on",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 73,
+                  "word": "interventions",
+                  "lemma": "intervention",
+                  "characterOffsetEnd": 86,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "interventions",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 87,
+                  "word": "by",
+                  "lemma": "by",
+                  "characterOffsetEnd": 89,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "by",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 90,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 93,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 94,
+                  "word": "FBI",
+                  "lemma": "FBI",
+                  "characterOffsetEnd": 97,
+                  "speaker": "PER0",
+                  "ner": "ORGANIZATION",
+                  "after": " ",
+                  "originalText": "FBI",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 98,
+                  "word": "director",
+                  "lemma": "director",
+                  "characterOffsetEnd": 106,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "director",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 106,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 107,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 18,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 1.0,
+          "text": "US presidential election on interventions by the FBI director ."
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 463,
+                  "word": "New",
+                  "lemma": "New",
+                  "characterOffsetEnd": 466,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "New",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 467,
+                  "word": "York",
+                  "lemma": "York",
+                  "characterOffsetEnd": 471,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "York",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6756748428946836,
+          "text": "New York",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "175905",
+              "boundingbox": [
+                40.477399,
+                40.9161785,
+                -74.25909,
+                -73.7001809
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.39573204749775,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+              "osm_type": "relation",
+              "display_name": "NYC, New York, United States of America",
+              "lat": "40.7306458",
+              "type": "city",
+              "place_id": "178508484",
+              "lon": "-73.9866136",
+              "class": "place"
+            }
+          },
+          "nlpIndexSentence": 4
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "blames defeat on FBI director",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 16,
+                  "word": "has",
+                  "lemma": "have",
+                  "characterOffsetEnd": 19,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "has",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "VBZ"
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 20,
+                  "word": "blamed",
+                  "lemma": "blame",
+                  "characterOffsetEnd": 26,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "blamed",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 27,
+                  "word": "her",
+                  "lemma": "she",
+                  "characterOffsetEnd": 30,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "her",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "PRP$"
+                }
+              },
+              "PRP$"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 31,
+                  "word": "defeat",
+                  "lemma": "defeat",
+                  "characterOffsetEnd": 37,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "defeat",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "has blamed her defeat"
+        }
+      ]
+    }
+  },
+  "description": "Hillary Clinton blames her shock election defeat on interventions by FBI director James Comey.",
+  "text": "Hillary Clinton has blamed her defeat in the US presidential election on interventions by the FBI director. James Comey's announcement of a new inquiry into her use of email while secretary of state shortly before election day had stopped her campaign's momentum, Mrs Clinton said. The Democratic candidate was speaking to top party donors in a phone call, which was leaked to the media. Protests are continuing against the victory of her rival, Donald Trump. In New York, about 2,000 marchers headed for the skyscraper where the president-elect lives, shouting \"not my president\". Anti-Trump activists have held daily protests in US cities since his election victory was confirmed on Wednesday. Media caption Anti-Trump protests continue in New York Mr Trump seems to be rowing back on some of his campaign pledges. Having promised to scrap President Barack Obama's healthcare law dubbed \"Obamacare\", he now says he is open to leaving intact key parts of the act. Asked by the Wall Street Journal whether he would implement a promise to appoint a special prosecutor to investigate Mrs Clinton's use of a private email server while secretary of state, he listed healthcare, jobs, border control and tax reform as greater priorities. The Republican is due to be sworn in on 20 January, taking over from Mr Obama, who will have completed two terms in office. 'We dropped' Mrs Clinton, who served as Mr Obama's secretary of state from 2009 to 2013, has been keeping a low profile since conceding victory. On 28 October, Mr Comey informed Congress that the FBI was examining newly discovered emails sent or received by Mrs Clinton, thus reviving an investigation which had been completed in July. Media caption Donald Trump's supporters saw Clinton's experience and qualifications as huge negatives Then, on 6 November, two days before the election, Mr Comey announced in a second letter that he was standing by his original assessment - that Mrs Clinton should not face criminal charges. \"There are lots of reasons why an election like this is not successful,\" Mrs Clinton told the donors on a farewell conference call on Saturday. \"But our analysis is that Comey's letter raising doubts that were groundless, baseless, proven to be, stopped our momentum. We dropped, and we had to keep really pushing ahead to regain our advantage.\" Image copyright Getty Images Image caption Mr Comey announced a new FBI inquiry into Mrs Clinton's emails shortly before election day According to US media, she added that Mr Comey's later recommendation that she should face no charges had energised Mr Trump's supporters. Her campaign team said that despite Mrs Clinton being cleared of criminal behaviour, the move only revived Mr Trump's claim that the Democratic candidate was being protected by a rigged system. Clinton FBI probe: What we know Comey - both hero and villain (again) Despair and anger The New York marchers rallied in Union Square Park for the march to Trump Tower, from which the next president has been planning the transition to his inauguration. One organiser of the New York protest, Kenneth Shelton, told the BBC that it was not an attempt to challenge the legitimacy of Tuesday's election. \"We lost,\" he admitted. Placards at the demonstration express despair and anger, the BBC's Paul Adams says. One read \"Trump: An American Tragedy\" while the message on another read \"Now We're Your Nightmare\". Image copyright AFP Image caption Protesters gathered in New York's Union Square Image copyright @BBCPaulAdams Image caption There have been protests for the past few nights, since Mr Trump was elected Image copyright @Ryan_spahn Image caption \"He made American hate again,\" read one protester's sign \"We must unite despite our differences to stop HATE from ruling the land,\" organisers of the New York protest wrote on Facebook. Demonstrations in the city earlier this week drew thousands of people. Similar demonstrations were also held in Los Angeles and Chicago on Saturday. On Friday demonstrations in Portland, Oregon, turned violent and one person was shot but most rallies have passed off peacefully.",
+  "parsingError": "true",
+  "publisher": "bbc",
+  "originalFilename": "bbc-6",
+  "date_publish": "2016-11-13 01:52:01",
+  "dId": "6743f0f01f2f28e2994e3e566102476df382b6bf8a676b7531dfb368"
+}

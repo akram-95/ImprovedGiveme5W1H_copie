@@ -1,0 +1,285 @@
+{
+  "filename": "a41cc43a57a1e54aec1e2cf4baf4b2a36ca187b92db0a457266f7ac9",
+  "title": "Brazilian Grand Prix thrown into chaos as Kimi Raikkonen accident brings out red flag and Sebastian Vettel fumes over 'stupid' conditions: 'This is mad!'",
+  "mimeType": "text/xml",
+  "url": "http://www.dailymail.co.uk/sport/formulaone/article-3932252/Brazilian-Grand-Prix-thrown-chaos-Kimi-Raikkonen-accident-brings-red-flag-Sebastian-Vettel-fumes-stupid-conditions-mad.html",
+  "category": "f1",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Kimi Raikkonen",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Sebastian Vettel",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who"
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "on lap 20",
+          "coderPhraseCount": 1,
+          "parsed": "2016-11-13"
+        },
+        {
+          "text": "Brazilian Grand Prix",
+          "coderPhraseCount": 1,
+          "parsed": "2016-11-13"
+        },
+        {
+          "coderPhraseCount": 1,
+          "parsed": "2016-11-13"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "treacherous conditions",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why"
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "lost control",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "crashed",
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "A",
+                  "lemma": "a",
+                  "characterOffsetEnd": 1,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "A",
+                  "before": "",
+                  "index": 1,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2,
+                  "word": "chaotic",
+                  "lemma": "chaotic",
+                  "characterOffsetEnd": 9,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "chaotic",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 10,
+                  "word": "Brazilian",
+                  "lemma": "brazilian",
+                  "characterOffsetEnd": 19,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "Brazilian",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 20,
+                  "word": "Grand",
+                  "lemma": "Grand",
+                  "characterOffsetEnd": 25,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "Grand",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 26,
+                  "word": "Prix",
+                  "lemma": "Prix",
+                  "characterOffsetEnd": 30,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "Prix",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 31,
+                  "word": "was",
+                  "lemma": "be",
+                  "characterOffsetEnd": 34,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "was",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 35,
+                  "word": "suspended",
+                  "lemma": "suspend",
+                  "characterOffsetEnd": 44,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "suspended",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 45,
+                  "word": "on",
+                  "lemma": "on",
+                  "characterOffsetEnd": 47,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "on",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 48,
+                  "word": "lap",
+                  "lemma": "lap",
+                  "characterOffsetEnd": 51,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "lap",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 52,
+                  "word": "20",
+                  "lemma": "20",
+                  "before": " ",
+                  "characterOffsetEnd": 54,
+                  "originalText": "20",
+                  "normalizedNER": "20.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "NUMBER",
+                  "index": 10,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ]
+          ],
+          "score": 0.7189440993788822,
+          "text": "A chaotic Brazilian Grand Prix was suspended on lap 20"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Interlagos",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "Brazilian Grand Prix",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where"
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "Brazilian Grand Prix thrown into chaos",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "Kimi Raikkonen crashed",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "what"
+    }
+  },
+  "description": "A chaotic Brazilian Grand Prix was suspended on lap 20 after Kimi Raikkonen crashed out in the treacherous conditions at Interlagos as Sebastian Vettel labelled the conditions 'stupid'.",
+  "text": "A chaotic Brazilian Grand Prix was suspended on lap 20 after Kimi Raikkonen crashed out in the treacherous conditions at Interlagos. The 37-year-old Finnish driver lost control of his Ferrari as the race re-started following an earlier shunt involving Sauber's Marcus Ericsson. The pivotal race in the championship started behind the safety car following persistent rain in Sao Paulo. Kimi Raikkonen's Ferrari is removed from the Interlagos track following his early crash The red flag came out after Ferrari driver Raikkonen lost control of his car in torrential rain The Finn was fortunate to see other F1 drivers avoid colliding into his Ferrari on the straight Raikkonen (right, pictured before the race) was unable to finish after crashing out early on On lap seven the safety car peeled into the pit lane with Lewis Hamilton leading from his championship rival Nico Rosberg. But just six laps later, Ericsson crashed at high speed as he entered the pit straight. His shunt brought out the safety car, but when the race re-started it was Raikkonen's turn to fall foul of the conditions. Raikkonen slammed into the nearside barrier before his car slid across the track and collided with the opposing wall. Raikkonen sat there helplessly as cars came within feet of hitting his stationary Ferrari. 'This is just mad,' said a furious Sebastian Vettel, who also spun earlier in the race, over the team radio. 'Stupid. What this race needs is a red flag. How many people do we want to crash?' Raikkonen was forced out of the race following his crash on lap 20 of a dramatic Brazilian GP The Ferrari star, in his 250th grand prix start, climbs out of his car and leaves the track Lewis Hamilton and Nico Rosberg steer their cars past debris on the Interlagos track The race was instantly suspended with Hamilton ahead of Rosberg and the Red Bull of Max Verstappen in the order. Earlier, Frenchman Romain Grosjean also crashed on his way to the grid. Rosberg, 19 points clear of Hamilton in the title race, will seal the championship if he wins here. Four-time world champion Sebastian Vettel was also fortunate not to have a heavy crash Hamilton was unhappy that the race was stopped for a second time, calling conditions 'normal' The race restarted shortly after but was once again brought to a halt with a second red flag. That second decision was not to the liking of Hamilton, who is still within grasp of the title with two races to go.",
+  "parsingError": "true",
+  "publisher": "dailymail",
+  "originalFilename": "dailymail-9",
+  "date_publish": "2016-11-13 17:43:17",
+  "dId": "a41cc43a57a1e54aec1e2cf4baf4b2a36ca187b92db0a457266f7ac9"
+}

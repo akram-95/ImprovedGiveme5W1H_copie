@@ -1,0 +1,249 @@
+{
+  "filename": "a5a26c3777257a08635673aab1666d18b3c01f3752a866889968f5c6",
+  "title": "Max Verstappen narrowly avoids crash with Kimi Raikkonen at wet Brazilian Grand Prix",
+  "mimeType": "text/xml",
+  "url": "http://www.express.co.uk/sport/f1-autosport/731858/Max-Verstappen-avoids-crash-Kimi-Raikkonen-Brazilian-Grand-Prix-wet",
+  "category": "f1",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "Max Verstappen",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Kimi Raikkonen",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who"
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Tue, March 22, 2016",
+          "coderPhraseCount": 2,
+          "parsed": "2016-11-13"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "wet conditions",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why"
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "narrowly avoids crash",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 92,
+                  "word": "too",
+                  "lemma": "too",
+                  "characterOffsetEnd": 95,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "too",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 96,
+                  "word": "wet",
+                  "lemma": "wet",
+                  "characterOffsetEnd": 99,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "wet",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 100,
+                  "word": "for",
+                  "lemma": "for",
+                  "characterOffsetEnd": 103,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "for",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 104,
+                  "word": "a",
+                  "lemma": "a",
+                  "characterOffsetEnd": 105,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "a",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 106,
+                  "word": "full",
+                  "lemma": "full",
+                  "characterOffsetEnd": 110,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "full",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 111,
+                  "word": "start",
+                  "lemma": "start",
+                  "characterOffsetEnd": 116,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "start",
+                  "before": " ",
+                  "index": 21,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 117,
+                  "word": "at",
+                  "lemma": "at",
+                  "characterOffsetEnd": 119,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "at",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 120,
+                  "word": "Interlagos",
+                  "lemma": "Interlagos",
+                  "characterOffsetEnd": 130,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "Interlagos",
+                  "before": " ",
+                  "index": 23,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 130,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 131,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 24,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.799407114624506,
+          "text": "too wet for a full start at Interlagos ."
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Brazilian Grand Prix",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Interlagos",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "where"
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "narrowly avoids crash",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what"
+    }
+  },
+  "description": "MAX VERSTAPPEN showed off his brilliant reflexes as he swerved to avoid a sliding Kimi Raikkonen at a soaking Brazilian Grand Prix.",
+  "text": "The penultimate race of the season had started behind the safety car with conditions deemed too wet for a full start at Interlagos. Eventually the cars were allowed to race with wet tires equipped but drivers struggled with spray and standing water on the track. Raikkonen lost control of his Ferrari on the home straight and careered across the track with Verstappen coming within millimetres of a disastrous collision. 2016 Formula One cars ranked Tue, March 22, 2016 Express Sport ranks the new F1 cars for the 2016 season Play slideshow Getty Images 1 of 11 11. McLaren-Honda The race was red-flagged shortly afterwards with 21 of 71 laps completed and drivers were told to return to the pits. The teenager had already shown off his ability in the wet by overtaking the Finn almost as soon as the safety car was removed from the race. GETTY Max Verstappen could have crashed into Kimi Raikkonen but swerved to avoid him Verstappen launched his Red Bull down the inside of turn one and the 2007 world champion was unable to respond. The wet conditions were also suited to Mercedes driver Lewis Hamilton, who needed to finish ahead of team-mate Nico Rosberg in order to avoid the German clinching the world title. GETTY Max Verstappen overtook Kimi Raikkonen in the first racing lap of the Grand Prix",
+  "parsingError": "true",
+  "publisher": "express",
+  "originalFilename": "express-6",
+  "date_publish": "2016-11-13 17:33:00",
+  "dId": "a5a26c3777257a08635673aab1666d18b3c01f3752a866889968f5c6"
+}

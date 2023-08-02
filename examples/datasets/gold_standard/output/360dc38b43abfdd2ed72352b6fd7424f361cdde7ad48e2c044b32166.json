@@ -1,0 +1,667 @@
+{
+  "filename": "360dc38b43abfdd2ed72352b6fd7424f361cdde7ad48e2c044b32166",
+  "title": "Croydon tram crash: Police identify three remaining victims in derailment tragedy",
+  "mimeType": "text/xml",
+  "url": "http://www.standard.co.uk/news/london/croydon-tram-crash-police-identify-all-seven-victims-killed-in-derailment-tragedy-a3394126.html",
+  "category": "tram victims",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "British Transport Police",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Donald Collett, 62, from Croydon, Philip Logan, 52, from New Addington and Robert Huxley, 63",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "The",
+                  "lemma": "the",
+                  "characterOffsetEnd": 3,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "The",
+                  "before": "",
+                  "index": 1,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 4,
+                  "word": "seven",
+                  "lemma": "seven",
+                  "before": " ",
+                  "characterOffsetEnd": 9,
+                  "originalText": "seven",
+                  "normalizedNER": "7.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "NUMBER",
+                  "index": 2,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 10,
+                  "word": "victims",
+                  "lemma": "victim",
+                  "characterOffsetEnd": 17,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "victims",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 18,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 20,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 21,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 24,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 25,
+                  "word": "Croydon",
+                  "lemma": "Croydon",
+                  "characterOffsetEnd": 32,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "Croydon",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 33,
+                  "word": "tram",
+                  "lemma": "tram",
+                  "characterOffsetEnd": 37,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "tram",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 38,
+                  "word": "tragedy",
+                  "lemma": "tragedy",
+                  "characterOffsetEnd": 45,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "tragedy",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "The seven victims of the Croydon tram tragedy"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Saturday",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-12"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 6160,
+                  "word": "6.10",
+                  "lemma": "6.10",
+                  "timex": {
+                    "value": "2016-11-09T10:00",
+                    "tid": "t17",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 6164,
+                  "originalText": "6.10",
+                  "normalizedNER": "2016-11-09T10:00",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "TIME",
+                  "index": 42,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 6164,
+                  "word": "am",
+                  "lemma": "am",
+                  "timex": {
+                    "value": "2016-11-09T10:00",
+                    "tid": "t17",
+                    "type": "TIME"
+                  },
+                  "before": "",
+                  "characterOffsetEnd": 6166,
+                  "originalText": "am",
+                  "normalizedNER": "2016-11-09T10:00",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "TIME",
+                  "index": 43,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ]
+          ],
+          "score": 0.7666046627495593,
+          "text": "6.10 am",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-09T10:00:00",
+              "end_date": "2016-11-09T10:00:59"
+            }
+          },
+          "nlpIndexSentence": 47
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 629,
+                  "word": "They",
+                  "lemma": "they",
+                  "characterOffsetEnd": 633,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "They",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ]
+          ],
+          "score": 0.5445269016697588,
+          "text": "They",
+          "nlpIndexSentence": 4
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "identify",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 166,
+                  "word": "a",
+                  "lemma": "a",
+                  "characterOffsetEnd": 167,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "a",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 168,
+                  "word": "packed",
+                  "lemma": "packed",
+                  "characterOffsetEnd": 174,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "packed",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 175,
+                  "word": "commuter",
+                  "lemma": "commuter",
+                  "characterOffsetEnd": 183,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "commuter",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 184,
+                  "word": "tram",
+                  "lemma": "tram",
+                  "characterOffsetEnd": 188,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "tram",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 189,
+                  "word": "derailed",
+                  "lemma": "derail",
+                  "characterOffsetEnd": 197,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "derailed",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 198,
+                  "word": "on",
+                  "lemma": "on",
+                  "characterOffsetEnd": 200,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "on",
+                  "before": " ",
+                  "index": 21,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 201,
+                  "word": "Wednesday",
+                  "lemma": "Wednesday",
+                  "timex": {
+                    "value": "2016-11-09",
+                    "tid": "t2",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 210,
+                  "originalText": "Wednesday",
+                  "normalizedNER": "2016-11-09",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 22,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 211,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 213,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 23,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 214,
+                  "word": "south",
+                  "lemma": "south",
+                  "characterOffsetEnd": 219,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "south",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 220,
+                  "word": "London",
+                  "lemma": "London",
+                  "characterOffsetEnd": 226,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "London",
+                  "before": " ",
+                  "index": 25,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "a packed commuter tram derailed on Wednesday in south London",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Croydon",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 25,
+                  "word": "Croydon",
+                  "lemma": "Croydon",
+                  "characterOffsetEnd": 32,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "Croydon",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.681465176880462,
+          "text": "Croydon",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "21262496",
+              "boundingbox": [
+                51.3313049,
+                51.4113049,
+                -0.141957,
+                -0.061957
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.23943987893565,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+              "osm_type": "node",
+              "display_name": "Croydon, London, Greater London, England, CR0 1SZ, UK",
+              "lat": "51.3713049",
+              "type": "town",
+              "place_id": "117537",
+              "lon": "-0.101957",
+              "class": "place"
+            }
+          }
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "identify three remaining victims",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "tram crash",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 46,
+                  "word": "have",
+                  "lemma": "have",
+                  "characterOffsetEnd": 50,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "have",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "VBP"
+                }
+              },
+              "VBP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 51,
+                  "word": "now",
+                  "lemma": "now",
+                  "timex": {
+                    "value": "PRESENT_REF",
+                    "tid": "t1",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 54,
+                  "originalText": "now",
+                  "normalizedNER": "PRESENT_REF",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 10,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 55,
+                  "word": "all",
+                  "lemma": "all",
+                  "characterOffsetEnd": 58,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "all",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 59,
+                  "word": "been",
+                  "lemma": "be",
+                  "characterOffsetEnd": 63,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "been",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 64,
+                  "word": "identified",
+                  "lemma": "identify",
+                  "characterOffsetEnd": 74,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "identified",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "have now all been identified"
+        }
+      ]
+    }
+  },
+  "description": "The seven victims of the Croydon tram tragedy have now all been identified. British Transport Police formally released the names of six men and one woman killed when a packed commuter tram derailed on Wednesday in south London. Three men and a woman were named among the dead by friends and relatives but the identities of the remaining three men were unknown until Saturday afternoon.",
+  "text": "The seven victims of the Croydon tram tragedy have now all been identified. British Transport Police formally released the names of six men and one woman killed when a packed commuter tram derailed on Wednesday in south London. Three men and a woman were named among the dead by friends and relatives but the identities of the remaining three men were unknown until Saturday afternoon. Detectives named Donald Collett, 62, from Croydon, Philip Logan, 52, from New Addington and Robert Huxley, 63, from New Addington as the three victims. Victims: From left to right: Dorota Rynkiewicz, Dane Chinnery, Philip Seary and Mark Smith They also confirmed Mark Smith, Philip Seary, Dane Chinnery and Dorota Rynkiewicz died on Wednesday. Dane Chinnery, 19, from New Addington, was on his way to work at Croydon flood response firm Hydro Cleansing Ltd when the tragedy unfolded. The Crystal Palace fan and former Addington High School pupil was described by friends as a \"lovely guy\" and \"really good fun\". One wrote: \"The life of our brother was taken from him. Aged 19, Dane lost his life with the tram crash on his way to work. Victim: Dane Chinnery pictured with his mother Beverley Gray \"He was red, white and blue all the way through, and simply loved Palace.\" A friend told the Standard: \"It's tragic, he was so young. He was a lovely guy. really good fun. Everyone is heartbroken. He went to go to work and didn't come home.\" Mother-of-two Dorota Rynkiewicz, 35, was described as an \"amazing\" mother who was devoted to her young family. She was on her daily commute to Euston when the tram overturned near the Sandilands stop. Dorota Rynkiewicz, 35, pictured with husband Andrezej, a pro golfer Mrs Rynkiewicz and her husband Andrezej, a professional golf player and coach, moved to New Addington from Poland around ten years ago in search of a better life. Her sister-in-law Kasia Rynkiewicz told the Standard: \"It's a tragic moment for us. They don't have any other family in England so my brother will have to raise the children alone without their mother. \"Everybody is shocked by this tragedy. There will be two little daughters who will now grow up without their mother. Sadiq Khan gives statement at Croydon tram scene \"She was an amazing mother and definitely a hard-working person. She was on her way to work so early in the morning to provide for her kids.\" Tributes paid on social media to young father Mark Smith, 35, who worked for his father's double glazing firm. Mark Smith was killed in the Croydon tram tragedy (Facebook) Mr Smith attended Thomas More Roman Catholic High School in Purley before studying at Coulsdon College and is believed to have been engaged to marry his fiancee Indre Novikovaite. His friends and relatives described him as a man \"who always had a smile on his face and made everyone laugh\" after news of his death emerged. Theresa May and Jeremy Corbyn comment on Croydon tram derailment His cousin, Tom Smith, said his family had been left \"in bits\" after the tragedy as he paid tribute to him in a Facebook post. His neighbour, Louise Baldock, said: \"No words can express how utterly heartbroken me and my family are to have heard the news that our dear friend and neighbour was taken from us on Wednesday in the Croydon Tram accident. \"Mark you will always be remembered, loved and never forgotten. Victim: Phil Seary was named as one of the victims killed in the Croydon tram disaster (Facebook) Father-of-three Philip Seary, 57, who was also known as \"Tank\" was also confirmed among the victims of the tragedy. Mr Seary, another Crystal Palace fan who lived with his wife Vivian, was one of the last passengers to be released from the wreckage following a five-hour operation by specialist rescue crews. Extra minute's silence to remember Croydon tram crash victims His friends described him as \"the most kind, giving person\" and \"a teddy bear\" after news of his death emerged. His son-in-law Darren Mimms told the Croydon Guardian: \"Phil was a devoted family man. He devoted his life to his children and his wife, and was well known among the community.\" Mr Collett's family described the 62-year-old as a \"well-loved\", \"funny\" and \"generous\" man who \"could light up a room with his smile\". \"Funny and generous\": Mr Collett's family paid tribute to the 62-year-old (British Transport Police) They said: \"said: \"Don was a well loved, funny and generous man, who could light up a room with his smile. \"He is tragically leaving behind a loving family, partner, adored friends and work colleagues.\" While Mr Logan's family said the 52-year-old father-of-four was a \"true family man\" with \"more love compassion and zest for life than words can express\".# \"Zest for life\": Philip Logan was a father-of-four, grandfather and great-grandfather (British Transport Police) Relatives said: \"He was a true family man and generous friend to all with a magnificently dry sense of humor. \"Phil was a man with more love compassion and zest for life than words can express. He will be immensely missed by all that knew him.\" A British Transport Police spokesman: \"Their families are being supported by specialist officers and have requested that their privacy is respected at this difficult time. \" Carnage: The tram flipped on its side in south London (BBC/ITN) The names were released shortly after up to a hundred friends and relatives of the victims marched to the crash scene in an emotional tribute to those who lost their lives. People spilled out on to the streets in a sign of unity as they hugged one another, sang songs and clapped in remembrance of the six men and one woman who died. Family and friends pay tribute to Croydon tram crash victims Many wore red and blue to reflect Crystal Palace football colours after fans Dane Chinnery and Philip Seary were named among the dead. Addressing the mourners one man said: \"I've got a huge hole in my life which I've got to fill in, and it's going to take to the day I die.\" Floral tributes: A bank of bouquets at the scene (PA) Six men and one woman died and more than 50 people were injured when the carriages flipped over as the tram turned around a sharp bend at around 6.10am near the Sandilands stop while travelling from New Addington to Wimbledon. The tram's driver was arrested on suspicion of manslaughter and questioned by investigators who have said the vehicle was travelling \"significantly\" above the permitted speed. The 42-year-old man from Beckenham was released on bail, and investigators are probing whether the driver had fallen asleep. An online fundraising page set up by Croydon Council to enable \"ongoing care and support\" to those directly affected by the crash has raised more then PS8,000.",
+  "parsingError": "true",
+  "publisher": "standard",
+  "originalFilename": "standard-7",
+  "date_publish": "2016-11-09 00:00:00",
+  "dId": "360dc38b43abfdd2ed72352b6fd7424f361cdde7ad48e2c044b32166"
+}

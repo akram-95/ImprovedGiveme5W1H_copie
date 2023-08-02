@@ -1,0 +1,796 @@
+{
+  "filename": "5412eb378e787c5dc71ca7cc4c7f98a6185694219debc30724b2bf41",
+  "title": "Croydon tram crash: Driver arrested as seven dead and dozens injured as speeding tram derails",
+  "mimeType": "text/xml",
+  "url": "http://www.mirror.co.uk/news/uk-news/huge-rescue-operation-sandilands-station-9226276",
+  "category": "tram",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "At least seven passengers",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "male driver",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 298,
+                  "word": "a",
+                  "lemma": "a",
+                  "characterOffsetEnd": 299,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "a",
+                  "before": " ",
+                  "index": 22,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 300,
+                  "word": "speeding",
+                  "lemma": "speeding",
+                  "characterOffsetEnd": 308,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "speeding",
+                  "before": " ",
+                  "index": 23,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 309,
+                  "word": "tram",
+                  "lemma": "tram",
+                  "characterOffsetEnd": 313,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "tram",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "a speeding tram",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "6.13am today",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-09"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 537,
+                  "word": "6.13",
+                  "lemma": "6.13",
+                  "timex": {
+                    "value": "2016-11-09T13:00",
+                    "tid": "t3",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 541,
+                  "originalText": "6.13",
+                  "normalizedNER": "2016-11-09T13:00",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "TIME",
+                  "index": 33,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 541,
+                  "word": "am",
+                  "lemma": "be",
+                  "timex": {
+                    "value": "2016-11-09T13:00",
+                    "tid": "t3",
+                    "type": "TIME"
+                  },
+                  "before": "",
+                  "characterOffsetEnd": 543,
+                  "originalText": "am",
+                  "normalizedNER": "2016-11-09T13:00",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "TIME",
+                  "index": 34,
+                  "pos": "VBP"
+                }
+              },
+              "VBP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 544,
+                  "word": "today",
+                  "lemma": "today",
+                  "timex": {
+                    "value": "2016-11-09T13:00",
+                    "tid": "t3",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 549,
+                  "originalText": "today",
+                  "normalizedNER": "2016-11-09T13:00",
+                  "speaker": "PER0",
+                  "after": "",
+                  "ner": "TIME",
+                  "index": 35,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 0.9323664131904765,
+          "text": "6.13 am today",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-09T13:00:00",
+              "end_date": "2016-11-09T13:00:59"
+            }
+          },
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "going \\u201ctoo fast round the bend\\u201d",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2723,
+                  "word": "because",
+                  "lemma": "because",
+                  "characterOffsetEnd": 2730,
+                  "speaker": "176",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "because",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2731,
+                  "word": "it",
+                  "lemma": "it",
+                  "characterOffsetEnd": 2733,
+                  "speaker": "176",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "it",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2734,
+                  "word": "was",
+                  "lemma": "be",
+                  "characterOffsetEnd": 2737,
+                  "speaker": "176",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "was",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2737,
+                  "word": "n't",
+                  "lemma": "not",
+                  "characterOffsetEnd": 2740,
+                  "speaker": "176",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "n't",
+                  "before": "",
+                  "index": 19,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2741,
+                  "word": "safe",
+                  "lemma": "safe",
+                  "characterOffsetEnd": 2745,
+                  "speaker": "176",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "safe",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2745,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 2746,
+                  "speaker": "176",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 21,
+                  "pos": "."
+                }
+              },
+              "."
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2746,
+                  "word": "''",
+                  "lemma": "''",
+                  "characterOffsetEnd": 2747,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "\"",
+                  "before": "",
+                  "index": 22,
+                  "pos": "''"
+                }
+              },
+              "''"
+            ]
+          ],
+          "score": 0.6858766233766233,
+          "text": "because it was n't safe . \"",
+          "nlpIndexSentence": 27
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "speeding",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "vehicle tipped over at a bend",
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 40,
+                  "word": "classic",
+                  "lemma": "classic",
+                  "characterOffsetEnd": 47,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "classic",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 48,
+                  "word": "A",
+                  "lemma": "a",
+                  "characterOffsetEnd": 49,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "A",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 50,
+                  "word": "First",
+                  "lemma": "first",
+                  "before": " ",
+                  "characterOffsetEnd": 55,
+                  "originalText": "First",
+                  "normalizedNER": "1.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "ORDINAL",
+                  "index": 14,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 56,
+                  "word": "footage",
+                  "lemma": "footage",
+                  "characterOffsetEnd": 63,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "footage",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 64,
+                  "word": "from",
+                  "lemma": "from",
+                  "characterOffsetEnd": 68,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "from",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 69,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 72,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 73,
+                  "word": "chaotic",
+                  "lemma": "chaotic",
+                  "characterOffsetEnd": 80,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "chaotic",
+                  "before": " ",
+                  "index": 18,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 81,
+                  "word": "scene",
+                  "lemma": "scene",
+                  "characterOffsetEnd": 86,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "scene",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 87,
+                  "word": "of",
+                  "lemma": "of",
+                  "characterOffsetEnd": 89,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "of",
+                  "before": " ",
+                  "index": 20,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "classic A First footage from the chaotic scene of"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Croydon, South London",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 488,
+                  "word": "Croydon",
+                  "lemma": "Croydon",
+                  "characterOffsetEnd": 495,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "Croydon",
+                  "before": " ",
+                  "index": 24,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 495,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 496,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 25,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 497,
+                  "word": "South",
+                  "lemma": "South",
+                  "characterOffsetEnd": 502,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "South",
+                  "before": " ",
+                  "index": 26,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 503,
+                  "word": "London",
+                  "lemma": "London",
+                  "characterOffsetEnd": 509,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": "",
+                  "originalText": "London",
+                  "before": " ",
+                  "index": 27,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.681465176880462,
+          "text": "Croydon , South London",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "21262496",
+              "boundingbox": [
+                51.3313049,
+                51.4113049,
+                -0.141957,
+                -0.061957
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.34943987893565,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+              "osm_type": "node",
+              "display_name": "Croydon, London, Greater London, England, CR0 1SZ, UK",
+              "lat": "51.3713049",
+              "type": "town",
+              "place_id": "117537",
+              "lon": "-0.101957",
+              "class": "place"
+            }
+          },
+          "nlpIndexSentence": 2
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "tram crash",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 314,
+                  "word": "derailed",
+                  "lemma": "derail",
+                  "characterOffsetEnd": 322,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "derailed",
+                  "before": " ",
+                  "index": 25,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 323,
+                  "word": "and",
+                  "lemma": "and",
+                  "characterOffsetEnd": 326,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "and",
+                  "before": " ",
+                  "index": 26,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 327,
+                  "word": "turned",
+                  "lemma": "turn",
+                  "characterOffsetEnd": 333,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "turned",
+                  "before": " ",
+                  "index": 27,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 334,
+                  "word": "over",
+                  "lemma": "over",
+                  "characterOffsetEnd": 338,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "over",
+                  "before": " ",
+                  "index": 28,
+                  "pos": "RP"
+                }
+              },
+              "RP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 339,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 341,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 29,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 342,
+                  "word": "a",
+                  "lemma": "a",
+                  "characterOffsetEnd": 343,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "a",
+                  "before": " ",
+                  "index": 30,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 344,
+                  "word": "dawn",
+                  "lemma": "dawn",
+                  "timex": {
+                    "value": "2016-11-09T03:00",
+                    "tid": "t2",
+                    "type": "TIME"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 348,
+                  "originalText": "dawn",
+                  "normalizedNER": "2016-11-09T03:00",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "TIME",
+                  "index": 31,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 349,
+                  "word": "crash",
+                  "lemma": "crash",
+                  "characterOffsetEnd": 354,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "crash",
+                  "before": " ",
+                  "index": 32,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "derailed and turned over in a dawn crash",
+          "nlpIndexSentence": 1
+        }
+      ]
+    }
+  },
+  "description": "Eight of those hurt were treated for \"serious or life-threatening injuries\" after the two-carriage vehicle tipped over at a bend in Croydon, South London\n",
+  "text": "'My name is Manuel and I know nothing,' classic A First footage from the chaotic scene of fatal tra Get daily updates directly to your inbox + Subscribe Thank you for subscribing! Could not subscribe, try again later Invalid Email At least seven passengers died and more than 50 were injured after a speeding tram derailed and turned over in a dawn crash. Eight of those hurt were treated for \"serious or life-threatening injuries\" after the two-carriage vehicle tipped over at a bend in Croydon, South London, during torrential rain at 6.13am today. Investigators said the tram was travelling at a \"significantly higher speed than is permitted on the bend, which has a 12mph limit. Passengers also said it was going \"too fast\". The male driver of the tram, a 42-year-old from Beckenham, South East London, was arrested on suspicion of manslaughter. (Photo: PA) (Photo: PA) Passengers described scenes of horror as fellow commuters lost limbs or were flung to their death. Builder Rui De Sa said the man next to him had his head crushed under the tram as it slid on its side. Mr De Sa, 31, treated for back and shoulder strains and shock, said: \"We just heard screaming in the first carriage. That toppled over then we went over. \"It went black and we were all thrown around like rag dolls. People were screaming and shouting for help. (Photo: RAIB/PA) \"One man beside me was screaming with his arm trapped outside the tram as it skidded on its side. \"I looked at the man next to him, who had his whole head out of the tram and crushed underneath it. \"I can't get that image out of my mind, of the man with no head. \"I tried to help but I just vomited.\" (Photo: BBC) He said the tram was going \"too fast round the bend\", adding: \"I've been getting that tram for nine years and normally you feel it braking there. \"This time I couldn't feel it braking at all. I don't know whether the brakes weren't working but it was going way too fast. But if those carriages had been built with unbreakable glass none of these people would have died. \"When it started sliding down the line on its side anything going through it was like going against a blade.\" Fellow passenger Martin Bamford, 30, said he believed that a woman who landed on top of him in the crash was one of those who died. (Photo: Adam Gerrard/Daily Mirror) The gutter cleaner from nearby New Addington, who suffered pelvic injuries, said: \"We hit the bend and absolutely everyone went flying. \"There was a woman on top of me and I don't think she made it. She was not responsive. Another woman was trapped between the tracks and the door. \"There were broken legs, head injuries and blood everywhere. I tried to help people off the tram but police told me to get off because it wasn't safe.\" He said he had spoken to the driver, adding: \"I asked him what happened and he said he thinks he blacked out.\" Another passenger Nathan Evan Gibson, 21, said a man next to him was killed when he was thrown through a window as the train careered over. Rail engineer Mr Gibson grabbed on to a pole as fellow commuters were thrown in all directions. He suffered a cut to his eye and a bang to the head that required a CT scan. More than 100 emergency workers battled for hours to free five people trapped in the wreckage. An investigation has been launched by British Transport Police alongside the Fire Service and the Rail Accident Investigation Unit. (Photo: @rachaelvenables/LBC/Twitter) Sources close to the probe said \"driver error\" and \"potential hazardous weather conditions\" would be a primary focus of the investigation. It is believed the tram went out of control as it was exiting a tunnel around 100 yards from the Sandilands stop near an affluent area of east Croydon. (Photo: Sky news/PA) (Photo: PA) (Photo: Hannah Collier/tWITTER) Overhead pictures show it appeared to have derailed where the New Addington line meets the Beckenham and Elmers End branches. Deputy Chief Constable Adrian Hanstock said last night: \"We expect to be at the scene for at least the next 24 hours, continuing searches and carrying out forensic examinations in support of the investigation into the circumstances. \"Tomorrow, we will assess how and when it is appropriate to recover the tram and remove it from the tracks. \"We will continue to work alongside the Rail Accident Investigation Branch to establish the circumstances of how this happened. At this stage it is too early to speculate on a single factor being the cause of this incident.\" A total of 20 patients were taken to St George's Hospital in Tooting, South London, and 31 went to Croydon University Hospital, known as Mayday. Dr Phil Moss, the clinical director of the emergency department at St George's, said three of the victims were being operated on there last night. Prime Minister Theresa May sent her condolences last night, saying: \"My thoughts and prayers are with all those who affected by this terrible incident.\" Nearby Crystal Palace football also sent sympathy to those affected, tweeting: \"The thoughts of everyone at #CPFC are with those affected by this morning's tram derailment in Croydon.\"",
+  "parsingError": "true",
+  "publisher": "mirror",
+  "originalFilename": "mirror-9",
+  "date_publish": "2016-11-09 21:13:00",
+  "dId": "5412eb378e787c5dc71ca7cc4c7f98a6185694219debc30724b2bf41"
+}

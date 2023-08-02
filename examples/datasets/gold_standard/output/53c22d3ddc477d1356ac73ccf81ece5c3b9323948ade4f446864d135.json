@@ -1,0 +1,555 @@
+{
+  "filename": "53c22d3ddc477d1356ac73ccf81ece5c3b9323948ade4f446864d135",
+  "title": "FBI clears Clinton in email review two days before election",
+  "mimeType": "text/xml",
+  "url": "http://www.dailymail.co.uk/wires/reuters/article-3910804/Trump-Clinton-focus-crucial-states-campaigns-final-days.html",
+  "category": "clinton clear",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "FBI",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Hillary Clinton",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "FBI",
+                  "lemma": "FBI",
+                  "characterOffsetEnd": 3,
+                  "speaker": "PER0",
+                  "ner": "ORGANIZATION",
+                  "after": " ",
+                  "originalText": "FBI",
+                  "before": "",
+                  "index": 1,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "FBI"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Nov 6",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-07"
+        },
+        {
+          "text": "two days before election",
+          "coderPhraseCount": 2,
+          "parsed": "2016-11-07"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 139,
+                  "word": "Sunday",
+                  "lemma": "Sunday",
+                  "timex": {
+                    "value": "2016-11-06",
+                    "tid": "t3",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 145,
+                  "originalText": "Sunday",
+                  "normalizedNER": "2016-11-06",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 29,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7737300369815271,
+          "text": "Sunday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-06T00:00:00",
+              "end_date": "2016-11-06T23:59:59"
+            }
+          }
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "no criminal charges were warranted",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 146,
+                  "word": "it",
+                  "lemma": "it",
+                  "characterOffsetEnd": 148,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "it",
+                  "before": " ",
+                  "index": 30,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ]
+          ],
+          "score": 0.5844155844155844,
+          "text": "it"
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "accused the FBI",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "it stood by its earlier finding",
+          "coderPhraseCount": 1
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 158,
+                  "word": "its",
+                  "lemma": "its",
+                  "characterOffsetEnd": 161,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "its",
+                  "before": " ",
+                  "index": 33,
+                  "pos": "PRP$"
+                }
+              },
+              "PRP$"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 162,
+                  "word": "earlier",
+                  "lemma": "earlier",
+                  "characterOffsetEnd": 169,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "earlier",
+                  "before": " ",
+                  "index": 34,
+                  "pos": "JJR"
+                }
+              },
+              "JJR"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 170,
+                  "word": "finding",
+                  "lemma": "finding",
+                  "characterOffsetEnd": 177,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "finding",
+                  "before": " ",
+                  "index": 35,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 178,
+                  "word": "that",
+                  "lemma": "that",
+                  "characterOffsetEnd": 182,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "that",
+                  "before": " ",
+                  "index": 36,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 183,
+                  "word": "no",
+                  "lemma": "no",
+                  "characterOffsetEnd": 185,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "no",
+                  "before": " ",
+                  "index": 37,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 186,
+                  "word": "criminal",
+                  "lemma": "criminal",
+                  "characterOffsetEnd": 194,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "criminal",
+                  "before": " ",
+                  "index": 38,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 195,
+                  "word": "charges",
+                  "lemma": "charge",
+                  "characterOffsetEnd": 202,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "charges",
+                  "before": " ",
+                  "index": 39,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 203,
+                  "word": "were",
+                  "lemma": "be",
+                  "characterOffsetEnd": 207,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "were",
+                  "before": " ",
+                  "index": 40,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 208,
+                  "word": "warranted",
+                  "lemma": "warrant",
+                  "characterOffsetEnd": 217,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "warranted",
+                  "before": " ",
+                  "index": 41,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 218,
+                  "word": "against",
+                  "lemma": "against",
+                  "characterOffsetEnd": 225,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "against",
+                  "before": " ",
+                  "index": 42,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "its earlier finding that no criminal charges were warranted against"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "WASHINGTON",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 372,
+                  "word": "U.S.",
+                  "lemma": "U.S.",
+                  "characterOffsetEnd": 376,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "U.S.",
+                  "before": " ",
+                  "index": 67,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7,
+          "text": "U.S.",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "276671197",
+              "boundingbox": [
+                45.1895505,
+                45.1896185,
+                -88.7322087,
+                -88.7321082
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.201,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/transport_fuel.p.20.png",
+              "osm_type": "way",
+              "display_name": "U.S., State Highway 55, Sunny Waters, Lily, Town of Langlade, Langlade County, Wisconsin, 54462, United States of America",
+              "lat": "45.1895845",
+              "type": "fuel",
+              "place_id": "136017889",
+              "lon": "-88.73215845",
+              "class": "amenity"
+            }
+          }
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "clears Clinton in email review",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 4,
+                  "word": "clears",
+                  "lemma": "clear",
+                  "characterOffsetEnd": 10,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "clears",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "VBZ"
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 11,
+                  "word": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetEnd": 18,
+                  "speaker": "PER0",
+                  "ner": "PERSON",
+                  "after": " ",
+                  "originalText": "Clinton",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 19,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 21,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 22,
+                  "word": "email",
+                  "lemma": "email",
+                  "characterOffsetEnd": 27,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "email",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 28,
+                  "word": "review",
+                  "lemma": "review",
+                  "characterOffsetEnd": 34,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "review",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 35,
+                  "word": "two",
+                  "lemma": "two",
+                  "timex": {
+                    "value": "P2D",
+                    "tid": "t1",
+                    "type": "DURATION"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 38,
+                  "originalText": "two",
+                  "normalizedNER": "P2D",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DURATION",
+                  "index": 7,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 39,
+                  "word": "days",
+                  "lemma": "day",
+                  "timex": {
+                    "value": "P2D",
+                    "tid": "t1",
+                    "type": "DURATION"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 43,
+                  "originalText": "days",
+                  "normalizedNER": "P2D",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DURATION",
+                  "index": 8,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ]
+          ],
+          "score": 1.0,
+          "text": "clears Clinton in email review two days"
+        }
+      ]
+    }
+  },
+  "description": "By Alana Wise and Mark Hosenball WASHINGTON, Nov 6 (Reuters) - The FBI said on Sunday it stood by its earlier finding that no criminal charges were warranted...",
+  "text": "FBI clears Clinton in email review two days before election By Alana Wise and Mark Hosenball WASHINGTON, Nov 6 (Reuters) - The FBI said on Sunday it stood by its earlier finding that no criminal charges were warranted against Democrat Hillary Clinton for using a private email server for government work, lifting a cloud over her presidential campaign two days before the U.S. election. FBI Director James Comey made the announcement in a letter to Congress, saying the agency had worked \"around the clock\" to complete its review of newly discovered emails and found no reason to change its July finding. \"During that process, we reviewed all of the communications that were to or from Hillary Clinton while she was secretary of state,\" Comey said. \"Based on our review, we have not changed our conclusions that we expressed in July.\" A law enforcement source told Reuters the decision closed the FBI probe of Clinton's email practices. Comey informed Congress of the newly discovered emails more than a week ago, throwing the race for the White House into turmoil and helping to erode Clinton's lead over Republican candidate Donald Trump in the final stretch before Tuesday's vote. \"We're glad this issue is resolved but for the record, this could easily have been learned before 1st letter was sent,\" Clinton spokesman Brian Fallon wrote on Twitter. At a rally in Michigan, Trump questioned the thoroughness of the FBI review and said he was confident the issue would not go away. \"The investigation will go on, the rank-and-file special agents won't let her get away with her terrible crimes,\" he told supporters in Sterling Heights, Michigan. Clinton did not mention the FBI email decision during campaign appearances in Ohio and New Hampshire. U.S. stock index futures rose more than 1 percent after the FBI announcement, suggesting Wall Street was poised to end its longest skid in more than three decades. The U.S. dollar also jumped in Asian trading against the yen, euro and Swiss franc. U.S. Treasury futures dropped and Tokyo's Nikkei share average opened up 1.31 percent. Global financial markets slipped last week as opinion polls showed the presidential race tightening. DEMOCRATS NOT LETTING COMEY OFF HOOK The latest emails were discovered as part of a separate probe of former Democratic U.S. Representative Anthony Weiner, the estranged husband of Clinton aide Huma Abedin. Weiner is the target of an FBI investigation into illicit text messages he allegedly sent to a 15-year-old girl in North Carolina. Federal investigators got a warrant to examine the emails to see if they were related to the probe into Clinton's private server. Democrats reacted angrily to Comey's intrusion into the race and demanded quick action in examining the emails. \"I am very grateful to the professionals at the FBI for doing an extraordinary amount of high-quality work in a short period of time,\" Comey said on Sunday. But Democrats did not let Comey and the FBI off the hook. U.S. Senator Dianne Feinstein of California said Sunday's announcement made Comey's earlier letter \"even more troubling\" and called for the Justice Department to review its procedures to prevent similar actions to influence future elections. \"By confirming that the new emails were meaningless, today's letter underscores the irresponsibility of Director Comey's original letter,\" Senate Democratic leader Harry Reid said. Republicans kept up their criticism of Clinton despite Comey's announcement. \"She simply believes she's above the law and always plays by her own rules,\" House of Representatives Speaker Paul Ryan said in a statement, arguing that Clinton's use of a private email server \"compromised our national security.\" Republican National Committee Chairman Reince Preibus said that while the probe had not led to criminal charges, it produced evidence that Clinton broke the law and \"repeatedly lied to the American people about her reckless conduct.\" News of the renewed probe had appeared to fuel a recent slide in Clinton's poll numbers. The latest Reuters/Ipsos poll showed Clinton with a 5 percentage point lead over the New York businessman nationally - 44 percent to 39 percent support - while races in the swing states of Florida and North Carolina shifted from favoring Clinton to being too close to call . The Reuters/Ipsos States of the Nation project estimates that Clinton has a 90 percent chance of winning the election .",
+  "parsingError": "true",
+  "publisher": "dailymail",
+  "originalFilename": "dailymail-13",
+  "date_publish": "2016-11-07 02:36:29",
+  "dId": "53c22d3ddc477d1356ac73ccf81ece5c3b9323948ade4f446864d135"
+}

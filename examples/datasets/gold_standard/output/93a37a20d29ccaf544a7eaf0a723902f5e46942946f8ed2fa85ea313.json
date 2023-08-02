@@ -1,0 +1,268 @@
+{
+  "originalFilename": "usatoday-3",
+  "category": "f1",
+  "publisher": "usatoday",
+  "url": "http://www.usatoday.com/story/sports/motor/formula1/2016/11/13/brazils-massa-crashes-but-gets-warm-farewell-at-home-gp/93771246/",
+  "mimeType": "text/xml",
+  "filename": "93a37a20d29ccaf544a7eaf0a723902f5e46942946f8ed2fa85ea313",
+  "title": "Brazil's Massa crashes but gets warm farewell at home GP",
+  "dId": "93a37a20d29ccaf544a7eaf0a723902f5e46942946f8ed2fa85ea313",
+  "fiveWoneH": {
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "gets warm farewell"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "crashes"
+        }
+      ],
+      "label": "what"
+    },
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "due to car problems"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "race",
+                  "index": 15,
+                  "lemma": "race",
+                  "characterOffsetBegin": 131,
+                  "pos": "NN",
+                  "originalText": "race",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 135,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "due",
+                  "index": 16,
+                  "lemma": "due",
+                  "characterOffsetBegin": 136,
+                  "pos": "JJ",
+                  "originalText": "due",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 139,
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "to",
+                  "index": 17,
+                  "lemma": "to",
+                  "characterOffsetBegin": 140,
+                  "pos": "TO",
+                  "originalText": "to",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 142,
+                  "speaker": "PER0"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "car",
+                  "index": 18,
+                  "lemma": "car",
+                  "characterOffsetBegin": 143,
+                  "pos": "NN",
+                  "originalText": "car",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 146,
+                  "speaker": "PER0"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "problems",
+                  "index": 19,
+                  "lemma": "problem",
+                  "characterOffsetBegin": 147,
+                  "pos": "NNS",
+                  "originalText": "problems",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 155,
+                  "speaker": "PER0"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "during",
+                  "index": 20,
+                  "lemma": "during",
+                  "characterOffsetBegin": 156,
+                  "pos": "IN",
+                  "originalText": "during",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 162,
+                  "speaker": "PER0"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "the",
+                  "index": 21,
+                  "lemma": "the",
+                  "characterOffsetBegin": 163,
+                  "pos": "DT",
+                  "originalText": "the",
+                  "ner": "O",
+                  "after": " ",
+                  "characterOffsetEnd": 166,
+                  "speaker": "PER0"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Brazilian",
+                  "index": 22,
+                  "lemma": "brazilian",
+                  "characterOffsetBegin": 167,
+                  "pos": "JJ",
+                  "originalText": "Brazilian",
+                  "ner": "MISC",
+                  "after": " ",
+                  "characterOffsetEnd": 176,
+                  "speaker": "PER0"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "before": " ",
+                  "word": "Formula",
+                  "index": 23,
+                  "lemma": "Formula",
+                  "characterOffsetBegin": 177,
+                  "pos": "NNP",
+                  "originalText": "Formula",
+                  "ner": "MISC",
+                  "after": " ",
+                  "characterOffsetEnd": 184,
+                  "speaker": "PER0"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 24,
+                  "pos": "CD",
+                  "originalText": "One",
+                  "ner": "NUMBER",
+                  "after": " ",
+                  "characterOffsetEnd": 188,
+                  "before": " ",
+                  "word": "One",
+                  "characterOffsetBegin": 185,
+                  "normalizedNER": "1.0",
+                  "lemma": "one",
+                  "speaker": "PER0"
+                }
+              },
+              "CD"
+            ]
+          ],
+          "score": 0.782608695652174,
+          "text": "race due to car problems during the Brazilian Formula One",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Sunday, Nov. 13, 2016"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "car problems"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "failed to finish his last race"
+        }
+      ],
+      "label": "why"
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Felipe Massa"
+        }
+      ],
+      "label": "who"
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "Sao Paulo, Brazil"
+        }
+      ],
+      "label": "where"
+    }
+  },
+  "description": "Williams' veteran driver Felipe Massa failed to finish his last race in front of his home crowd at Interlagos on Sunday, but he still earned a warm and emotional goodbye",
+  "parsingError": "true",
+  "text": "Williams' Felipe Massa of Brazil cries after he had to withdraw from the race due to car problems during the Brazilian Formula One Grand Prix at the Interlagos race track in Sao Paulo, Brazil, Sunday, Nov. 13, 2016. (Paulo Whitaker/Pool via AP) (Photo: The Associated Press) SAO PAULO (AP) -- Williams' veteran driver Felipe Massa failed to finish his last race in front of his home crowd at Interlagos on Sunday, but he still earned a warm and emotional goodbye. In a Brazilian Grand Prix deeply impacted by rain, Massa crashed out in the 48th of 71 laps when he was in 14th position. In tears, the 35-year-old driver walked through the pit lane wrapped in a Brazilian flag and was greeted by his wife Anna Raffaela, his son Felipinho, a rowdy local crowd and members of all teams. \"I am leaving with my head up and my heart still aching,\" Massa told reporters by the pit lane. \"I apologize to this crowd, this is not the result that I expected here. I can only thank them for the love, for all the emotions that I felt.\" The Brazilian driver also said he expects to be part of a different racing series next year, without providing further details. Massa has 11 Grand Prix career wins, including two in Brazil. Two weeks from now, he will make his final appearance in a Formula 1 car at the season-finisher in Abu Dhabi, after reaching his 250th start. Massa's F1 career began in 2002 as a member of Sauber. He shone at Ferrari, the team that gave him his best chance at the title race in 2008. At a Brazilian GP that he won, Massa lost the crown to Lewis Hamilton after the British driver made a key overtake on the very last lap. One year later Massa's life was put at serious risk after he was struck on the head by a wheel at the Hungarian Grand Prix. He stayed in the hospital for days. Massa joined Williams in 2014. In the current season he is 11th with 51 points. With his retirement and the difficulties for Felipe Nasr of Sauber to renew his contract, there is a chance that no Brazilian drivers will be on the grid in 2017. That would be the first time in 48 years. There are no other Brazilian drivers in Europe being considered for a place at the moment. Sunday's race was won by three-time series champion Hamilton, forcing a showdown for the season title with Mercedes teammate Nico Rosberg in Abu Dhabi. Copyright 2016 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.",
+  "date_publish": "2016-11-13 21:09:21"
+}

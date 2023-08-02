@@ -1,0 +1,662 @@
+{
+  "category": "trump and obama",
+  "dId": "1e582ad25294607005ccb6d7abe2806c90b39eec91baeb1082072c81",
+  "date_publish": "2016-11-10 15:43:00",
+  "description": "DONALD Trump has hailed Barack Obama as a 'very fine man' after holding awkward talks with the outgoing President.",
+  "filename": "1e582ad25294607005ccb6d7abe2806c90b39eec91baeb1082072c81",
+  "fiveWoneH": {
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 1,
+          "text": "lands in "
+        },
+        {
+          "coderPhraseCount": 1,
+          "text": "awkward talks"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "very",
+                  "originalText": "very",
+                  "lemma": "very",
+                  "characterOffsetBegin": 113,
+                  "characterOffsetEnd": 117,
+                  "pos": "RB",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "fine",
+                  "originalText": "fine",
+                  "lemma": "fine",
+                  "characterOffsetBegin": 118,
+                  "characterOffsetEnd": 122,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "man",
+                  "originalText": "man",
+                  "lemma": "man",
+                  "characterOffsetBegin": 123,
+                  "characterOffsetEnd": 126,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "'",
+                  "originalText": "'",
+                  "lemma": "'",
+                  "characterOffsetBegin": 126,
+                  "characterOffsetEnd": 127,
+                  "pos": "''",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              "''"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": "after",
+                  "originalText": "after",
+                  "lemma": "after",
+                  "characterOffsetBegin": 128,
+                  "characterOffsetEnd": 133,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 15,
+                  "word": "holding",
+                  "originalText": "holding",
+                  "lemma": "hold",
+                  "characterOffsetBegin": 134,
+                  "characterOffsetEnd": 141,
+                  "pos": "VBG",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBG"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 16,
+                  "word": "awkward",
+                  "originalText": "awkward",
+                  "lemma": "awkward",
+                  "characterOffsetBegin": 142,
+                  "characterOffsetEnd": 149,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 17,
+                  "word": "talks",
+                  "originalText": "talks",
+                  "lemma": "talk",
+                  "characterOffsetBegin": 150,
+                  "characterOffsetEnd": 155,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 18,
+                  "word": "with",
+                  "originalText": "with",
+                  "lemma": "with",
+                  "characterOffsetBegin": 156,
+                  "characterOffsetEnd": 160,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 19,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 161,
+                  "characterOffsetEnd": 164,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ]
+          ],
+          "score": 1.0,
+          "text": "very fine man ' after holding awkward talks with the",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "lands in Washington"
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 3,
+                  "word": "has",
+                  "originalText": "has",
+                  "lemma": "have",
+                  "characterOffsetBegin": 83,
+                  "characterOffsetEnd": 86,
+                  "pos": "VBZ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 4,
+                  "word": "hailed",
+                  "originalText": "hailed",
+                  "lemma": "hail",
+                  "characterOffsetBegin": 87,
+                  "characterOffsetEnd": 93,
+                  "pos": "VBN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "Barack",
+                  "originalText": "Barack",
+                  "lemma": "Barack",
+                  "characterOffsetBegin": 94,
+                  "characterOffsetEnd": 100,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "Obama",
+                  "originalText": "Obama",
+                  "lemma": "Obama",
+                  "characterOffsetBegin": 101,
+                  "characterOffsetEnd": 106,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "has hailed Barack Obama",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "parsed": "2016-11-10",
+          "text": "this afternoon"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 49,
+                  "word": "yesterday",
+                  "originalText": "yesterday",
+                  "lemma": "yesterday",
+                  "characterOffsetBegin": 2323,
+                  "characterOffsetEnd": 2332,
+                  "pos": "NN",
+                  "ner": "TIME",
+                  "normalizedNER": "2016-11-09T03:00",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t10",
+                    "type": "TIME",
+                    "value": "2016-11-09T03:00"
+                  }
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 0.7809098914513459,
+          "text": "yesterday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-09T03:00:00",
+              "end_date": "2016-11-09T03:00:59"
+            }
+          },
+          "nlpIndexSentence": 16
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "White House"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "Washington"
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "White",
+                  "originalText": "White",
+                  "lemma": "White",
+                  "characterOffsetBegin": 57,
+                  "characterOffsetEnd": 62,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "House",
+                  "originalText": "House",
+                  "lemma": "House",
+                  "characterOffsetBegin": 63,
+                  "characterOffsetEnd": 68,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6964375816737748,
+          "text": "White House",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "238241022",
+              "osm_type": "way",
+              "display_name": "White House, 1600, Pennsylvania Avenue Northwest, Golden Triangle, Washington, District of Columbia, 20500, United States of America",
+              "lon": "-77.0365534886228",
+              "lat": "38.8976998",
+              "boundingbox": [
+                38.8974898,
+                38.897911,
+                -77.0368542,
+                -77.0362526
+              ],
+              "place_id": "127954863",
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "type": "government",
+              "importance": 0.3519189346824,
+              "class": "office"
+            }
+          }
+        }
+      ]
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "text": "Donald Trump"
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 1,
+                  "word": "DONALD",
+                  "originalText": "DONALD",
+                  "lemma": "DONALD",
+                  "characterOffsetBegin": 70,
+                  "characterOffsetEnd": 76,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 2,
+                  "word": "Trump",
+                  "originalText": "Trump",
+                  "lemma": "Trump",
+                  "characterOffsetBegin": 77,
+                  "characterOffsetEnd": 82,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 1.0,
+          "text": "DONALD Trump",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "to meet Barack Obama at White House"
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 1,
+                  "word": "The",
+                  "originalText": "The",
+                  "lemma": "the",
+                  "characterOffsetBegin": 186,
+                  "characterOffsetEnd": 189,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 2,
+                  "word": "meeting",
+                  "originalText": "meeting",
+                  "lemma": "meeting",
+                  "characterOffsetBegin": 190,
+                  "characterOffsetEnd": 197,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 3,
+                  "word": "at",
+                  "originalText": "at",
+                  "lemma": "at",
+                  "characterOffsetBegin": 198,
+                  "characterOffsetEnd": 200,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 4,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 201,
+                  "characterOffsetEnd": 204,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "White",
+                  "originalText": "White",
+                  "lemma": "White",
+                  "characterOffsetBegin": 205,
+                  "characterOffsetEnd": 210,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "House",
+                  "originalText": "House",
+                  "lemma": "House",
+                  "characterOffsetBegin": 211,
+                  "characterOffsetEnd": 216,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 7,
+                  "word": "this",
+                  "originalText": "this",
+                  "lemma": "this",
+                  "characterOffsetBegin": 217,
+                  "characterOffsetEnd": 221,
+                  "pos": "DT",
+                  "ner": "TIME",
+                  "normalizedNER": "2016-11-10TAF",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t1",
+                    "type": "TIME",
+                    "value": "2016-11-10TAF"
+                  }
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": "afternoon",
+                  "originalText": "afternoon",
+                  "lemma": "afternoon",
+                  "characterOffsetBegin": 222,
+                  "characterOffsetEnd": 231,
+                  "pos": "NN",
+                  "ner": "TIME",
+                  "normalizedNER": "2016-11-10TAF",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t1",
+                    "type": "TIME",
+                    "value": "2016-11-10TAF"
+                  }
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 0.5115753811405985,
+          "text": "The meeting at the White House this afternoon",
+          "nlpIndexSentence": 3
+        }
+      ]
+    }
+  },
+  "mimeType": "text/xml",
+  "originalFilename": "express-5",
+  "parsingError": "true",
+  "publisher": "express",
+  "text": "The meeting at the White House this afternoon was the first public step in a transition of power since his stunning US election win. Mr Trump claimed it was a \"great honour\" to meet with Mr Obama, who has he previously branded \"the worst President in the history of our country\". But he appeared solemn as he gave the pair gave a joint press conference at the Oval Office, before reluctantly shaking hands with Mr Obama. The President-elect said: \"He is a very fine man. We discussed a lot of different situations, some wonderful and some difficulties. \"I very much look forward to dealing with the President in the future, including counsel.\" And Mr Obama called the meeting \"excellent\", saying he was \"very encouraged\" by Mr Trump's willingness to work with his team. GETTY*EPA Donald Trump meets President Barack Obama in the Oval Office Anti-Trump protests erupt worldwide Wed, November 30, 2016 Trump win sparks riots across US as crowds burn American flag and chant 'Not our president' Play slideshow REUTERS 1 of 31 Supporters of the GETTY The President-elected insisted Obama is a 'very fine man' Mr Trump has pledged to overturn the Democrat's signature policy achievements, including Obamacare, after he takes office in January. Mr Obama campaigned vigorously for Hillary Clinton during the election campaign and said Mr Trump was \"unfit\" to become President. Speaking at a press conference this summer, he said: \"He's woefully unprepared to do this job.\" GETTY Trump has pledged to overturn Obamacare after he takes office Mr Trump's private plane, emblazoned with his surname on the side, landed at Washington's Reagan National Airport at 3:30pm GMT. And his motorcade took a South Lawn entrance into the White House, out of view of television cameras, at 4:15pm GMT. First Lady Michelle Obama also met privately with Trump's wife, Melania, in the White House residence. GETTY Obama campaigned vigorously for close ally Hillary Clinton Donald Trump in numbers Wed, November 9, 2016 A look at some numbers that define Donald Trump Play slideshow 1 of 10 AFP Outgoing Obama spoke of the need for a 'smooth transition' Mr Obama yesterday admitted he has some \"pretty significant differences\" with the outspoken President-elect and property mogul. But he insisted he would follow the lead of former Republican President George W. Bush in 2008 and ensure a smooth handover to Mr Trump. He said: \"President Bush's team could not have been more professional or more gracious in making sure we had a smooth transition.\" GETTY Trump will meet with House speaker Paul Ryan this evening \"So I have instructed my team to follow the example that President Bush's team set.\" Later today, Mr Trump will hold separate meetings with the Republican leaders in Congress, Paul Ryan and Mitch McConnell. Mr Trump and Mr Ryan will \"discuss how they can hit the ground running in a Trump administration\" at the meeting, according to a Republican source. REUTERS Trump looking out on Capitol Hill with Ryan and wife Melania GETTY The trio hold a press conference after the photo opportunity",
+  "title": "Donald Trump lands in Washington to meet Barack Obama at White House",
+  "url": "http://www.express.co.uk/news/world/730940/Donald-Trump-Barack-Obama-White-House-Washington-US-election-2016"
+}

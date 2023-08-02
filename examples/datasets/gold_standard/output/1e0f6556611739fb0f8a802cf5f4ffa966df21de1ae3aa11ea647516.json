@@ -1,0 +1,986 @@
+{
+  "category": "clinton clear",
+  "dId": "1e0f6556611739fb0f8a802cf5f4ffa966df21de1ae3aa11ea647516",
+  "date_publish": "2016-11-06 00:00:00",
+  "description": "\"Never mind,\" the FBI director says on Clinton's emails.",
+  "filename": "1e0f6556611739fb0f8a802cf5f4ffa966df21de1ae3aa11ea647516",
+  "fiveWoneH": {
+    "how": {
+      "annotated": [
+        {
+          "coderPhraseCount": 1,
+          "text": "vague note"
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "ignore",
+                  "originalText": "ignore",
+                  "lemma": "ignore",
+                  "characterOffsetBegin": 335,
+                  "characterOffsetEnd": 341,
+                  "pos": "VB",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "inadmissible",
+                  "originalText": "inadmissible",
+                  "lemma": "inadmissible",
+                  "characterOffsetBegin": 342,
+                  "characterOffsetEnd": 354,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "testimony",
+                  "originalText": "testimony",
+                  "lemma": "testimony",
+                  "characterOffsetBegin": 355,
+                  "characterOffsetEnd": 364,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "after",
+                  "originalText": "after",
+                  "lemma": "after",
+                  "characterOffsetBegin": 365,
+                  "characterOffsetEnd": 370,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "it",
+                  "originalText": "it",
+                  "lemma": "it",
+                  "characterOffsetBegin": 371,
+                  "characterOffsetEnd": 373,
+                  "pos": "PRP",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "PRP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": "has",
+                  "originalText": "has",
+                  "lemma": "have",
+                  "characterOffsetBegin": 374,
+                  "characterOffsetEnd": 377,
+                  "pos": "VBZ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 15,
+                  "word": "already",
+                  "originalText": "already",
+                  "lemma": "already",
+                  "characterOffsetBegin": 378,
+                  "characterOffsetEnd": 385,
+                  "pos": "RB",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 16,
+                  "word": "been",
+                  "originalText": "been",
+                  "lemma": "be",
+                  "characterOffsetBegin": 386,
+                  "characterOffsetEnd": 390,
+                  "pos": "VBN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 17,
+                  "word": "offered",
+                  "originalText": "offered",
+                  "lemma": "offer",
+                  "characterOffsetBegin": 391,
+                  "characterOffsetEnd": 398,
+                  "pos": "VBN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 18,
+                  "word": "in",
+                  "originalText": "in",
+                  "lemma": "in",
+                  "characterOffsetBegin": 399,
+                  "characterOffsetEnd": 401,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "ignore inadmissible testimony after it has already been offered in",
+          "nlpIndexSentence": 4
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "Clinton's emails"
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 7,
+                  "word": "will",
+                  "originalText": "will",
+                  "lemma": "will",
+                  "characterOffsetBegin": 27,
+                  "characterOffsetEnd": 31,
+                  "pos": "MD",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "MD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": "disregard",
+                  "originalText": "disregard",
+                  "lemma": "disregard",
+                  "characterOffsetBegin": 32,
+                  "characterOffsetEnd": 41,
+                  "pos": "VB",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "...",
+                  "originalText": "....",
+                  "lemma": "...",
+                  "characterOffsetBegin": 41,
+                  "characterOffsetEnd": 45,
+                  "pos": ":",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              ":"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "``",
+                  "originalText": "\"",
+                  "lemma": "``",
+                  "characterOffsetBegin": 46,
+                  "characterOffsetEnd": 47,
+                  "pos": "``",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "``"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "Never",
+                  "originalText": "Never",
+                  "lemma": "never",
+                  "characterOffsetBegin": 47,
+                  "characterOffsetEnd": 52,
+                  "pos": "RB",
+                  "ner": "O",
+                  "speaker": "4",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "mind",
+                  "originalText": "mind",
+                  "lemma": "mind",
+                  "characterOffsetBegin": 53,
+                  "characterOffsetEnd": 57,
+                  "pos": "VB",
+                  "ner": "O",
+                  "speaker": "4",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "VB"
+            ]
+          ],
+          "score": 1.0,
+          "text": "will disregard .... \" Never mind"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-07",
+          "text": "Sunday"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "Sunday",
+                  "originalText": "Sunday",
+                  "lemma": "Sunday",
+                  "characterOffsetBegin": 615,
+                  "characterOffsetEnd": 621,
+                  "pos": "NNP",
+                  "ner": "DATE",
+                  "normalizedNER": "2016-11-06",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t1",
+                    "type": "DATE",
+                    "value": "2016-11-06"
+                  }
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.8414648253413154,
+          "text": "Sunday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2016-11-06T00:00:00",
+              "end_date": "2016-11-06T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 7
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 3,
+                  "word": "Pennsylvania",
+                  "originalText": "Pennsylvania",
+                  "lemma": "Pennsylvania",
+                  "characterOffsetBegin": 1514,
+                  "characterOffsetEnd": 1526,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 4,
+                  "word": "and",
+                  "originalText": "and",
+                  "lemma": "and",
+                  "characterOffsetBegin": 1527,
+                  "characterOffsetEnd": 1530,
+                  "pos": "CC",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "Ohio",
+                  "originalText": "Ohio",
+                  "lemma": "Ohio",
+                  "characterOffsetBegin": 1531,
+                  "characterOffsetEnd": 1535,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6909529495656767,
+          "text": "Pennsylvania and Ohio",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "54362083",
+              "osm_type": "way",
+              "display_name": "Ohio River Boulevard, Marshall-Shadeland, PGH, Allegheny County, Pennsylvania, 15233, United States of America",
+              "lon": "-80.0328922",
+              "lat": "40.4644947",
+              "boundingbox": [
+                40.462795,
+                40.4663735,
+                -80.0343928,
+                -80.0316835
+              ],
+              "place_id": "83023466",
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "type": "motorway",
+              "importance": 0.335,
+              "class": "highway"
+            }
+          },
+          "nlpIndexSentence": 14
+        }
+      ]
+    },
+    "who": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "James B. Comey"
+        },
+        {
+          "coderPhraseCount": 2,
+          "text": "Clinton"
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "The",
+                  "originalText": "The",
+                  "lemma": "the",
+                  "characterOffsetBegin": 18,
+                  "characterOffsetEnd": 21,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "jury",
+                  "originalText": "jury",
+                  "lemma": "jury",
+                  "characterOffsetBegin": 22,
+                  "characterOffsetEnd": 26,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "The jury"
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 2,
+          "text": "the new email cache may have nothing of relevance in it"
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 47,
+                  "word": "because",
+                  "originalText": "because",
+                  "lemma": "because",
+                  "characterOffsetBegin": 2821,
+                  "characterOffsetEnd": 2828,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 48,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 2829,
+                  "characterOffsetEnd": 2831,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 49,
+                  "word": "Trump",
+                  "originalText": "Trump",
+                  "lemma": "Trump",
+                  "characterOffsetBegin": 2832,
+                  "characterOffsetEnd": 2837,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 50,
+                  "word": "and",
+                  "originalText": "and",
+                  "lemma": "and",
+                  "characterOffsetBegin": 2838,
+                  "characterOffsetEnd": 2841,
+                  "pos": "CC",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 51,
+                  "word": "his",
+                  "originalText": "his",
+                  "lemma": "he",
+                  "characterOffsetBegin": 2842,
+                  "characterOffsetEnd": 2845,
+                  "pos": "PRP$",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "PRP$"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 52,
+                  "word": "propagandists",
+                  "originalText": "propagandists",
+                  "lemma": "propagandist",
+                  "characterOffsetBegin": 2846,
+                  "characterOffsetEnd": 2859,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 53,
+                  "word": ",",
+                  "originalText": ",",
+                  "lemma": ",",
+                  "characterOffsetBegin": 2859,
+                  "characterOffsetEnd": 2860,
+                  "pos": ",",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 54,
+                  "word": "whether",
+                  "originalText": "whether",
+                  "lemma": "whether",
+                  "characterOffsetBegin": 2861,
+                  "characterOffsetEnd": 2868,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 55,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 2869,
+                  "characterOffsetEnd": 2872,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 56,
+                  "word": "FBI",
+                  "originalText": "FBI",
+                  "lemma": "FBI",
+                  "characterOffsetBegin": 2873,
+                  "characterOffsetEnd": 2876,
+                  "pos": "NNP",
+                  "ner": "ORGANIZATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 57,
+                  "word": "director",
+                  "originalText": "director",
+                  "lemma": "director",
+                  "characterOffsetBegin": 2877,
+                  "characterOffsetEnd": 2885,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 58,
+                  "word": "is",
+                  "originalText": "is",
+                  "lemma": "be",
+                  "characterOffsetBegin": 2886,
+                  "characterOffsetEnd": 2888,
+                  "pos": "VBZ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBZ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 59,
+                  "word": "part",
+                  "originalText": "part",
+                  "lemma": "part",
+                  "characterOffsetBegin": 2889,
+                  "characterOffsetEnd": 2893,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 60,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 2894,
+                  "characterOffsetEnd": 2896,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 61,
+                  "word": "a",
+                  "originalText": "a",
+                  "lemma": "a",
+                  "characterOffsetBegin": 2897,
+                  "characterOffsetEnd": 2898,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 62,
+                  "word": "conspiracy",
+                  "originalText": "conspiracy",
+                  "lemma": "conspiracy",
+                  "characterOffsetBegin": 2899,
+                  "characterOffsetEnd": 2909,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 63,
+                  "word": "to",
+                  "originalText": "to",
+                  "lemma": "to",
+                  "characterOffsetBegin": 2910,
+                  "characterOffsetEnd": 2912,
+                  "pos": "TO",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 64,
+                  "word": "rig",
+                  "originalText": "rig",
+                  "lemma": "rig",
+                  "characterOffsetBegin": 2913,
+                  "characterOffsetEnd": 2916,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 65,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 2917,
+                  "characterOffsetEnd": 2920,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 66,
+                  "word": "system",
+                  "originalText": "system",
+                  "lemma": "system",
+                  "characterOffsetBegin": 2921,
+                  "characterOffsetEnd": 2927,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 67,
+                  "word": "to",
+                  "originalText": "to",
+                  "lemma": "to",
+                  "characterOffsetBegin": 2928,
+                  "characterOffsetEnd": 2930,
+                  "pos": "TO",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 68,
+                  "word": "help",
+                  "originalText": "help",
+                  "lemma": "help",
+                  "characterOffsetBegin": 2931,
+                  "characterOffsetEnd": 2935,
+                  "pos": "VB",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 69,
+                  "word": "Clinton",
+                  "originalText": "Clinton",
+                  "lemma": "Clinton",
+                  "characterOffsetBegin": 2936,
+                  "characterOffsetEnd": 2943,
+                  "pos": "NNP",
+                  "ner": "PERSON",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 70,
+                  "word": ".",
+                  "originalText": ".",
+                  "lemma": ".",
+                  "characterOffsetBegin": 2943,
+                  "characterOffsetEnd": 2944,
+                  "pos": ".",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.6489795918367347,
+          "text": "because of Trump and his propagandists , whether the FBI director is part of a conspiracy to rig the system to help Clinton .",
+          "nlpIndexSentence": 22
+        }
+      ]
+    }
+  },
+  "mimeType": "text/xml",
+  "originalFilename": "washingtonpost-5",
+  "parsingError": "true",
+  "publisher": "washingtonpost",
+  "text": "FBI Director James B. Comey. (MICHAEL REYNOLDS/European Pressphoto Agency) If you have ever watched a procedural crime drama, you probably recognize the words, \"the jury will disregard.\" It is the instruction judges give jurors to ignore inadmissible testimony after it has already been offered in open court. Of course the jury, composed of human beings, cannot forget what it has already heard -- even if they try. The integrity of the proceedings have already been damaged. Director James B. Comey announced Sunday that the FBI's sweep through a fresh cache of emails related to Hillary Clinton's private server found ... nothing big -- the agency concluded once again that the Democratic nominee does not deserve to be charged with a crime. The news comes a little over a week after he revealed that the FBI had found the email cache -- and said little else. In the intervening time, Donald Trump and other top Republicans insisted Comey had obviously found something damning. Headlines about the FBI reopening its probe against Clinton swirled. Leaks from within the FBI muddied the political waters further. Yet the speed with which the FBI reviewed the material that produced this explosion of speculation suggests it must have been irrelevant or copies of emails previously reviewed. In other words, Comey is now asking the voters to disregard the fog of suspicion he created around Clinton. Voters in Pennsylvania and Ohio weigh in on FBI Director James Comey's decision to send a letter to members of Congress informing them that newly discovered emails were either duplicates or personal emails that were not related to government business from Hillary Clinton's time as secretary of state. (Peter Stevenson,Erin Patrick O'Connor,Whitney Leaming/The Washington Post) It's too late. Millions of voters cast ballots over the last week. Many others have no doubt spent the time conceptualizing the race as one between a crook and a crazy man. It turns out that the race is in fact between a relatively conventional politician who has been for decades accused of grand crimes, and a dangerous man who has substantiated many of the alarming claims made about him. For his part, over the past week Trump has run a markedly more restrained, competent campaign. No matter what else it did, Comey reopening the email issue appears to have reinvigorated Trump's once-flagging effort. From here, it is not even clear that Comey's 11th-hour exoneration will help Clinton on Election Day. Though the big story of the race should be that a plainly unqualified man is scarily close to the presidency, the news cycle will spend another day dwelling on Clinton, emails, the roiling emotions in the FBI about the case, and, because of Trump and his propagandists, whether the FBI director is part of a conspiracy to rig the system to help Clinton. Even if Clinton pulls through, as polls suggest is likely, the damage will still be substantial. Republicans have used the Comey affair as pretext to publicly discuss impeaching Clinton, arguing that if it seems as though an indictment is looming, Congress will step in to remove the president. Though no indictment is now coming, Republican politicians have already stoked expectations that they will push for impeachment. Even if they resist doing so, Comey's behavior will become more \"evidence\" that the system is \"rigged,\" fueling the right-wing grievance machine and the coming campaign to declare Clinton's presidency illegitimate. A Clinton first term was always going to be tough, marked by deep political divisions. After Comey's actions, it will be even harder for Republicans to do anything but assail and prosecute Clinton to the extent the legislative branch can -- regardless of what the country actually needs from its leaders. Then there is the already well-documented damage that Comey's behavior and the leaks that followed it did to the image of the FBI as an apolitical law enforcement organization. Comey may have felt boxed in, trapped in a promise he made to Congress to keep lawmakers informed of any developments in the Clinton email investigation. But there is a reason why law enforcement agencies keep out of electoral politics except when absolutely necessary. There is a reason why, when they must say something, they have an obligation to be careful about what they make public and how. Not, as Comey did, dropping a vague note near the end of a hot presidential campaign that insufficiently stressed that the new email cache may have nothing of relevance in it. The damage -- both to the interests of justice and the integrity of our democracy -- can be substantial, wide-ranging and impossible to disregard.",
+  "title": "Comey to country: The jury will disregard...",
+  "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2016/11/06/comey-to-country-the-jury-will-disregard/?utm_term=.914ce12b2617"
+}

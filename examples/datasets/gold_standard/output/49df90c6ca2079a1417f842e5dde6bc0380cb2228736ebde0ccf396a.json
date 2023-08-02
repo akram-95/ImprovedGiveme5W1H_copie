@@ -1,0 +1,1046 @@
+{
+  "filename": "49df90c6ca2079a1417f842e5dde6bc0380cb2228736ebde0ccf396a",
+  "title": "Trump protest march in Seattle marred by shooting",
+  "mimeType": "text/xml",
+  "url": "http://www.dailymail.co.uk/news/article-3922446/Report-shooting-multiple-victims-near-Trump-protest-Seattle-PD.html",
+  "category": "seattle shooting",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "A gunman",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "who",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "A",
+                  "lemma": "a",
+                  "characterOffsetEnd": 1,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "A",
+                  "before": "",
+                  "index": 1,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2,
+                  "word": "gunman",
+                  "lemma": "gunman",
+                  "characterOffsetEnd": 8,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "gunman",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "A gunman"
+        }
+      ]
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Wednesday night",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-09"
+        }
+      ],
+      "label": "when",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 2758,
+                  "word": "march",
+                  "lemma": "march",
+                  "timex": {
+                    "value": "2017-03",
+                    "tid": "t7",
+                    "type": "DATE"
+                  },
+                  "before": " ",
+                  "characterOffsetEnd": 2763,
+                  "originalText": "march",
+                  "normalizedNER": "2017-03",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "DATE",
+                  "index": 3,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 0.22393712680422895,
+          "text": "march",
+          "enhancement": {
+            "timex": {
+              "start_date": "2017-03-01T00:00:00",
+              "end_date": "2017-03-31T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 16
+        }
+      ]
+    },
+    "why": {
+      "annotated": [
+        {
+          "text": "some type of personal argument",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1197,
+                  "word": "because",
+                  "lemma": "because",
+                  "characterOffsetEnd": 1204,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "because",
+                  "before": " ",
+                  "index": 94,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1205,
+                  "word": "they",
+                  "lemma": "they",
+                  "characterOffsetEnd": 1209,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "they",
+                  "before": " ",
+                  "index": 95,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1210,
+                  "word": "had",
+                  "lemma": "have",
+                  "characterOffsetEnd": 1213,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "had",
+                  "before": " ",
+                  "index": 96,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1214,
+                  "word": "been",
+                  "lemma": "be",
+                  "characterOffsetEnd": 1218,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "been",
+                  "before": " ",
+                  "index": 97,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1219,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 1221,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 98,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1222,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 1225,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 99,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1226,
+                  "word": "area",
+                  "lemma": "area",
+                  "characterOffsetEnd": 1230,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "area",
+                  "before": " ",
+                  "index": 100,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1231,
+                  "word": "to",
+                  "lemma": "to",
+                  "characterOffsetEnd": 1233,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "to",
+                  "before": " ",
+                  "index": 101,
+                  "pos": "TO"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1234,
+                  "word": "monitor",
+                  "lemma": "monitor",
+                  "characterOffsetEnd": 1241,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "monitor",
+                  "before": " ",
+                  "index": 102,
+                  "pos": "VB"
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1242,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 1245,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 103,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1246,
+                  "word": "demonstrations",
+                  "lemma": "demonstration",
+                  "characterOffsetEnd": 1260,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "demonstrations",
+                  "before": " ",
+                  "index": 104,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1260,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 1261,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 105,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1262,
+                  "word": "he",
+                  "lemma": "he",
+                  "characterOffsetEnd": 1264,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "he",
+                  "before": " ",
+                  "index": 106,
+                  "pos": "PRP"
+                }
+              },
+              "PRP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1265,
+                  "word": "said",
+                  "lemma": "say",
+                  "characterOffsetEnd": 1269,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "said",
+                  "before": " ",
+                  "index": 107,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1269,
+                  "word": ",",
+                  "lemma": ",",
+                  "characterOffsetEnd": 1270,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ",",
+                  "before": "",
+                  "index": 108,
+                  "pos": ","
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1271,
+                  "word": "but",
+                  "lemma": "but",
+                  "characterOffsetEnd": 1274,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "but",
+                  "before": " ",
+                  "index": 109,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1275,
+                  "word": "did",
+                  "lemma": "do",
+                  "characterOffsetEnd": 1278,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "did",
+                  "before": " ",
+                  "index": 110,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1279,
+                  "word": "not",
+                  "lemma": "not",
+                  "characterOffsetEnd": 1282,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "not",
+                  "before": " ",
+                  "index": 111,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1283,
+                  "word": "arrive",
+                  "lemma": "arrive",
+                  "characterOffsetEnd": 1289,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "arrive",
+                  "before": " ",
+                  "index": 112,
+                  "pos": "VB"
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1290,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 1292,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 113,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1293,
+                  "word": "time",
+                  "lemma": "time",
+                  "characterOffsetEnd": 1297,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "time",
+                  "before": " ",
+                  "index": 114,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1298,
+                  "word": "to",
+                  "lemma": "to",
+                  "characterOffsetEnd": 1300,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "to",
+                  "before": " ",
+                  "index": 115,
+                  "pos": "TO"
+                }
+              },
+              "TO"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1301,
+                  "word": "engage",
+                  "lemma": "engage",
+                  "characterOffsetEnd": 1307,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "engage",
+                  "before": " ",
+                  "index": 116,
+                  "pos": "VB"
+                }
+              },
+              "VB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1308,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 1311,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 117,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1312,
+                  "word": "suspect",
+                  "lemma": "suspect",
+                  "characterOffsetEnd": 1319,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "suspect",
+                  "before": " ",
+                  "index": 118,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 1319,
+                  "word": ".",
+                  "lemma": ".",
+                  "characterOffsetEnd": 1320,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": ".",
+                  "before": "",
+                  "index": 119,
+                  "pos": "."
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.8448773448773449,
+          "text": "because they had been in the area to monitor the demonstrations , he said , but did not arrive in time to engage the suspect .",
+          "nlpIndexSentence": 5
+        }
+      ]
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "near",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "fire",
+          "coderPhraseCount": 0
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 261,
+                  "word": "the",
+                  "lemma": "the",
+                  "characterOffsetEnd": 264,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "the",
+                  "before": " ",
+                  "index": 10,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 265,
+                  "word": "anti-Trump",
+                  "lemma": "anti-trump",
+                  "characterOffsetEnd": 275,
+                  "speaker": "PER0",
+                  "ner": "MISC",
+                  "after": " ",
+                  "originalText": "anti-Trump",
+                  "before": " ",
+                  "index": 11,
+                  "pos": "JJ"
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 276,
+                  "word": "demonstrations",
+                  "lemma": "demonstration",
+                  "characterOffsetEnd": 290,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "demonstrations",
+                  "before": " ",
+                  "index": 12,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 291,
+                  "word": "but",
+                  "lemma": "but",
+                  "characterOffsetEnd": 294,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "but",
+                  "before": " ",
+                  "index": 13,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 295,
+                  "word": "instead",
+                  "lemma": "instead",
+                  "characterOffsetEnd": 302,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "instead",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "RB"
+                }
+              },
+              "RB"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 303,
+                  "word": "stemmed",
+                  "lemma": "stem",
+                  "characterOffsetEnd": 310,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "stemmed",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 311,
+                  "word": "from",
+                  "lemma": "from",
+                  "characterOffsetEnd": 315,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "from",
+                  "before": " ",
+                  "index": 16,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 316,
+                  "word": "`",
+                  "lemma": "`",
+                  "characterOffsetEnd": 317,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": "",
+                  "originalText": "'",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "``"
+                }
+              },
+              "``"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 317,
+                  "word": "some",
+                  "lemma": "some",
+                  "characterOffsetEnd": 321,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "some",
+                  "before": "",
+                  "index": 18,
+                  "pos": "DT"
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 322,
+                  "word": "type",
+                  "lemma": "type",
+                  "characterOffsetEnd": 326,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "type",
+                  "before": " ",
+                  "index": 19,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 1.0,
+          "text": "the anti-Trump demonstrations but instead stemmed from ' some type",
+          "nlpIndexSentence": 1
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "downtown Seattle",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 33,
+                  "word": "Seattle",
+                  "lemma": "Seattle",
+                  "characterOffsetEnd": 40,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "Seattle",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6779857272123321,
+          "text": "Seattle",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "osm_id": "237385",
+              "boundingbox": [
+                47.4810022,
+                47.7341357,
+                -122.459696,
+                -122.224433
+              ],
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+              "importance": 0.2828859963469,
+              "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+              "osm_type": "relation",
+              "display_name": "Seattle, King County, Washington, United States of America",
+              "lat": "47.6038321",
+              "type": "city",
+              "place_id": "178311857",
+              "lon": "-122.3300624",
+              "class": "place"
+            }
+          }
+        }
+      ]
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "opened fire",
+          "coderPhraseCount": 3
+        },
+        {
+          "text": "Trump protest march in Seattle marred by shooting",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "what",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 9,
+                  "word": "opened",
+                  "lemma": "open",
+                  "characterOffsetEnd": 15,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "opened",
+                  "before": " ",
+                  "index": 3,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 16,
+                  "word": "fire",
+                  "lemma": "fire",
+                  "characterOffsetEnd": 20,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "fire",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 21,
+                  "word": "in",
+                  "lemma": "in",
+                  "characterOffsetEnd": 23,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "in",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 24,
+                  "word": "downtown",
+                  "lemma": "downtown",
+                  "characterOffsetEnd": 32,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "downtown",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "NN"
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 33,
+                  "word": "Seattle",
+                  "lemma": "Seattle",
+                  "characterOffsetEnd": 40,
+                  "speaker": "PER0",
+                  "ner": "LOCATION",
+                  "after": " ",
+                  "originalText": "Seattle",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "NNP"
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 82,
+                  "word": "and",
+                  "lemma": "and",
+                  "characterOffsetEnd": 85,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "and",
+                  "before": " ",
+                  "index": 14,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 86,
+                  "word": "wounded",
+                  "lemma": "wound",
+                  "characterOffsetEnd": 93,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "wounded",
+                  "before": " ",
+                  "index": 15,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 94,
+                  "word": "five",
+                  "lemma": "five",
+                  "before": " ",
+                  "characterOffsetEnd": 98,
+                  "originalText": "five",
+                  "normalizedNER": "5.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "NUMBER",
+                  "index": 16,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 99,
+                  "word": "people",
+                  "lemma": "people",
+                  "characterOffsetEnd": 105,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "people",
+                  "before": " ",
+                  "index": 17,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ]
+          ],
+          "score": 1.0,
+          "text": "opened fire in downtown Seattle and wounded five people"
+        }
+      ]
+    }
+  },
+  "description": "The shooting didn't seem to be related to the anti-Trump demonstrations but stemmed from 'some type of personal argument', Seattle police assistant chief Robert Merner said.",
+  "text": "A gunman opened fire in downtown Seattle on Wednesday night following an argument and wounded five people not far from protests over the surprise victory of Republican Donald Trump in the U.S. presidential election. The shooting did not appear to be related to the anti-Trump demonstrations but instead stemmed from 'some type of personal argument', Robert Merner, assistant chief of the Seattle Police Department, told reporters. 'It appears that some type of argument took place. This individual began to walk away from the crowd, then turned and fired into the crowd,' Merner said. He said the suspect then fled from the area on foot and remained at large. A gunman opened fire in downtown Seattle on Wednesday night following an argument and wounded five people not far from protests over the surprise victory of Republican Donald Trump Medics respond to a multiple victim shooting near Third Avenue and Pike Street in Seattle The shooting did not appear to be related to the anti-Trump demonstrations but instead stemmed from 'some type of personal argument', Robert Merner, assistant chief of the Seattle Police Department, said Police and fire crews were on the scene in less than a minute because they had been in the area to monitor the demonstrations, he said, but did not arrive in time to engage the suspect. Police closed down the intersection of Third Avenue and Pine streets, where the shooting took place in front of a 7-11 convenience store. 7-11 manager Sharon Keith told reporters she heard what sounded like firecrackers and told everyone to get down. Keith says she was inside the store Wednesday evening and could see multiple people on the ground outside afterward. 'How do you describe that, there were multiple people down, a lot of blood,' she said. Authorities say a man escaped on foot after firing into a crowd and wounding five people outside a convenience store Sharon Keith, center-left, who works at the 7-11 near where the shooting occurred, cries as she talks to reporters about the shooting Harborview Medical Center spokeswoman Susan Gregg says the condition of several people wounded by gunfire in downtown Seattle has improved from serious to satisfactory condition. Gregg says one woman and two men shot when a gunman opened fire Wednesday evening were improving at the hospital Wednesday night. She says two other men remain in critical, but stable condition in intensive care. The five victims range in age from 20s to 50s and sustained injuries to their legs, chest and neck. Police were still searching for a male gunman. Police watch as people gather in protest to the election of Republican Donald Trump Seattle (pictured) was just one of many cities across the country where protests were staged",
+  "parsingError": "true",
+  "publisher": "dailymail",
+  "originalFilename": "dailymail-7",
+  "date_publish": "2016-11-10 03:37:19",
+  "dId": "49df90c6ca2079a1417f842e5dde6bc0380cb2228736ebde0ccf396a"
+}

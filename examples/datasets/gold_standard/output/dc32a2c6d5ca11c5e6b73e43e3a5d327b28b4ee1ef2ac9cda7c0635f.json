@@ -1,0 +1,269 @@
+{
+  "filename": "dc32a2c6d5ca11c5e6b73e43e3a5d327b28b4ee1ef2ac9cda7c0635f",
+  "title": "Several dead and dozens injured after tram overturns in London",
+  "mimeType": "text/xml",
+  "url": "http://nypost.com/2016/11/09/several-dead-and-dozens-injured-after-tram-overturns-in-london/",
+  "category": "tram",
+  "fiveWoneH": {
+    "who": {
+      "annotated": [
+        {
+          "text": "At least seven people",
+          "coderPhraseCount": 2
+        },
+        {
+          "text": "driver",
+          "coderPhraseCount": 2
+        }
+      ],
+      "label": "who"
+    },
+    "when": {
+      "annotated": [
+        {
+          "text": "Wednesday morning",
+          "coderPhraseCount": 3,
+          "parsed": "2016-11-09"
+        },
+        {
+          "text": "at about 6.15 a.m.",
+          "coderPhraseCount": 2,
+          "parsed": "2016-11-09"
+        }
+      ],
+      "label": "when"
+    },
+    "why": {
+      "annotated": [
+        {
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "why"
+    },
+    "how": {
+      "annotated": [
+        {
+          "text": "derailed and overturned",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "how",
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 0,
+                  "word": "At",
+                  "lemma": "at",
+                  "characterOffsetEnd": 2,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "At",
+                  "before": "",
+                  "index": 1,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 3,
+                  "word": "least",
+                  "lemma": "least",
+                  "characterOffsetEnd": 8,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "least",
+                  "before": " ",
+                  "index": 2,
+                  "pos": "JJS"
+                }
+              },
+              "JJS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 9,
+                  "word": "seven",
+                  "lemma": "seven",
+                  "before": " ",
+                  "characterOffsetEnd": 14,
+                  "originalText": "seven",
+                  "normalizedNER": ">=7.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "NUMBER",
+                  "index": 3,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 15,
+                  "word": "people",
+                  "lemma": "people",
+                  "characterOffsetEnd": 21,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "people",
+                  "before": " ",
+                  "index": 4,
+                  "pos": "NNS"
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 22,
+                  "word": "were",
+                  "lemma": "be",
+                  "characterOffsetEnd": 26,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "were",
+                  "before": " ",
+                  "index": 5,
+                  "pos": "VBD"
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 27,
+                  "word": "killed",
+                  "lemma": "kill",
+                  "characterOffsetEnd": 33,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "killed",
+                  "before": " ",
+                  "index": 6,
+                  "pos": "VBN"
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 34,
+                  "word": "and",
+                  "lemma": "and",
+                  "characterOffsetEnd": 37,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "and",
+                  "before": " ",
+                  "index": 7,
+                  "pos": "CC"
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 38,
+                  "word": "more",
+                  "lemma": "more",
+                  "characterOffsetEnd": 42,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "more",
+                  "before": " ",
+                  "index": 8,
+                  "pos": "JJR"
+                }
+              },
+              "JJR"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 43,
+                  "word": "than",
+                  "lemma": "than",
+                  "characterOffsetEnd": 47,
+                  "speaker": "PER0",
+                  "ner": "O",
+                  "after": " ",
+                  "originalText": "than",
+                  "before": " ",
+                  "index": 9,
+                  "pos": "IN"
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "characterOffsetBegin": 48,
+                  "word": "50",
+                  "lemma": "50",
+                  "before": " ",
+                  "characterOffsetEnd": 50,
+                  "originalText": "50",
+                  "normalizedNER": ">50.0",
+                  "speaker": "PER0",
+                  "after": " ",
+                  "ner": "NUMBER",
+                  "index": 10,
+                  "pos": "CD"
+                }
+              },
+              "CD"
+            ]
+          ],
+          "score": 0.6894021739130435,
+          "text": "At least seven people were killed and more than 50"
+        }
+      ]
+    },
+    "where": {
+      "annotated": [
+        {
+          "text": "Sandilands commuter train stop in Croydon",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "where"
+    },
+    "what": {
+      "annotated": [
+        {
+          "text": "Several dead and dozens injured after tram overturns",
+          "coderPhraseCount": 3
+        }
+      ],
+      "label": "what"
+    }
+  },
+  "description": "At least seven people were killed and more than 50 others were injured when a tram - whose driver was later arrested -- derailed and overturned Wednesday morning in London, according to reports.\n\n\n\nEmergency personnel responded to the accident near the Sandilands commuter train stop in Croydon, a large suburb to the south of the city, The Telegraph reported.\n\n\n\n\"A number of people have been taken to hospital with injuries and sadly we can say there has been some loss of life,\" Assistant Chief Constable Robin Smith from British Transport Police told Reuters.\n\n\n\n\"It is too early for us to confirm numbers but we are working hard to assess the ongoing incident and are continuing to focus on recovery efforts,\" he added.\n\n\n\nLiam Lehane of the London Ambulance Service described many of those hurt as \"walking wounded\" but said others suffered serious injuries.\n\n\n\nThe driver was not yet named, and its unclear why he was arrested.\n\n\n\nThe crowded tram's derailment during the morning rush hour occurred during heavy rain at a point at which the track branches, The Telegraph reported.\n\n\n\nThe cause of the tragedy was being investigated.\n\n\n\n\"I heard a massive crash at about 6.15 a.m., then heard shouting, then the emergency services arrived,\" said resident Hannah Collier, 23. \"They started bringing up the casualties -- some very seriously injured.\"\n\n\n\nOne of the passengers called her husband from the overturned train and told him she \"couldn't get up,\" the Croydon Advertiser reported.\n\n\n\nA 73-year-old man, Roger Smith, who lives near the stop told the Daily Mail that \"the tram comes down a steep hill and then the tracks bear left and right. It has come off the track as if it's carried on down the hill instead of turning.\"\n\n\n\nAnother man who was praying when the accident occurred said he was unaware of the seriousness of the crash at first.\n\n\n\n\"I was praying at around 6:10 a.m. when I heard a loud crash. It sounded like a lorry had smashed into my garage, it was so loud,\" Adil Salahi, 76, told the Mail.\n\n\n\n\"But because I was praying I did not know what had happened. It was not until I heard it on the news at around 8 a.m. that I went to my window and could see the tram,\" he said. \"Trams don't make much noise so this was very unusual at this time of day.\"",
+  "text": "At least seven people were killed and more than 50 others were injured when a tram - whose driver was later arrested -- derailed and overturned Wednesday morning in London, according to reports. Emergency personnel responded to the accident near the Sandilands commuter train stop in Croydon, a large suburb to the south of the city, The Telegraph reported. \"A number of people have been taken to hospital with injuries and sadly we can say there has been some loss of life,\" Assistant Chief Constable Robin Smith from British Transport Police told Reuters. \"It is too early for us to confirm numbers but we are working hard to assess the ongoing incident and are continuing to focus on recovery efforts,\" he added. Liam Lehane of the London Ambulance Service described many of those hurt as \"walking wounded\" but said others suffered serious injuries. The driver was not yet named, and its unclear why he was arrested. The crowded tram's derailment during the morning rush hour occurred during heavy rain at a point at which the track branches, The Telegraph reported. The cause of the tragedy was being investigated. \"I heard a massive crash at about 6.15 a.m., then heard shouting, then the emergency services arrived,\" said resident Hannah Collier, 23. \"They started bringing up the casualties -- some very seriously injured.\" One of the passengers called her husband from the overturned train and told him she \"couldn't get up,\" the Croydon Advertiser reported. A 73-year-old man, Roger Smith, who lives near the stop told the Daily Mail that \"the tram comes down a steep hill and then the tracks bear left and right. It has come off the track as if it's carried on down the hill instead of turning.\" Another man who was praying when the accident occurred said he was unaware of the seriousness of the crash at first. \"I was praying at around 6:10 a.m. when I heard a loud crash. It sounded like a lorry had smashed into my garage, it was so loud,\" Adil Salahi, 76, told the Mail. \"But because I was praying I did not know what had happened. It was not until I heard it on the news at around 8 a.m. that I went to my window and could see the tram,\" he said. \"Trams don't make much noise so this was very unusual at this time of day.\"",
+  "parsingError": "true",
+  "publisher": "nypost",
+  "originalFilename": "nypost-7",
+  "date_publish": "2016-11-09 12:52:29",
+  "dId": "dc32a2c6d5ca11c5e6b73e43e3a5d327b28b4ee1ef2ac9cda7c0635f"
+}
